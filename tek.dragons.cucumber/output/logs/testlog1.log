@@ -1,0 +1,331 @@
+2023-04-13 13:51:37,085 [main] INFO logger_file - React App is equal to React App
+2023-04-13 13:51:37,138 [main] INFO logger_file - logo is present
+2023-04-18 19:41:52,057 [main] INFO logger_file - Tekschool logo is present
+2023-04-18 19:41:52,113 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-18 20:45:19,966 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-04-18 20:45:20,366 [main] INFO logger_file - Playstation: value was entered successfully
+2023-04-18 20:45:20,785 [main] INFO logger_file - Search button was clicked successfully
+2023-04-18 20:45:20,858 [main] INFO logger_file - Item is present
+2023-04-18 20:47:26,405 [main] INFO logger_file - Tekschool logo is present
+2023-04-18 20:47:26,590 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-18 20:47:37,101 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-04-18 20:48:10,105 [main] INFO logger_file - Tekschool logo is present
+2023-04-18 20:48:10,152 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-18 20:48:17,605 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-04-18 20:48:18,137 [main] INFO logger_file - Playstation: value was entered successfully
+2023-04-18 20:48:18,626 [main] INFO logger_file - Search button was clicked successfully
+2023-04-18 20:48:18,688 [main] INFO logger_file - Item is present
+2023-04-18 20:58:05,957 [main] INFO logger_file - Tekschool logo is present
+2023-04-18 20:58:06,022 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-18 20:58:06,643 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-04-18 20:58:06,813 [main] INFO logger_file - Playstation: value was entered successfully
+2023-04-18 20:58:07,143 [main] INFO logger_file - Search button was clicked successfully
+2023-04-18 20:58:07,185 [main] INFO logger_file - Item is present
+2023-04-18 21:14:53,584 [main] INFO logger_file - Tekschool logo is present
+2023-04-18 21:14:53,611 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-18 21:14:53,990 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-04-18 21:14:54,132 [main] INFO logger_file - Playstation: value was entered successfully
+2023-04-18 21:14:54,425 [main] INFO logger_file - Search button was clicked successfully
+2023-04-18 21:14:54,467 [main] INFO logger_file - Item is present
+2023-04-18 21:15:00,902 [main] INFO logger_file - Tekschool logo is present
+2023-04-18 21:15:00,922 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-18 21:15:01,031 [main] INFO logger_file - Shop By Category: is present
+2023-04-18 21:15:48,094 [main] INFO logger_file - Tekschool logo is present
+2023-04-18 21:15:48,185 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-18 21:15:48,836 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-04-18 21:15:48,968 [main] INFO logger_file - Playstation: value was entered successfully
+2023-04-18 21:15:49,257 [main] INFO logger_file - Search button was clicked successfully
+2023-04-18 21:15:49,297 [main] INFO logger_file - Item is present
+2023-04-18 21:15:57,462 [main] INFO logger_file - Tekschool logo is present
+2023-04-18 21:15:57,514 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-18 21:15:57,660 [main] INFO logger_file - Shop By Category: is present
+2023-04-18 21:17:12,684 [main] INFO logger_file - Tekschool logo is present
+2023-04-18 21:17:12,794 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-18 21:17:12,870 [main] INFO logger_file - Shop By Category: is present
+2023-04-20 17:57:14,830 [main] INFO logger_file - Tekschool logo is present
+2023-04-20 17:57:14,843 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-20 17:57:15,244 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-04-20 17:57:15,341 [main] INFO logger_file - Playstation: value was entered successfully
+2023-04-20 17:57:15,610 [main] INFO logger_file - Search button was clicked successfully
+2023-04-20 17:57:15,650 [main] INFO logger_file - Item is present
+2023-04-20 17:57:18,546 [main] INFO logger_file - Tekschool logo is present
+2023-04-20 17:57:18,553 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-20 17:57:18,605 [main] INFO logger_file - Shop By Category: is present
+2023-04-20 18:00:16,170 [main] INFO logger_file - Tekschool logo is present
+2023-04-20 18:00:16,182 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-20 18:00:16,569 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-04-20 18:00:16,669 [main] INFO logger_file - Playstation: value was entered successfully
+2023-04-20 18:00:16,940 [main] INFO logger_file - Search button was clicked successfully
+2023-04-20 18:00:16,964 [main] INFO logger_file - Item is present
+2023-04-20 18:00:19,819 [main] INFO logger_file - Tekschool logo is present
+2023-04-20 18:00:19,827 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-20 18:00:19,894 [main] INFO logger_file - Shop By Category: is present
+2023-04-20 18:01:33,814 [main] INFO logger_file - Tekschool logo is present
+2023-04-20 18:01:33,824 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-20 18:01:37,546 [main] INFO logger_file - Tekschool logo is present
+2023-04-20 18:01:37,555 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-20 18:01:37,605 [main] INFO logger_file - Shop By Category: is present
+2023-04-20 18:02:18,921 [main] INFO logger_file - Tekschool logo is present
+2023-04-20 18:02:18,934 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-20 18:02:19,328 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-04-20 18:02:19,425 [main] INFO logger_file - Playstation: value was entered successfully
+2023-04-20 18:02:19,692 [main] INFO logger_file - Search button was clicked successfully
+2023-04-20 18:02:19,717 [main] INFO logger_file - Item is present
+2023-04-20 18:02:22,676 [main] INFO logger_file - Tekschool logo is present
+2023-04-20 18:02:22,682 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-20 18:02:22,729 [main] INFO logger_file - Shop By Category: is present
+2023-04-21 19:57:38,103 [main] INFO logger_file - Tekschool logo is present
+2023-04-21 19:57:38,120 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-21 19:57:38,527 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-04-21 19:57:38,634 [main] INFO logger_file - Playstation: value was entered successfully
+2023-04-21 19:57:38,908 [main] INFO logger_file - Search button was clicked successfully
+2023-04-21 19:57:38,933 [main] INFO logger_file - Item is present
+2023-04-21 19:57:42,292 [main] INFO logger_file - Tekschool logo is present
+2023-04-21 19:57:42,298 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-21 19:57:42,364 [main] INFO logger_file - Shop By Category: is present
+2023-04-21 20:01:23,930 [main] INFO logger_file - Tekschool logo is present
+2023-04-21 20:01:23,944 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-21 20:01:24,353 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-04-21 20:01:24,453 [main] INFO logger_file - Playstation: value was entered successfully
+2023-04-21 20:01:24,718 [main] INFO logger_file - Search button was clicked successfully
+2023-04-21 20:01:24,741 [main] INFO logger_file - Item is present
+2023-04-21 20:01:27,877 [main] INFO logger_file - Tekschool logo is present
+2023-04-21 20:01:27,902 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-21 20:01:27,942 [main] INFO logger_file - Shop By Category: is present
+2023-04-21 20:02:58,930 [main] INFO logger_file - Tekschool logo is present
+2023-04-21 20:02:58,942 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-21 20:02:59,346 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-04-21 20:02:59,441 [main] INFO logger_file - Playstation: value was entered successfully
+2023-04-21 20:02:59,710 [main] INFO logger_file - Search button was clicked successfully
+2023-04-21 20:02:59,739 [main] INFO logger_file - Item is present
+2023-04-21 20:03:02,744 [main] INFO logger_file - Tekschool logo is present
+2023-04-21 20:03:02,749 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-21 20:03:02,802 [main] INFO logger_file - Shop By Category: is present
+2023-04-22 20:17:09,120 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:17:09,134 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:17:09,195 [main] INFO logger_file - Shop By Category: is present
+2023-04-22 20:17:10,032 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:17:10,043 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:17:10,420 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-04-22 20:17:10,504 [main] INFO logger_file - Playstation: value was entered successfully
+2023-04-22 20:17:10,777 [main] INFO logger_file - Search button was clicked successfully
+2023-04-22 20:17:10,801 [main] INFO logger_file - Item is present
+2023-04-22 20:17:13,788 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:17:13,793 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:17:13,838 [main] INFO logger_file - Shop By Category: is present
+2023-04-22 20:28:09,303 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:28:09,317 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:28:09,711 [main] INFO logger_file - Electronics: Selected from dropdown
+2023-04-22 20:28:09,798 [main] INFO logger_file - Playstation: value was entered successfully
+2023-04-22 20:28:10,063 [main] INFO logger_file - Search button was clicked successfully
+2023-04-22 20:28:10,089 [main] INFO logger_file - Item is present
+2023-04-22 20:28:12,990 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:28:12,995 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:28:13,048 [main] INFO logger_file - Shop By Category: is present
+2023-04-22 20:31:42,282 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:31:42,293 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:31:42,669 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-22 20:31:42,945 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-22 20:31:43,062 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-22 20:31:43,172 [main] INFO logger_file - dragons102@gmail.com: user email was entered successfully
+2023-04-22 20:31:43,229 [main] INFO logger_file - Password was entered successfully
+2023-04-22 20:31:43,274 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-22 20:31:43,535 [main] INFO logger_file - Signup button was clicked successfully
+2023-04-22 20:31:51,534 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:31:51,575 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:31:51,901 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-22 20:31:52,161 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-22 20:31:52,272 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-22 20:31:52,382 [main] INFO logger_file - dragons202@gmail.com: user email was entered successfully
+2023-04-22 20:31:52,430 [main] INFO logger_file - Password was entered successfully
+2023-04-22 20:31:52,475 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-22 20:31:52,729 [main] INFO logger_file - Signup button was clicked successfully
+2023-04-22 20:32:00,724 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:32:00,730 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:32:01,129 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-22 20:32:01,390 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-22 20:32:01,501 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-22 20:32:01,598 [main] INFO logger_file - dragons302@gmail.com: user email was entered successfully
+2023-04-22 20:32:01,648 [main] INFO logger_file - Password was entered successfully
+2023-04-22 20:32:01,689 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-22 20:32:01,936 [main] INFO logger_file - Signup button was clicked successfully
+2023-04-22 20:43:46,832 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:43:46,844 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:43:47,336 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-22 20:43:47,604 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-22 20:43:47,719 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-22 20:43:47,827 [main] INFO logger_file - dragons102@gmail.com: user email was entered successfully
+2023-04-22 20:43:47,880 [main] INFO logger_file - Password was entered successfully
+2023-04-22 20:43:47,925 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-22 20:43:48,195 [main] INFO logger_file - Signup button was clicked successfully
+2023-04-22 20:43:56,524 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:43:56,534 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:43:56,884 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-22 20:43:57,137 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-22 20:43:57,234 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-22 20:43:57,331 [main] INFO logger_file - dragons202@gmail.com: user email was entered successfully
+2023-04-22 20:43:57,381 [main] INFO logger_file - Password was entered successfully
+2023-04-22 20:43:57,427 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-22 20:43:57,680 [main] INFO logger_file - Signup button was clicked successfully
+2023-04-22 20:44:06,636 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:44:06,643 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:44:06,990 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-22 20:44:07,242 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-22 20:44:07,343 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-22 20:44:07,439 [main] INFO logger_file - dragons302@gmail.com: user email was entered successfully
+2023-04-22 20:44:07,487 [main] INFO logger_file - Password was entered successfully
+2023-04-22 20:44:07,525 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-22 20:44:07,773 [main] INFO logger_file - Signup button was clicked successfully
+2023-04-22 20:48:55,880 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:48:55,902 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:48:56,283 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-22 20:48:56,583 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-22 20:48:56,731 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-22 20:48:56,848 [main] INFO logger_file - dragons102@gmail.com: user email was entered successfully
+2023-04-22 20:48:56,912 [main] INFO logger_file - Password was entered successfully
+2023-04-22 20:48:56,964 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-22 20:48:57,249 [main] INFO logger_file - Signup button was clicked successfully
+2023-04-22 20:49:05,419 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:49:05,448 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:49:05,802 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-22 20:49:06,073 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-22 20:49:06,191 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-22 20:49:06,342 [main] INFO logger_file - dragons202@gmail.com: user email was entered successfully
+2023-04-22 20:49:06,396 [main] INFO logger_file - Password was entered successfully
+2023-04-22 20:49:06,450 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-22 20:49:06,780 [main] INFO logger_file - Signup button was clicked successfully
+2023-04-22 20:49:14,881 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:49:14,885 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:49:15,246 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-22 20:49:15,515 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-22 20:49:15,624 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-22 20:49:15,725 [main] INFO logger_file - dragons302@gmail.com: user email was entered successfully
+2023-04-22 20:49:15,783 [main] INFO logger_file - Password was entered successfully
+2023-04-22 20:49:15,826 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-22 20:49:16,089 [main] INFO logger_file - Signup button was clicked successfully
+2023-04-22 20:52:33,556 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:52:33,583 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:52:33,959 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-22 20:52:34,252 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-22 20:52:34,397 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-22 20:52:34,510 [main] INFO logger_file - dragons102@gmail.com: user email was entered successfully
+2023-04-22 20:52:34,571 [main] INFO logger_file - Password was entered successfully
+2023-04-22 20:52:34,625 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-22 20:52:34,916 [main] INFO logger_file - Signup button was clicked successfully
+2023-04-22 20:52:43,191 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:52:43,202 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:52:43,586 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-22 20:52:43,860 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-22 20:52:43,976 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-22 20:52:44,131 [main] INFO logger_file - dragons202@gmail.com: user email was entered successfully
+2023-04-22 20:52:44,186 [main] INFO logger_file - Password was entered successfully
+2023-04-22 20:52:44,235 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-22 20:52:44,551 [main] INFO logger_file - Signup button was clicked successfully
+2023-04-22 20:52:52,604 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:52:52,610 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:52:52,980 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-22 20:52:53,251 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-22 20:52:53,361 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-22 20:52:53,456 [main] INFO logger_file - dragons302@gmail.com: user email was entered successfully
+2023-04-22 20:52:53,514 [main] INFO logger_file - Password was entered successfully
+2023-04-22 20:52:53,560 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-22 20:52:53,817 [main] INFO logger_file - Signup button was clicked successfully
+2023-04-22 20:53:01,921 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:53:01,926 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:53:02,283 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-22 20:53:02,553 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-22 20:53:02,663 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-22 20:53:02,761 [main] INFO logger_file - dragons402@gmail.com: user email was entered successfully
+2023-04-22 20:53:02,812 [main] INFO logger_file - Password was entered successfully
+2023-04-22 20:53:02,852 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-22 20:53:03,120 [main] INFO logger_file - Signup button was clicked successfully
+2023-04-22 20:53:11,545 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:53:11,553 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:53:11,874 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-22 20:53:12,145 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-22 20:53:12,245 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-22 20:53:12,344 [main] INFO logger_file - dragons502@gmail.com: user email was entered successfully
+2023-04-22 20:53:12,391 [main] INFO logger_file - Password was entered successfully
+2023-04-22 20:53:12,435 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-22 20:53:12,693 [main] INFO logger_file - Signup button was clicked successfully
+2023-04-22 20:53:20,976 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:53:20,981 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:53:21,283 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-22 20:53:21,540 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-22 20:53:21,647 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-22 20:53:21,743 [main] INFO logger_file - dragons602@gmail.com: user email was entered successfully
+2023-04-22 20:53:21,789 [main] INFO logger_file - Password was entered successfully
+2023-04-22 20:53:21,830 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-22 20:53:22,105 [main] INFO logger_file - Signup button was clicked successfully
+2023-04-22 20:58:54,045 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:58:54,059 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:58:54,446 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-22 20:58:54,716 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-22 20:58:54,831 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-22 20:58:54,940 [main] INFO logger_file - dragons102@gmail.com: user email was entered successfully
+2023-04-22 20:58:55,000 [main] INFO logger_file - Password was entered successfully
+2023-04-22 20:58:55,046 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-22 20:58:55,315 [main] INFO logger_file - Signup button was clicked successfully
+2023-04-22 20:59:03,529 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:59:03,536 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:59:03,884 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-22 20:59:04,132 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-22 20:59:04,234 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-22 20:59:04,333 [main] INFO logger_file - dragons202@gmail.com: user email was entered successfully
+2023-04-22 20:59:04,379 [main] INFO logger_file - Password was entered successfully
+2023-04-22 20:59:04,428 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-22 20:59:04,680 [main] INFO logger_file - Signup button was clicked successfully
+2023-04-22 20:59:12,733 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:59:12,738 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:59:13,108 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-22 20:59:13,369 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-22 20:59:13,471 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-22 20:59:13,560 [main] INFO logger_file - dragons302@gmail.com: user email was entered successfully
+2023-04-22 20:59:13,611 [main] INFO logger_file - Password was entered successfully
+2023-04-22 20:59:13,651 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-22 20:59:13,898 [main] INFO logger_file - Signup button was clicked successfully
+2023-04-22 20:59:21,912 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:59:21,915 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:59:22,258 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-22 20:59:22,527 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-22 20:59:22,621 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-22 20:59:22,710 [main] INFO logger_file - dragons402@gmail.com: user email was entered successfully
+2023-04-22 20:59:22,751 [main] INFO logger_file - Password was entered successfully
+2023-04-22 20:59:22,787 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-22 20:59:23,042 [main] INFO logger_file - Signup button was clicked successfully
+2023-04-22 20:59:31,088 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:59:31,093 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:59:31,442 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-22 20:59:31,702 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-22 20:59:31,806 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-22 20:59:31,892 [main] INFO logger_file - dragons502@gmail.com: user email was entered successfully
+2023-04-22 20:59:31,930 [main] INFO logger_file - Password was entered successfully
+2023-04-22 20:59:31,971 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-22 20:59:32,232 [main] INFO logger_file - Signup button was clicked successfully
+2023-04-22 20:59:40,344 [main] INFO logger_file - Tekschool logo is present
+2023-04-22 20:59:40,348 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-22 20:59:40,705 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-22 20:59:40,960 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-22 20:59:41,053 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-22 20:59:41,142 [main] INFO logger_file - dragons602@gmail.com: user email was entered successfully
+2023-04-22 20:59:41,182 [main] INFO logger_file - Password was entered successfully
+2023-04-22 20:59:41,218 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-22 20:59:41,475 [main] INFO logger_file - Signup button was clicked successfully
+2023-04-23 13:11:45,131 [main] INFO logger_file - Tekschool logo is present
+2023-04-23 13:11:45,144 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-23 13:11:45,514 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-23 13:11:45,786 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-23 13:11:45,899 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-23 13:11:45,998 [main] INFO logger_file - dragons902@gmail.com: user email was entered successfully
+2023-04-23 13:11:46,058 [main] INFO logger_file - Password was entered successfully
+2023-04-23 13:11:46,102 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-23 13:11:46,362 [main] INFO logger_file - Signup button was clicked successfully
+2023-04-24 18:19:06,085 [main] INFO logger_file - Tekschool logo is present
+2023-04-24 18:19:06,099 [main] INFO logger_file - Expected and Actual Page Title are sameReact App
+2023-04-24 18:19:06,489 [main] INFO logger_file - User clicked on signin button successfully
+2023-04-24 18:19:06,770 [main] INFO logger_file - User clicked on New Account Button successfully
+2023-04-24 18:19:06,890 [main] INFO logger_file - dragons: user name was entered successfully
+2023-04-24 18:19:07,011 [main] INFO logger_file - dragons9902@gmail.com: user email was entered successfully
+2023-04-24 18:19:07,065 [main] INFO logger_file - Password was entered successfully
+2023-04-24 18:19:07,117 [main] INFO logger_file - Confirm password was entered successfully
+2023-04-24 18:19:07,387 [main] INFO logger_file - Signup button was clicked successfully
