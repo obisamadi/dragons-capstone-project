@@ -1,0 +1,639 @@
+2023-05-18 12:55:16,514 - logger_file -INFO - User is on the retail website
+2023-05-18 12:55:16,845 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 07:39:40,498 - logger_file -INFO - User is on the retail website
+2023-05-19 07:39:40,843 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 08:04:39,696 - logger_file -INFO - User is on the retail website
+2023-05-19 08:04:40,037 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 08:07:26,298 - logger_file -INFO - User is on the retail website
+2023-05-19 08:07:26,632 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 08:18:07,021 - logger_file -INFO - User is on the retail website
+2023-05-19 08:18:07,357 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 08:23:51,483 - logger_file -INFO - User is on the retail website
+2023-05-19 08:23:51,830 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 08:25:42,986 - logger_file -INFO - User is on the retail website
+2023-05-19 08:25:43,313 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 08:32:19,515 - logger_file -INFO - User is on the retail website
+2023-05-19 08:32:19,850 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 08:35:44,534 - logger_file -INFO - User is on the retail website
+2023-05-19 08:35:44,876 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 08:50:42,896 - logger_file -INFO - User is on the retail website
+2023-05-19 08:50:43,248 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 08:51:53,118 - logger_file -INFO - User is on the retail website
+2023-05-19 08:51:53,461 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 08:51:53,625 - logger_file -INFO - user entered email and password
+2023-05-19 08:53:17,666 - logger_file -INFO - User is on the retail website
+2023-05-19 08:53:18,005 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 08:55:12,765 - logger_file -INFO - User is on the retail website
+2023-05-19 08:55:13,104 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 08:56:39,218 - logger_file -INFO - User is on the retail website
+2023-05-19 08:56:39,562 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 08:56:39,759 - logger_file -INFO - user entered email and password
+2023-05-19 08:56:40,028 - logger_file -INFO - User clicks on the login button
+2023-05-19 08:56:59,498 - logger_file -INFO - User is on the retail website
+2023-05-19 08:56:59,884 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 08:57:00,081 - logger_file -INFO - user entered email and password
+2023-05-19 08:57:00,341 - logger_file -INFO - User clicks on the login button
+2023-05-19 08:57:18,836 - logger_file -INFO - User is on the retail website
+2023-05-19 08:57:19,186 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 08:57:19,370 - logger_file -INFO - user entered email and password
+2023-05-19 08:57:19,627 - logger_file -INFO - User clicks on the login button
+2023-05-19 08:58:41,706 - logger_file -INFO - User is on the retail website
+2023-05-19 08:58:42,055 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 08:58:42,252 - logger_file -INFO - user entered email and password
+2023-05-19 08:58:42,519 - logger_file -INFO - User clicks on the login button
+2023-05-19 08:58:42,581 - logger_file -INFO - User is logged in into the Account
+2023-05-19 18:48:32,481 - logger_file -INFO - User is on the retail website
+2023-05-19 18:48:32,816 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 18:48:33,021 - logger_file -INFO - user entered email and password
+2023-05-19 18:48:33,283 - logger_file -INFO - User clicks on the login button
+2023-05-19 18:49:07,474 - logger_file -INFO - User is on the retail website
+2023-05-19 18:49:07,830 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 18:49:08,031 - logger_file -INFO - user entered email and password
+2023-05-19 18:49:08,290 - logger_file -INFO - User clicks on the login button
+2023-05-19 19:24:53,898 - logger_file -INFO - User is on the retail website
+2023-05-19 19:24:54,233 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 19:24:54,429 - logger_file -INFO - user entered email and password
+2023-05-19 19:24:54,682 - logger_file -INFO - User clicks on the login button
+2023-05-19 19:26:58,276 - logger_file -INFO - User is on the retail website
+2023-05-19 19:26:58,615 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 19:26:58,837 - logger_file -INFO - user entered email and password
+2023-05-19 19:26:59,093 - logger_file -INFO - User clicks on the login button
+2023-05-19 19:27:43,182 - logger_file -INFO - User is on the retail website
+2023-05-19 19:27:43,513 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 19:27:43,710 - logger_file -INFO - user entered email and password
+2023-05-19 19:27:43,970 - logger_file -INFO - User clicks on the login button
+2023-05-19 19:32:16,887 - logger_file -INFO - User is on the retail website
+2023-05-19 19:32:17,248 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 19:32:17,447 - logger_file -INFO - user entered email and password
+2023-05-19 19:32:17,709 - logger_file -INFO - User clicks on the login button
+2023-05-19 19:32:18,254 - logger_file -INFO - User is logged in into the Account
+2023-05-19 19:32:18,514 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 19:32:18,765 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 19:32:49,272 - logger_file -INFO - User is on the retail website
+2023-05-19 19:32:49,647 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 19:32:49,853 - logger_file -INFO - user entered email and password
+2023-05-19 19:32:50,109 - logger_file -INFO - User clicks on the login button
+2023-05-19 19:32:50,653 - logger_file -INFO - User is logged in into the Account
+2023-05-19 19:32:50,929 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 19:32:51,177 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 19:36:10,792 - logger_file -INFO - User is on the retail website
+2023-05-19 19:36:11,140 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 19:36:11,358 - logger_file -INFO - user entered email and password
+2023-05-19 19:36:11,612 - logger_file -INFO - User clicks on the login button
+2023-05-19 19:36:12,161 - logger_file -INFO - User is logged in into the Account
+2023-05-19 19:36:12,445 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 19:36:12,695 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 19:37:59,437 - logger_file -INFO - User is on the retail website
+2023-05-19 19:37:59,774 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 19:37:59,998 - logger_file -INFO - user entered email and password
+2023-05-19 19:38:00,257 - logger_file -INFO - User clicks on the login button
+2023-05-19 19:38:00,810 - logger_file -INFO - User is logged in into the Account
+2023-05-19 19:38:01,094 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 19:38:01,338 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 19:39:25,639 - logger_file -INFO - User is on the retail website
+2023-05-19 19:39:25,969 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 19:39:26,177 - logger_file -INFO - user entered email and password
+2023-05-19 19:39:26,435 - logger_file -INFO - User clicks on the login button
+2023-05-19 19:39:26,986 - logger_file -INFO - User is logged in into the Account
+2023-05-19 19:39:27,265 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 19:39:27,517 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 19:39:28,444 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 19:39:28,858 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-19 19:50:38,539 - logger_file -INFO - User is on the retail website
+2023-05-19 19:50:38,876 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 19:50:39,077 - logger_file -INFO - user entered email and password
+2023-05-19 19:50:39,339 - logger_file -INFO - User clicks on the login button
+2023-05-19 19:50:39,906 - logger_file -INFO - User is logged in into the Account
+2023-05-19 19:50:40,177 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 19:50:40,426 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 19:50:40,718 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 19:51:18,965 - logger_file -INFO - User is on the retail website
+2023-05-19 19:51:19,305 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 19:51:19,522 - logger_file -INFO - user entered email and password
+2023-05-19 19:51:19,782 - logger_file -INFO - User clicks on the login button
+2023-05-19 19:51:20,329 - logger_file -INFO - User is logged in into the Account
+2023-05-19 19:51:20,622 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 19:51:20,863 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 19:51:21,151 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 19:51:50,513 - logger_file -INFO - User is on the retail website
+2023-05-19 19:51:50,881 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 19:51:51,064 - logger_file -INFO - user entered email and password
+2023-05-19 19:51:51,336 - logger_file -INFO - User clicks on the login button
+2023-05-19 19:51:51,877 - logger_file -INFO - User is logged in into the Account
+2023-05-19 19:51:52,159 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 19:51:52,405 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 19:51:52,696 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 19:51:53,261 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-19 19:52:40,487 - logger_file -INFO - User is on the retail website
+2023-05-19 19:52:40,809 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 19:52:41,011 - logger_file -INFO - user entered email and password
+2023-05-19 19:52:41,267 - logger_file -INFO - User clicks on the login button
+2023-05-19 19:52:41,813 - logger_file -INFO - User is logged in into the Account
+2023-05-19 19:52:42,098 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 19:52:42,357 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 19:52:42,645 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 19:53:52,124 - logger_file -INFO - User is on the retail website
+2023-05-19 19:53:52,454 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 19:53:52,661 - logger_file -INFO - user entered email and password
+2023-05-19 19:53:52,919 - logger_file -INFO - User clicks on the login button
+2023-05-19 19:53:53,458 - logger_file -INFO - User is logged in into the Account
+2023-05-19 19:53:53,733 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 19:53:53,981 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 19:53:54,264 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 19:54:21,089 - logger_file -INFO - User is on the retail website
+2023-05-19 19:54:21,431 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 19:54:21,628 - logger_file -INFO - user entered email and password
+2023-05-19 19:54:21,886 - logger_file -INFO - User clicks on the login button
+2023-05-19 19:54:22,439 - logger_file -INFO - User is logged in into the Account
+2023-05-19 19:54:22,713 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 19:54:22,962 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 19:54:23,256 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 19:54:23,835 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-19 19:55:52,567 - logger_file -INFO - User is on the retail website
+2023-05-19 19:55:52,900 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 19:55:53,120 - logger_file -INFO - user entered email and password
+2023-05-19 19:55:53,376 - logger_file -INFO - User clicks on the login button
+2023-05-19 19:55:53,919 - logger_file -INFO - User is logged in into the Account
+2023-05-19 19:55:54,170 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 19:55:54,418 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 19:56:29,786 - logger_file -INFO - User is on the retail website
+2023-05-19 19:56:30,120 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 19:56:30,309 - logger_file -INFO - user entered email and password
+2023-05-19 19:56:30,570 - logger_file -INFO - User clicks on the login button
+2023-05-19 19:56:31,114 - logger_file -INFO - User is logged in into the Account
+2023-05-19 19:56:31,397 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 19:56:31,645 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 19:57:04,753 - logger_file -INFO - User is on the retail website
+2023-05-19 19:57:05,082 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 19:57:05,304 - logger_file -INFO - user entered email and password
+2023-05-19 19:57:05,567 - logger_file -INFO - User clicks on the login button
+2023-05-19 19:57:06,114 - logger_file -INFO - User is logged in into the Account
+2023-05-19 19:57:06,393 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 19:57:06,641 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 19:57:06,926 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 19:57:07,489 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-19 19:59:02,235 - logger_file -INFO - User is on the retail website
+2023-05-19 19:59:02,560 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 19:59:02,761 - logger_file -INFO - user entered email and password
+2023-05-19 19:59:03,021 - logger_file -INFO - User clicks on the login button
+2023-05-19 19:59:03,560 - logger_file -INFO - User is logged in into the Account
+2023-05-19 19:59:03,854 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 19:59:04,097 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 19:59:28,368 - logger_file -INFO - User is on the retail website
+2023-05-19 19:59:28,723 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 19:59:28,930 - logger_file -INFO - user entered email and password
+2023-05-19 19:59:29,187 - logger_file -INFO - User clicks on the login button
+2023-05-19 19:59:29,730 - logger_file -INFO - User is logged in into the Account
+2023-05-19 19:59:30,009 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 19:59:30,257 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 20:01:06,989 - logger_file -INFO - User is on the retail website
+2023-05-19 20:01:07,311 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 20:01:07,516 - logger_file -INFO - user entered email and password
+2023-05-19 20:01:07,776 - logger_file -INFO - User clicks on the login button
+2023-05-19 20:01:08,330 - logger_file -INFO - User is logged in into the Account
+2023-05-19 20:01:08,609 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 20:01:08,853 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 20:01:09,136 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 20:01:09,702 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-19 20:08:52,853 - logger_file -INFO - User is on the retail website
+2023-05-19 20:08:53,184 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 20:08:53,376 - logger_file -INFO - user entered email and password
+2023-05-19 20:08:53,641 - logger_file -INFO - User clicks on the login button
+2023-05-19 20:08:54,179 - logger_file -INFO - User is logged in into the Account
+2023-05-19 20:08:54,461 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 20:08:54,712 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 20:12:41,609 - logger_file -INFO - User is on the retail website
+2023-05-19 20:12:41,950 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 20:12:42,149 - logger_file -INFO - user entered email and password
+2023-05-19 20:12:42,409 - logger_file -INFO - User clicks on the login button
+2023-05-19 20:12:42,956 - logger_file -INFO - User is logged in into the Account
+2023-05-19 20:12:43,226 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 20:12:43,472 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 20:12:43,767 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 20:12:44,313 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-19 20:13:15,282 - logger_file -INFO - User is on the retail website
+2023-05-19 20:13:15,623 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 20:13:15,824 - logger_file -INFO - user entered email and password
+2023-05-19 20:13:16,087 - logger_file -INFO - User clicks on the login button
+2023-05-19 20:13:16,634 - logger_file -INFO - User is logged in into the Account
+2023-05-19 20:13:16,914 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 20:13:17,170 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 20:13:36,513 - logger_file -INFO - User is on the retail website
+2023-05-19 20:13:36,848 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 20:13:37,056 - logger_file -INFO - user entered email and password
+2023-05-19 20:13:37,314 - logger_file -INFO - User clicks on the login button
+2023-05-19 20:13:37,865 - logger_file -INFO - User is logged in into the Account
+2023-05-19 20:13:38,169 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 20:13:38,417 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 20:15:13,041 - logger_file -INFO - User is on the retail website
+2023-05-19 20:15:13,363 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 20:15:13,556 - logger_file -INFO - user entered email and password
+2023-05-19 20:15:13,812 - logger_file -INFO - User clicks on the login button
+2023-05-19 20:15:14,353 - logger_file -INFO - User is logged in into the Account
+2023-05-19 20:15:14,638 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 20:15:14,887 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 20:15:15,178 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 20:15:15,740 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-19 20:17:15,180 - logger_file -INFO - User is on the retail website
+2023-05-19 20:17:15,505 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 20:17:15,700 - logger_file -INFO - user entered email and password
+2023-05-19 20:17:15,957 - logger_file -INFO - User clicks on the login button
+2023-05-19 20:17:16,501 - logger_file -INFO - User is logged in into the Account
+2023-05-19 20:17:16,778 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 20:17:17,035 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 20:23:22,085 - logger_file -INFO - User is on the retail website
+2023-05-19 20:23:22,412 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 20:23:22,619 - logger_file -INFO - user entered email and password
+2023-05-19 20:23:22,878 - logger_file -INFO - User clicks on the login button
+2023-05-19 20:23:23,428 - logger_file -INFO - User is logged in into the Account
+2023-05-19 20:23:23,711 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 20:23:23,955 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 20:23:24,231 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 20:23:24,787 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-19 20:29:30,502 - logger_file -INFO - User is on the retail website
+2023-05-19 20:29:30,829 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 20:29:31,038 - logger_file -INFO - user entered email and password
+2023-05-19 20:29:31,298 - logger_file -INFO - User clicks on the login button
+2023-05-19 20:29:31,844 - logger_file -INFO - User is logged in into the Account
+2023-05-19 20:29:32,096 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 20:29:32,341 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 20:31:25,113 - logger_file -INFO - User is on the retail website
+2023-05-19 20:31:25,434 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 20:31:25,640 - logger_file -INFO - user entered email and password
+2023-05-19 20:31:25,894 - logger_file -INFO - User clicks on the login button
+2023-05-19 20:31:26,441 - logger_file -INFO - User is logged in into the Account
+2023-05-19 20:31:26,729 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 20:31:26,975 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 20:31:27,261 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 20:31:27,829 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-19 20:33:04,371 - logger_file -INFO - User is on the retail website
+2023-05-19 20:33:04,701 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 20:33:04,910 - logger_file -INFO - user entered email and password
+2023-05-19 20:33:05,169 - logger_file -INFO - User clicks on the login button
+2023-05-19 20:33:05,715 - logger_file -INFO - User is logged in into the Account
+2023-05-19 20:33:05,998 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 20:33:06,249 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 20:33:06,539 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 20:33:07,103 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-19 20:34:56,414 - logger_file -INFO - User is on the retail website
+2023-05-19 20:34:56,768 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 20:34:56,967 - logger_file -INFO - user entered email and password
+2023-05-19 20:34:57,229 - logger_file -INFO - User clicks on the login button
+2023-05-19 20:34:57,779 - logger_file -INFO - User is logged in into the Account
+2023-05-19 20:34:58,063 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 20:34:58,306 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 20:34:58,598 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 20:35:23,746 - logger_file -INFO - User is on the retail website
+2023-05-19 20:35:24,074 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 20:35:24,270 - logger_file -INFO - user entered email and password
+2023-05-19 20:35:24,523 - logger_file -INFO - User clicks on the login button
+2023-05-19 20:35:25,067 - logger_file -INFO - User is logged in into the Account
+2023-05-19 20:35:25,357 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 20:35:25,601 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 20:35:25,885 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 20:35:26,465 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-19 20:37:13,501 - logger_file -INFO - User is on the retail website
+2023-05-19 20:37:13,861 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 20:37:14,089 - logger_file -INFO - user entered email and password
+2023-05-19 20:37:14,349 - logger_file -INFO - User clicks on the login button
+2023-05-19 20:37:14,896 - logger_file -INFO - User is logged in into the Account
+2023-05-19 20:37:15,243 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 20:37:15,495 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 20:37:15,779 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 20:37:45,860 - logger_file -INFO - User is on the retail website
+2023-05-19 20:37:46,216 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 20:37:46,423 - logger_file -INFO - user entered email and password
+2023-05-19 20:37:46,686 - logger_file -INFO - User clicks on the login button
+2023-05-19 20:37:47,232 - logger_file -INFO - User is logged in into the Account
+2023-05-19 20:37:47,519 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 20:37:47,776 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 20:37:48,059 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 20:37:48,634 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-19 20:49:08,774 - logger_file -INFO - User is on the retail website
+2023-05-19 20:49:09,145 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 20:49:09,365 - logger_file -INFO - user entered email and password
+2023-05-19 20:49:09,624 - logger_file -INFO - User clicks on the login button
+2023-05-19 20:49:10,172 - logger_file -INFO - User is logged in into the Account
+2023-05-19 20:49:10,427 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 20:49:11,212 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 20:49:11,512 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 20:49:37,917 - logger_file -INFO - User is on the retail website
+2023-05-19 20:49:38,257 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 20:49:38,472 - logger_file -INFO - user entered email and password
+2023-05-19 20:49:38,737 - logger_file -INFO - User clicks on the login button
+2023-05-19 20:49:39,287 - logger_file -INFO - User is logged in into the Account
+2023-05-19 20:49:39,578 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 20:49:39,821 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 20:49:40,105 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 20:49:40,675 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-19 20:51:06,188 - logger_file -INFO - User is on the retail website
+2023-05-19 20:51:06,517 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 20:51:06,721 - logger_file -INFO - user entered email and password
+2023-05-19 20:51:06,985 - logger_file -INFO - User clicks on the login button
+2023-05-19 20:51:07,536 - logger_file -INFO - User is logged in into the Account
+2023-05-19 20:51:07,818 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 20:51:08,069 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 20:51:08,361 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 20:52:03,679 - logger_file -INFO - User is on the retail website
+2023-05-19 20:52:04,037 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 20:52:04,250 - logger_file -INFO - user entered email and password
+2023-05-19 20:52:04,508 - logger_file -INFO - User clicks on the login button
+2023-05-19 20:52:05,045 - logger_file -INFO - User is logged in into the Account
+2023-05-19 20:52:05,336 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 20:52:05,585 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 20:52:05,884 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 20:52:06,458 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-19 20:57:50,370 - logger_file -INFO - User is on the retail website
+2023-05-19 20:57:50,716 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 20:57:50,921 - logger_file -INFO - user entered email and password
+2023-05-19 20:57:51,180 - logger_file -INFO - User clicks on the login button
+2023-05-19 20:57:51,745 - logger_file -INFO - User is logged in into the Account
+2023-05-19 20:57:52,040 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 20:57:52,293 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 20:57:52,589 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 20:58:54,265 - logger_file -INFO - User is on the retail website
+2023-05-19 20:58:54,595 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 20:58:54,792 - logger_file -INFO - user entered email and password
+2023-05-19 20:58:55,055 - logger_file -INFO - User clicks on the login button
+2023-05-19 20:58:55,636 - logger_file -INFO - User is logged in into the Account
+2023-05-19 20:58:55,931 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 20:58:56,188 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 20:58:56,488 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 20:58:57,048 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-19 20:59:43,970 - logger_file -INFO - User is on the retail website
+2023-05-19 20:59:44,298 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 20:59:44,487 - logger_file -INFO - user entered email and password
+2023-05-19 20:59:44,752 - logger_file -INFO - User clicks on the login button
+2023-05-19 20:59:45,326 - logger_file -INFO - User is logged in into the Account
+2023-05-19 20:59:45,614 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 20:59:45,860 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 21:00:48,342 - logger_file -INFO - User is on the retail website
+2023-05-19 21:00:48,671 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 21:00:48,877 - logger_file -INFO - user entered email and password
+2023-05-19 21:00:49,134 - logger_file -INFO - User clicks on the login button
+2023-05-19 21:00:49,699 - logger_file -INFO - User is logged in into the Account
+2023-05-19 21:00:49,950 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 21:00:50,201 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 21:00:50,500 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 21:00:51,074 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-19 21:01:39,381 - logger_file -INFO - User is on the retail website
+2023-05-19 21:01:39,711 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 21:01:39,913 - logger_file -INFO - user entered email and password
+2023-05-19 21:01:40,169 - logger_file -INFO - User clicks on the login button
+2023-05-19 21:01:40,709 - logger_file -INFO - User is logged in into the Account
+2023-05-19 21:01:40,973 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 21:01:41,225 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 21:01:41,513 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 21:03:23,840 - logger_file -INFO - User is on the retail website
+2023-05-19 21:03:24,176 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 21:03:24,372 - logger_file -INFO - user entered email and password
+2023-05-19 21:03:24,635 - logger_file -INFO - User clicks on the login button
+2023-05-19 21:03:25,189 - logger_file -INFO - User is logged in into the Account
+2023-05-19 21:03:25,488 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 21:03:25,732 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 21:03:26,025 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 21:03:47,166 - logger_file -INFO - User is on the retail website
+2023-05-19 21:03:47,493 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 21:03:47,694 - logger_file -INFO - user entered email and password
+2023-05-19 21:03:47,949 - logger_file -INFO - User clicks on the login button
+2023-05-19 21:03:48,487 - logger_file -INFO - User is logged in into the Account
+2023-05-19 21:03:48,785 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 21:03:49,038 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 21:03:49,334 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 21:03:49,908 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-19 21:04:41,530 - logger_file -INFO - User is on the retail website
+2023-05-19 21:04:41,858 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 21:04:42,065 - logger_file -INFO - user entered email and password
+2023-05-19 21:04:42,334 - logger_file -INFO - User clicks on the login button
+2023-05-19 21:04:42,900 - logger_file -INFO - User is logged in into the Account
+2023-05-19 21:04:43,193 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 21:04:43,467 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 21:04:43,768 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 21:05:15,092 - logger_file -INFO - User is on the retail website
+2023-05-19 21:05:15,428 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 21:05:15,638 - logger_file -INFO - user entered email and password
+2023-05-19 21:05:15,900 - logger_file -INFO - User clicks on the login button
+2023-05-19 21:05:16,467 - logger_file -INFO - User is logged in into the Account
+2023-05-19 21:05:16,757 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 21:05:17,011 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 21:05:17,293 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 21:05:17,840 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-19 21:05:45,579 - logger_file -INFO - User is on the retail website
+2023-05-19 21:05:45,941 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 21:05:46,145 - logger_file -INFO - user entered email and password
+2023-05-19 21:05:46,405 - logger_file -INFO - User clicks on the login button
+2023-05-19 21:05:46,950 - logger_file -INFO - User is logged in into the Account
+2023-05-19 21:05:47,255 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 21:05:47,508 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 21:05:47,793 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 21:06:36,171 - logger_file -INFO - User is on the retail website
+2023-05-19 21:06:36,510 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 21:06:36,713 - logger_file -INFO - user entered email and password
+2023-05-19 21:06:36,976 - logger_file -INFO - User clicks on the login button
+2023-05-19 21:06:37,520 - logger_file -INFO - User is logged in into the Account
+2023-05-19 21:06:37,809 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 21:06:38,060 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 21:06:38,356 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 21:06:38,934 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-19 21:10:30,880 - logger_file -INFO - User is on the retail website
+2023-05-19 21:10:31,208 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 21:10:31,405 - logger_file -INFO - user entered email and password
+2023-05-19 21:10:31,670 - logger_file -INFO - User clicks on the login button
+2023-05-19 21:10:32,221 - logger_file -INFO - User is logged in into the Account
+2023-05-19 21:10:32,485 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 21:10:32,727 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 21:10:33,013 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 21:10:59,449 - logger_file -INFO - User is on the retail website
+2023-05-19 21:10:59,791 - logger_file -INFO - User clicks on the Sign in option
+2023-05-19 21:11:00,010 - logger_file -INFO - user entered email and password
+2023-05-19 21:11:00,275 - logger_file -INFO - User clicks on the login button
+2023-05-19 21:11:00,825 - logger_file -INFO - User is logged in into the Account
+2023-05-19 21:11:01,123 - logger_file -INFO - User clicks on the Orders section
+2023-05-19 21:11:01,373 - logger_file -INFO - User clicks on the first order in the list
+2023-05-19 21:11:01,667 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-19 21:11:02,237 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-20 12:31:19,987 - logger_file -INFO - User is on the retail website
+2023-05-20 12:31:20,320 - logger_file -INFO - User clicks on the Sign in option
+2023-05-20 12:31:20,516 - logger_file -INFO - user entered email and password
+2023-05-20 12:31:20,779 - logger_file -INFO - User clicks on the login button
+2023-05-20 12:31:21,332 - logger_file -INFO - User is logged in into the Account
+2023-05-20 12:31:21,584 - logger_file -INFO - User clicks on the Orders section
+2023-05-20 12:31:22,348 - logger_file -INFO - User clicks on the first order in the list
+2023-05-20 12:31:22,632 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-20 12:31:23,452 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-20 12:35:02,944 - logger_file -INFO - User is on the retail website
+2023-05-20 12:35:03,277 - logger_file -INFO - User clicks on the Sign in option
+2023-05-20 12:35:03,487 - logger_file -INFO - user entered email and password
+2023-05-20 12:35:03,745 - logger_file -INFO - User clicks on the login button
+2023-05-20 12:35:05,888 - logger_file -INFO - User is logged in into the Account
+2023-05-20 12:35:06,131 - logger_file -INFO - User clicks on the Orders section
+2023-05-20 12:35:07,446 - logger_file -INFO - User clicks on the first order in the list
+2023-05-20 12:35:07,763 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-20 12:36:08,674 - logger_file -INFO - User is on the retail website
+2023-05-20 12:36:09,044 - logger_file -INFO - User clicks on the Sign in option
+2023-05-20 12:36:09,243 - logger_file -INFO - user entered email and password
+2023-05-20 12:36:09,497 - logger_file -INFO - User clicks on the login button
+2023-05-20 12:36:10,038 - logger_file -INFO - User is logged in into the Account
+2023-05-20 12:36:10,290 - logger_file -INFO - User clicks on the Orders section
+2023-05-20 12:36:11,053 - logger_file -INFO - User clicks on the first order in the list
+2023-05-20 12:36:11,335 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-20 12:36:11,898 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-20 12:43:05,817 - logger_file -INFO - User is on the retail website
+2023-05-20 12:43:06,170 - logger_file -INFO - User clicks on the Sign in option
+2023-05-20 12:43:06,401 - logger_file -INFO - user entered email and password
+2023-05-20 12:43:06,662 - logger_file -INFO - User clicks on the login button
+2023-05-20 12:43:07,209 - logger_file -INFO - User is logged in into the Account
+2023-05-20 12:43:07,458 - logger_file -INFO - User clicks on the Orders section
+2023-05-20 12:43:08,221 - logger_file -INFO - User clicks on the first order in the list
+2023-05-20 12:43:08,518 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-20 12:43:34,857 - logger_file -INFO - User is on the retail website
+2023-05-20 12:43:35,180 - logger_file -INFO - User clicks on the Sign in option
+2023-05-20 12:43:35,373 - logger_file -INFO - user entered email and password
+2023-05-20 12:43:35,627 - logger_file -INFO - User clicks on the login button
+2023-05-20 12:43:36,167 - logger_file -INFO - User is logged in into the Account
+2023-05-20 12:43:36,419 - logger_file -INFO - User clicks on the Orders section
+2023-05-20 12:43:36,671 - logger_file -INFO - User clicks on the first order in the list
+2023-05-20 12:43:36,951 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-20 12:43:37,518 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-20 12:45:45,199 - logger_file -INFO - User is on the retail website
+2023-05-20 12:45:45,526 - logger_file -INFO - User clicks on the Sign in option
+2023-05-20 12:45:45,728 - logger_file -INFO - user entered email and password
+2023-05-20 12:45:45,990 - logger_file -INFO - User clicks on the login button
+2023-05-20 12:45:46,533 - logger_file -INFO - User is logged in into the Account
+2023-05-20 12:45:46,784 - logger_file -INFO - User clicks on the Orders section
+2023-05-20 12:45:47,030 - logger_file -INFO - User clicks on the first order in the list
+2023-05-20 12:45:47,323 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-20 12:46:03,587 - logger_file -INFO - User is on the retail website
+2023-05-20 12:46:03,938 - logger_file -INFO - User clicks on the Sign in option
+2023-05-20 12:46:04,148 - logger_file -INFO - user entered email and password
+2023-05-20 12:46:04,410 - logger_file -INFO - User clicks on the login button
+2023-05-20 12:46:04,997 - logger_file -INFO - User is logged in into the Account
+2023-05-20 12:46:05,248 - logger_file -INFO - User clicks on the Orders section
+2023-05-20 12:46:06,031 - logger_file -INFO - User clicks on the first order in the list
+2023-05-20 12:46:06,325 - logger_file -INFO - User clicks on the Cancel The Order button
+2023-05-20 12:46:06,887 - logger_file -INFO - User selects the cancellation reason: Bought wrong item
+2023-05-20 12:46:06,921 - logger_file -INFO - Cancellation message displayed: Your Order Has Been Cancelled
+Payment refunded to cart ending with ...0303
+Order Summary
+Item total:
+$ 19.99
+Item quantity:
+1
+2023-05-20 12:49:41,146 - logger_file -INFO - User is on the retail website
+2023-05-20 12:49:41,474 - logger_file -INFO - User clicks on the Sign in option
+2023-05-20 12:49:41,662 - logger_file -INFO - user entered email and password
+2023-05-20 12:49:41,926 - logger_file -INFO - User clicks on the login button
+2023-05-20 12:49:42,497 - logger_file -INFO - User is logged in into the Account
+2023-05-20 12:49:42,748 - logger_file -INFO - User clicks on the Orders section
+2023-05-20 12:49:43,004 - logger_file -INFO - User clicks on the first order in the list
+2023-05-20 13:05:03,312 - logger_file -INFO - User is on the retail website
+2023-05-20 13:05:03,664 - logger_file -INFO - User clicks on the Sign in option
+2023-05-20 13:05:03,869 - logger_file -INFO - user entered email and password
+2023-05-20 13:05:04,130 - logger_file -INFO - User clicks on the login button
+2023-05-20 13:05:04,674 - logger_file -INFO - User is logged in into the Account
+2023-05-20 13:05:04,963 - logger_file -INFO - User clicks on the Orders section
+2023-05-20 13:05:05,213 - logger_file -INFO - User clicks on the first order in the list
+2023-05-20 13:05:36,235 - logger_file -INFO - User is on the retail website
+2023-05-20 13:05:36,562 - logger_file -INFO - User clicks on the Sign in option
+2023-05-20 13:05:36,775 - logger_file -INFO - user entered email and password
+2023-05-20 13:05:37,033 - logger_file -INFO - User clicks on the login button
+2023-05-20 13:05:37,574 - logger_file -INFO - User is logged in into the Account
+2023-05-20 13:05:37,827 - logger_file -INFO - User clicks on the Orders section
+2023-05-20 13:05:38,624 - logger_file -INFO - User clicks on the first order in the list
+2023-05-20 13:05:38,886 - logger_file -INFO - User clicks on the Return Items button
+2023-05-20 13:05:39,209 - logger_file -INFO - User selects the Return Reason: Item damaged
+2023-05-20 13:05:39,476 - logger_file -INFO - User selects the drop off service: FedEx
+2023-05-20 13:05:39,737 - logger_file -INFO - User clicks on the Return Order button
+2023-05-20 13:08:10,803 - logger_file -INFO - User is on the retail website
+2023-05-20 13:08:11,131 - logger_file -INFO - User clicks on the Sign in option
+2023-05-20 13:08:11,332 - logger_file -INFO - user entered email and password
+2023-05-20 13:08:11,593 - logger_file -INFO - User clicks on the login button
+2023-05-20 13:08:12,134 - logger_file -INFO - User is logged in into the Account
+2023-05-20 13:08:12,388 - logger_file -INFO - User clicks on the Orders section
+2023-05-20 13:08:12,629 - logger_file -INFO - User clicks on the first order in the list
+2023-05-20 13:08:12,886 - logger_file -INFO - User clicks on the Return Items button
+2023-05-20 13:08:13,198 - logger_file -INFO - User selects the Return Reason: Item damaged
+2023-05-20 13:08:13,464 - logger_file -INFO - User selects the drop off service: FedEx
+2023-05-20 13:08:13,721 - logger_file -INFO - User clicks on the Return Order button
+2023-05-20 13:08:13,736 - logger_file -INFO - Return successful message displayed: Return was successfull
+2023-05-20 13:14:53,759 - logger_file -INFO - User is on the retail website
+2023-05-20 13:14:54,082 - logger_file -INFO - User clicks on the Sign in option
+2023-05-20 13:14:54,279 - logger_file -INFO - user entered email and password
+2023-05-20 13:14:54,535 - logger_file -INFO - User clicks on the login button
+2023-05-20 13:14:55,090 - logger_file -INFO - User is logged in into the Account
+2023-05-20 13:14:55,511 - logger_file -INFO - User clicks on the Orders section
+2023-05-20 13:14:55,756 - logger_file -INFO - User clicks on the first order in the list
+2023-05-20 13:25:38,405 - logger_file -INFO - User is on the retail website
+2023-05-20 13:25:38,729 - logger_file -INFO - User clicks on the Sign in option
+2023-05-20 13:25:38,923 - logger_file -INFO - user entered email and password
+2023-05-20 13:25:39,182 - logger_file -INFO - User clicks on the login button
+2023-05-20 13:25:39,723 - logger_file -INFO - User is logged in into the Account
+2023-05-20 13:25:40,017 - logger_file -INFO - User clicks on the Orders section
+2023-05-20 13:25:40,266 - logger_file -INFO - User clicks on the first order in the list
+2023-05-20 13:25:40,537 - logger_file -INFO - User clicks on the Review button
+2023-05-20 13:25:40,754 - logger_file -INFO - User writes Review headline: headline value and Review text: review text
+2023-05-20 13:25:41,009 - logger_file -INFO - User clicks on the Add your Review button
+2023-05-20 13:27:11,673 - logger_file -INFO - User is on the retail website
+2023-05-20 13:27:12,016 - logger_file -INFO - User clicks on the Sign in option
+2023-05-20 13:27:12,215 - logger_file -INFO - user entered email and password
+2023-05-20 13:27:12,474 - logger_file -INFO - User clicks on the login button
+2023-05-20 13:27:13,015 - logger_file -INFO - User is logged in into the Account
+2023-05-20 13:27:13,264 - logger_file -INFO - User clicks on the Orders section
+2023-05-20 13:27:14,550 - logger_file -INFO - User clicks on the first order in the list
+2023-05-20 13:27:14,810 - logger_file -INFO - User clicks on the Review button
+2023-05-20 13:27:15,011 - logger_file -INFO - User writes Review headline: headline value and Review text: review text
+2023-05-20 13:27:15,262 - logger_file -INFO - User clicks on the Add your Review button
+2023-05-20 13:27:15,273 - logger_file -INFO - Your review was added successfully: 
+2023-05-20 13:32:20,541 - logger_file -INFO - User is on the retail website
+2023-05-20 13:32:20,869 - logger_file -INFO - User clicks on the Sign in option
+2023-05-20 13:32:21,161 - logger_file -INFO - User clicks on Create New Account button
+2023-05-20 13:37:19,592 - logger_file -INFO - user is on retail website
+2023-05-20 13:37:19,912 - logger_file -INFO - user cliked on Sign In option
+2023-05-20 13:37:20,205 - logger_file -INFO - User clicks on Create New Account button
+2023-05-20 13:40:26,649 - logger_file -INFO - user is on retail website
+2023-05-20 13:40:26,968 - logger_file -INFO - user cliked on Sign In option
+2023-05-20 13:44:13,363 - logger_file -INFO - user is on retail website
+2023-05-20 13:44:13,694 - logger_file -INFO - user cliked on Sign In option
+2023-05-20 13:44:13,967 - logger_file -INFO - user clicked on create new account option
+2023-05-20 13:47:52,131 - logger_file -INFO - user is on retail website
+2023-05-20 13:47:52,473 - logger_file -INFO - user cliked on Sign In option
+2023-05-20 13:47:52,744 - logger_file -INFO - user clicked on create new account option
+2023-05-20 13:49:55,827 - logger_file -INFO - user is on retail website
+2023-05-20 13:49:56,151 - logger_file -INFO - user cliked on Sign In option
+2023-05-20 13:49:56,441 - logger_file -INFO - user clicked on create new account option
+2023-05-20 14:05:30,685 - logger_file -INFO - user is on retail website
+2023-05-20 14:05:31,000 - logger_file -INFO - user cliked on Sign In option
+2023-05-20 14:05:31,268 - logger_file -INFO - user clicked on create new account option
+2023-05-20 14:05:31,504 - logger_file -INFO - User fills the sign-up information
+2023-05-20 14:05:31,742 - logger_file -INFO - User clicks on SignUp button
+2023-05-20 14:16:07,503 - logger_file -INFO - user is on retail website
+2023-05-20 14:16:07,838 - logger_file -INFO - user cliked on Sign In option
+2023-05-20 14:16:08,107 - logger_file -INFO - user clicked on create new account option
+2023-05-20 14:16:08,373 - logger_file -INFO - User fills the sign-up information
+2023-05-20 14:16:08,608 - logger_file -INFO - User clicks on SignUp button
+2023-05-20 14:19:27,071 - logger_file -INFO - user is on retail website
+2023-05-20 14:19:27,397 - logger_file -INFO - user cliked on Sign In option
+2023-05-20 14:19:27,660 - logger_file -INFO - user clicked on create new account option
+2023-05-20 14:19:27,902 - logger_file -INFO - User fills the sign-up information
+2023-05-20 14:19:28,140 - logger_file -INFO - User clicks on SignUp button
+2023-05-20 14:21:40,590 - logger_file -INFO - user is on retail website
+2023-05-20 14:21:40,911 - logger_file -INFO - user cliked on Sign In option
+2023-05-20 14:21:41,184 - logger_file -INFO - user clicked on create new account option
+2023-05-20 14:21:41,435 - logger_file -INFO - User fills the sign-up information
+2023-05-20 14:21:41,671 - logger_file -INFO - User clicks on SignUp button
+2023-05-20 14:27:59,462 - logger_file -INFO - user is on retail website
+2023-05-20 14:27:59,780 - logger_file -INFO - user cliked on Sign In option
+2023-05-20 14:28:00,057 - logger_file -INFO - user clicked on create new account option
+2023-05-20 14:28:00,292 - logger_file -INFO - User fills the sign-up information
+2023-05-20 14:28:00,529 - logger_file -INFO - User clicks on SignUp button
+2023-05-20 14:28:22,913 - logger_file -INFO - user is on retail website
+2023-05-20 14:28:23,249 - logger_file -INFO - user cliked on Sign In option
+2023-05-20 14:28:23,517 - logger_file -INFO - user clicked on create new account option
+2023-05-20 14:28:23,745 - logger_file -INFO - User fills the sign-up information
+2023-05-20 14:28:23,984 - logger_file -INFO - User clicks on SignUp button
+2023-05-20 14:29:30,537 - logger_file -INFO - user is on retail website
+2023-05-20 14:29:30,873 - logger_file -INFO - user cliked on Sign In option
+2023-05-20 14:29:31,141 - logger_file -INFO - user clicked on create new account option
+2023-05-20 14:29:31,370 - logger_file -INFO - User fills the sign-up information
+2023-05-20 14:29:31,605 - logger_file -INFO - User clicks on SignUp button
+2023-05-20 14:29:32,185 - logger_file -INFO - User is verified to be logged into account page
