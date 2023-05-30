@@ -16,10 +16,10 @@ public class RetailHomePage extends BaseSetup {
 	@FindBy(xpath = "//a[text()='TEKSCHOOL']")
 	public WebElement retailLogo;
 	
-	@FindBy(id = "signinLink")
+	@FindBy(xpath = "//*[@id=\"signinLink\"]")
 	public WebElement signInOption;
 	
-	@FindBy(xpath = "//*[@id=\"accountLink\"]")
+	@FindBy(xpath = "/html/body/div[1]/div[1]/div[1]/div[1]/div[2]/a")
 	public WebElement accountOption;
 	
 	@FindBy(linkText = "Orders")

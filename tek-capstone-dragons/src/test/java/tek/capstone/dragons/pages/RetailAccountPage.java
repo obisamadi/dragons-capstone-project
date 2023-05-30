@@ -11,19 +11,19 @@ public class RetailAccountPage extends BaseSetup {
 		PageFactory.initElements(getDriver(), this);
 	}
 
-	@FindBy(id = "profileImage")
+	@FindBy(xpath = "//*[@id=\"profileImage\"]")
 	public WebElement profileImage;
 	
-	@FindBy(id = "nameInput")
+	@FindBy(xpath = "//*[@id=\"nameInput\"]")
 	public WebElement nameInput;
 
-	@FindBy(id = "personalPhoneInput")
+	@FindBy(xpath = "//*[@id=\"personalPhoneInput\"]")
 	public WebElement phoneInput;
 	
-	@FindBy(id = "personalUpdateBtn")
+	@FindBy(xpath = "//*[@id=\"personalUpdateBtn\"]")
 	public WebElement personalUpdateButton;
 	
-	@FindBy(xpath = "//div[text()='Personal Information Updated Successfully']")
+	@FindBy(xpath = "//*[@id=\"accountInformation\"]/div[1]/div/h1[1]")
 	public WebElement successMessage;
 	
 	@FindBy(xpath = "//*[@id=\"paymentSubmitBtn\"]")
@@ -44,13 +44,13 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(xpath = "//*[@id=\"securityCodeInput\"]")
 	public WebElement securityCodeInput;
 	
-	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div[2]/div/div[1]/div/div/div[1]/img")
+	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div[2]/div/div[1]/div/div[2]/div[2]/p")
 	public WebElement addPaymentMethodLink;
 	
 	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div[2]/div/div[2]/div/div[1]/div[2]/div/button[2]")
 	public WebElement removeCardOption;
 
-	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div[3]/div[1]/div/div/p")
+	@FindBy(xpath = "//*[@id=\"addressBtn\"]")
 	public WebElement addAddressOption;
 	
 	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div[3]/div[1]/div/div/p")
@@ -89,14 +89,23 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(xpath = "//*[@id=\"paymentSubmitBtn\"]")
 	public WebElement updateCardButton;
 	
-	@FindBy(xpath = "//*[@id=\"fuoro79\"]/div[1]/div[2]")
+	@FindBy(xpath = "//div[text()='Address Added Successfully']")
 	public WebElement addressUpdatedMessage;
 	
 	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div[3]/div[1]/div[2]/div[2]/button[1]")
 	public WebElement editAddressOption;
 	
 	@FindBy(xpath = "//*[@id=\"addressBtn\"]")
-	public WebElement updateAddressButton;  
+	public WebElement updateAddressButton;
+	
+	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div[2]/div/div[1]/div/div[1]/div[1]/img")
+	public WebElement cardLogo;
+	
+	@FindBy(xpath = "//*[@id=\"countryDropdown\"]")
+	public WebElement selectCountry;
+	
+	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div[3]/div[1]/div[1]/div/p")
+	public WebElement addAddressButton;  
 	
 	//@FindBy(xpath = "//*[@id=\"cardNumberInput\"]")
 	//public WebElement cardDetails;
