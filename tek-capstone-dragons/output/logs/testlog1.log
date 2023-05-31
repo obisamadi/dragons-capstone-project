@@ -2260,3 +2260,33 @@ Item quantity:
 2023-05-31 01:33:49,443 [main] INFO logger_file - User selects the drop off service: FedEx
 2023-05-31 01:33:49,697 [main] INFO logger_file - User clicks on the Return Order button
 2023-05-31 01:33:49,717 [main] INFO logger_file - Return successful message displayed: Return was successfull
+2023-05-31 12:53:21,107 [main] INFO logger_file - user is on retail website
+2023-05-31 12:53:21,826 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 12:53:29,303 [main] INFO logger_file - User enters email: [[ChromeDriver: chrome on MAC (13c04106317a92ac8c8b1e4b9c53504e)] -> xpath: //*[@id="email"]] and password[[ChromeDriver: chrome on MAC (13c04106317a92ac8c8b1e4b9c53504e)] -> xpath: //*[@id="password"]]
+2023-05-31 12:53:30,004 [main] INFO logger_file - User clicks on the login button
+2023-05-31 12:53:31,638 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 12:53:32,527 [main] INFO logger_file - User clicks on the Orders section
+2023-05-31 12:53:32,819 [main] INFO logger_file - User clicks on the first order in the list
+2023-05-31 12:56:12,550 [main] INFO logger_file - user is on retail website
+2023-05-31 12:56:13,121 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 12:56:19,097 [main] INFO logger_file - User enters email: [[ChromeDriver: chrome on MAC (b722b1ea5f413cba40ba41f5636f9ddb)] -> xpath: //*[@id="email"]] and password[[ChromeDriver: chrome on MAC (b722b1ea5f413cba40ba41f5636f9ddb)] -> xpath: //*[@id="password"]]
+2023-05-31 12:56:20,350 [main] INFO logger_file - User clicks on the login button
+2023-05-31 12:56:21,705 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 12:56:22,581 [main] INFO logger_file - User clicks on the Orders section
+2023-05-31 12:56:22,907 [main] INFO logger_file - User clicks on the first order in the list
+2023-05-31 12:56:25,358 [main] INFO logger_file - User clicks on the Return Items button
+2023-05-31 12:56:26,189 [main] INFO logger_file - User selects the Return Reason: Item damaged
+2023-05-31 12:56:26,619 [main] INFO logger_file - User selects the drop off service: FedEx
+2023-05-31 12:56:27,539 [main] INFO logger_file - User clicks on the Return Order button
+2023-05-31 12:56:27,929 [main] INFO logger_file - Return successful message displayed: Return was successfull
+2023-05-31 19:04:16,466 [main] INFO logger_file - user is on retail website
+2023-05-31 19:04:17,193 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 19:04:24,457 [main] INFO logger_file - User enters email: [[ChromeDriver: chrome on MAC (3b6bbbd2559cfb719d2636260164aa34)] -> xpath: //*[@id="email"]] and password[[ChromeDriver: chrome on MAC (3b6bbbd2559cfb719d2636260164aa34)] -> xpath: //*[@id="password"]]
+2023-05-31 19:04:25,170 [main] INFO logger_file - User clicks on the login button
+2023-05-31 19:04:27,124 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 19:04:27,351 [main] INFO logger_file - User clicks on the Orders section
+2023-05-31 19:04:29,589 [main] INFO logger_file - User clicks on the first order in the list
+2023-05-31 19:04:32,461 [main] INFO logger_file - User clicks on the Return Items button
+2023-05-31 19:04:33,299 [main] INFO logger_file - User selects the Return Reason: Item damaged
+2023-05-31 19:04:33,833 [main] INFO logger_file - User selects the drop off service: FedEx
+2023-05-31 19:04:34,697 [main] INFO logger_file - User clicks on the Return Order button
