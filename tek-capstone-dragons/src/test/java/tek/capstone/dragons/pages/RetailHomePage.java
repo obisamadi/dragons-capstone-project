@@ -19,7 +19,7 @@ public class RetailHomePage extends BaseSetup {
 	@FindBy(xpath = "//*[@id=\"signinLink\"]")
 	public WebElement signInOption;
 	
-	@FindBy(xpath = "/html/body/div[1]/div[1]/div[1]/div[1]/div[2]/a")
+	@FindBy(xpath = "//*[@id=\"accountLink\"]")
 	public WebElement accountOption;
 	
 	@FindBy(linkText = "Orders")

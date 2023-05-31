@@ -44,19 +44,19 @@ public class RetailAccountSteps extends CommonUtilities {
 		logger.info("User enters email: " + emailInput + " and password" + passwordInput);
 	}
 
-	@When("User click on login button")
-	public void userClickOnLoginButton() {
-		click(factory.signinPage().loginBttn);
-		logger.info("User clicks on the login button");
-	}
+	//@When("User click on login button")
+	//public void userClickOnLoginButton() {
+		//click(factory.signinPage().loginBttn);
+		//logger.info("User clicks on the login button");
+	//}
 
-	@When("User should be logged in into Account")
-	public void userShouldBeLoggedInIntoAccount() {
-		waitTillPresence(factory.homePage().accountOption);
+	//@When("User should be logged in into Account")
+	//public void userShouldBeLoggedInIntoAccount() {
+		//waitTillPresence(factory.homePage().accountOption);
 		// slowDown();
-		Assert.assertTrue(isElementDisplayed(factory.homePage().accountOption));
-		logger.info("User is logged in into the Account");
-	}
+		//Assert.assertTrue(isElementDisplayed(factory.homePage().accountOption));
+		//logger.info("User is logged in into the Account");
+	//}
 
 	@When("User click on Account option")
 	public void userClickOnAccountOption() {

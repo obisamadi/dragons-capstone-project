@@ -21,7 +21,7 @@ Feature: Retail Account Page
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 0987878787878787      | Ubaid Samadi      | 08           | 28          | 119       |
+      | 0987878787878777      | Ubaid Samadi      | 08           | 28          | 119       |
     And User click on Add your card button
     Then a message should be displayed 'Payment Method added successfully'
 
@@ -31,7 +31,7 @@ Feature: Retail Account Page
     And User click on Edit option of card section
     And user edit information with below data
       | cardNumber | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 0987878787878788      | Ubaid Sama       | 09           | 29          | 112        |
+      | 0987878787878768      | Ubaid Sama       | 09           | 29          | 112        |
     And user click on Update Your Card button
     Then a message should be displayed ‘Payment Method updated Successfully’
 
@@ -57,7 +57,7 @@ Feature: Retail Account Page
     And User click on edit address option
     And user fill new address form with below information
       | country | fullName | phoneNumber | streetAddress | apt   | city  | state | zipCode |
-      | United States   | Ubaid Sam    | 5408410418       | 899 N Orange Ave         | Apt 522 | Miami | Florida | 32808   |
+      | United States   | Ubaid Sam    | 5408410416       | 899 N Orange Ave         | Apt 522 | Miami | Florida | 32808   |
     And User click update Your Address button
     Then a message should be displayed ‘Address Updated Successfully’
 
