@@ -286,5 +286,4 @@ public class RetailOrderSteps extends CommonUtilities {
 		logger.info("Your review was added successfully: " + actualMessage.getText());
 	}
 
-
 }
