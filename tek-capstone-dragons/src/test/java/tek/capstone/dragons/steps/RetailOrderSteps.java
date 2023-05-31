@@ -19,7 +19,6 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import tek.capstone.dragons.pages.POMFactory;
 import tek.capstone.dragons.utilities.CommonUtilities;
-import tek.sqa.framework.utilities.CommonUtility;
 
 public class RetailOrderSteps extends CommonUtilities {
 
