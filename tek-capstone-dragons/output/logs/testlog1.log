@@ -1472,3 +1472,791 @@ Item quantity:
 2023-05-30 18:49:43,519 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (06689636-f0fa-45f8-bddd-a4552593502f)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (06689636-f0fa-45f8-bddd-a4552593502f)] -> xpath: //*[@id="password"]]
 2023-05-30 18:49:43,792 [main] INFO logger_file - User clicks on the login button
 2023-05-30 18:49:44,372 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 21:51:32,823 [main] INFO logger_file - user is on retail website
+2023-05-30 21:51:33,193 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 21:51:33,465 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (9c4e1593-d202-4387-ad12-db823639c948)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (9c4e1593-d202-4387-ad12-db823639c948)] -> xpath: //*[@id="password"]]
+2023-05-30 21:51:33,733 [main] INFO logger_file - User clicks on the login button
+2023-05-30 21:51:34,300 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 21:58:58,321 [main] INFO logger_file - user is on retail website
+2023-05-30 22:04:49,942 [main] INFO logger_file - user is on retail website
+2023-05-30 22:04:50,297 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 22:04:50,604 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (4a19cdb5-a416-4713-b970-d1c6e590a31b)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (4a19cdb5-a416-4713-b970-d1c6e590a31b)] -> xpath: //*[@id="password"]]
+2023-05-30 22:04:50,914 [main] INFO logger_file - User clicks on the login button
+2023-05-30 22:04:51,461 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 22:09:19,241 [main] INFO logger_file - user is on retail website
+2023-05-30 22:09:19,572 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 22:09:19,808 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (6f261f32-76a5-4ce9-bb7c-2164c1e82dc1)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (6f261f32-76a5-4ce9-bb7c-2164c1e82dc1)] -> xpath: //*[@id="password"]]
+2023-05-30 22:09:20,101 [main] INFO logger_file - User clicks on the login button
+2023-05-30 22:09:20,641 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 22:10:27,141 [main] INFO logger_file - user is on retail website
+2023-05-30 22:10:27,460 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 22:10:27,704 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (cd153a92-d5f7-42be-a30a-a28902556441)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (cd153a92-d5f7-42be-a30a-a28902556441)] -> xpath: //*[@id="password"]]
+2023-05-30 22:10:28,002 [main] INFO logger_file - User clicks on the login button
+2023-05-30 22:10:28,004 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 22:26:02,380 [main] INFO logger_file - user is on retail website
+2023-05-30 22:26:02,732 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 22:26:02,971 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (6c1efa7b-b529-4481-abcc-27f7e584cc7e)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (6c1efa7b-b529-4481-abcc-27f7e584cc7e)] -> xpath: //*[@id="password"]]
+2023-05-30 22:26:03,267 [main] INFO logger_file - User clicks on the login button
+2023-05-30 22:26:03,818 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 22:26:04,121 [main] INFO logger_file - User change caegory to smartHome
+2023-05-30 22:43:57,649 [main] INFO logger_file - user is on retail website
+2023-05-30 22:43:58,004 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 22:43:58,234 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (67c81c93-1d2d-455f-8b1e-4123c8c2eb7d)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (67c81c93-1d2d-455f-8b1e-4123c8c2eb7d)] -> xpath: //*[@id="password"]]
+2023-05-30 22:43:58,530 [main] INFO logger_file - User clicks on the login button
+2023-05-30 22:43:59,071 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 22:43:59,376 [main] INFO logger_file - User change caegory to smartHome
+2023-05-30 22:43:59,430 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-30 22:43:59,690 [main] INFO logger_file - User clicks on the Search icon
+2023-05-30 22:50:38,827 [main] INFO logger_file - user is on retail website
+2023-05-30 22:50:39,171 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 22:50:39,401 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (7eeed5f4-c417-46bd-8377-721055a08f42)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (7eeed5f4-c417-46bd-8377-721055a08f42)] -> xpath: //*[@id="password"]]
+2023-05-30 22:50:39,691 [main] INFO logger_file - User clicks on the login button
+2023-05-30 22:50:40,234 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 22:50:40,536 [main] INFO logger_file - User change caegory to smartHome
+2023-05-30 22:50:40,587 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-30 22:50:40,844 [main] INFO logger_file - User clicks on the Search icon
+2023-05-30 22:52:06,483 [main] INFO logger_file - user is on retail website
+2023-05-30 22:52:06,833 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 22:52:07,073 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (2ad854c2-1761-43e4-8cd2-1a8865949a3c)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (2ad854c2-1761-43e4-8cd2-1a8865949a3c)] -> xpath: //*[@id="password"]]
+2023-05-30 22:52:07,369 [main] INFO logger_file - User clicks on the login button
+2023-05-30 22:52:07,917 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 22:52:08,210 [main] INFO logger_file - User change caegory to smartHome
+2023-05-30 22:52:08,264 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-30 22:55:22,157 [main] INFO logger_file - user is on retail website
+2023-05-30 22:55:22,485 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 22:55:22,719 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (ae8622f5-42ed-47c6-9a7b-056368e81e54)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (ae8622f5-42ed-47c6-9a7b-056368e81e54)] -> xpath: //*[@id="password"]]
+2023-05-30 22:55:23,018 [main] INFO logger_file - User clicks on the login button
+2023-05-30 22:55:23,557 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 22:55:23,860 [main] INFO logger_file - User change caegory to smartHome
+2023-05-30 22:55:23,917 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-30 22:56:02,387 [main] INFO logger_file - user is on retail website
+2023-05-30 22:56:02,716 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 22:56:02,947 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (7e660425-d5bf-4c77-b29a-683a769af362)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (7e660425-d5bf-4c77-b29a-683a769af362)] -> xpath: //*[@id="password"]]
+2023-05-30 22:56:03,241 [main] INFO logger_file - User clicks on the login button
+2023-05-30 22:56:03,784 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 22:56:04,080 [main] INFO logger_file - User change caegory to smartHome
+2023-05-30 22:56:04,129 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-30 23:00:25,886 [main] INFO logger_file - user is on retail website
+2023-05-30 23:00:26,235 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 23:00:26,473 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (bf50e18d-a8c5-4559-9c81-469c96d6247d)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (bf50e18d-a8c5-4559-9c81-469c96d6247d)] -> xpath: //*[@id="password"]]
+2023-05-30 23:00:26,767 [main] INFO logger_file - User clicks on the login button
+2023-05-30 23:00:27,305 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 23:00:27,605 [main] INFO logger_file - User change caegory to smartHome
+2023-05-30 23:00:27,657 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-30 23:01:45,192 [main] INFO logger_file - user is on retail website
+2023-05-30 23:01:45,529 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 23:01:45,771 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (a2a22fa7-9a19-43fa-b375-2ef7a5fb424d)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (a2a22fa7-9a19-43fa-b375-2ef7a5fb424d)] -> xpath: //*[@id="password"]]
+2023-05-30 23:01:46,082 [main] INFO logger_file - User clicks on the login button
+2023-05-30 23:01:46,641 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 23:01:46,937 [main] INFO logger_file - User change caegory to smartHome
+2023-05-30 23:01:46,991 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-30 23:03:18,780 [main] INFO logger_file - user is on retail website
+2023-05-30 23:03:19,111 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 23:03:19,349 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (6ed7a7c4-a822-47d9-a289-8b17e05855f9)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (6ed7a7c4-a822-47d9-a289-8b17e05855f9)] -> xpath: //*[@id="password"]]
+2023-05-30 23:03:19,637 [main] INFO logger_file - User clicks on the login button
+2023-05-30 23:03:20,176 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 23:03:20,491 [main] INFO logger_file - User change caegory to smartHome
+2023-05-30 23:03:20,541 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-30 23:04:06,652 [main] INFO logger_file - user is on retail website
+2023-05-30 23:04:07,012 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 23:04:07,252 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (658aa733-4140-4159-b71c-bc4b23e0cf75)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (658aa733-4140-4159-b71c-bc4b23e0cf75)] -> xpath: //*[@id="password"]]
+2023-05-30 23:04:07,544 [main] INFO logger_file - User clicks on the login button
+2023-05-30 23:04:08,084 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 23:04:08,380 [main] INFO logger_file - User change caegory to smartHome
+2023-05-30 23:04:08,434 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-30 23:04:08,696 [main] INFO logger_file - User clicks on the Search icon
+2023-05-30 23:04:08,951 [main] INFO logger_file - User clicks on the item
+2023-05-30 23:04:34,542 [main] INFO logger_file - user is on retail website
+2023-05-30 23:04:34,899 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 23:04:35,143 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (e9ec98ad-fad8-41f6-9897-ad8577672d1e)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (e9ec98ad-fad8-41f6-9897-ad8577672d1e)] -> xpath: //*[@id="password"]]
+2023-05-30 23:04:35,434 [main] INFO logger_file - User clicks on the login button
+2023-05-30 23:04:35,972 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 23:04:36,270 [main] INFO logger_file - User change caegory to smartHome
+2023-05-30 23:04:36,324 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-30 23:04:36,585 [main] INFO logger_file - User clicks on the Search icon
+2023-05-30 23:04:36,836 [main] INFO logger_file - User clicks on the item
+2023-05-30 23:04:37,088 [main] INFO logger_file - 5was selected
+2023-05-30 23:04:37,334 [main] INFO logger_file - User clicked on add to cart
+2023-05-30 23:11:10,878 [main] INFO logger_file - user is on retail website
+2023-05-30 23:11:11,202 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 23:11:11,438 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (88f9451f-dac4-42ac-be4b-302a138762f1)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (88f9451f-dac4-42ac-be4b-302a138762f1)] -> xpath: //*[@id="password"]]
+2023-05-30 23:11:11,730 [main] INFO logger_file - User clicks on the login button
+2023-05-30 23:11:12,272 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 23:11:12,573 [main] INFO logger_file - User change caegory to smartHome
+2023-05-30 23:11:12,627 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-30 23:11:12,887 [main] INFO logger_file - User clicks on the Search icon
+2023-05-30 23:11:13,145 [main] INFO logger_file - User clicks on the item
+2023-05-30 23:11:13,403 [main] INFO logger_file - 5was selected
+2023-05-30 23:11:13,652 [main] INFO logger_file - User clicked on add to cart
+2023-05-30 23:23:25,907 [main] INFO logger_file - user is on retail website
+2023-05-30 23:23:26,239 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 23:23:26,478 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (09c2272f-ebe1-4e58-9eb3-0136ae9930b2)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (09c2272f-ebe1-4e58-9eb3-0136ae9930b2)] -> xpath: //*[@id="password"]]
+2023-05-30 23:23:26,775 [main] INFO logger_file - User clicks on the login button
+2023-05-30 23:23:27,322 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 23:23:27,619 [main] INFO logger_file - User change caegory to smartHome
+2023-05-30 23:23:27,675 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-30 23:23:27,939 [main] INFO logger_file - User clicks on the Search icon
+2023-05-30 23:23:28,189 [main] INFO logger_file - User clicks on the item
+2023-05-30 23:23:28,447 [main] INFO logger_file - 5was selected
+2023-05-30 23:23:28,695 [main] INFO logger_file - User clicked on add to cart
+2023-05-30 23:25:23,462 [main] INFO logger_file - user is on retail website
+2023-05-30 23:25:23,791 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 23:25:24,027 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (210acef0-afd2-4aed-9cc7-57b24ed5db47)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (210acef0-afd2-4aed-9cc7-57b24ed5db47)] -> xpath: //*[@id="password"]]
+2023-05-30 23:25:24,316 [main] INFO logger_file - User clicks on the login button
+2023-05-30 23:25:24,856 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 23:25:25,157 [main] INFO logger_file - User change caegory to smartHome
+2023-05-30 23:25:25,213 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-30 23:25:25,471 [main] INFO logger_file - User clicks on the Search icon
+2023-05-30 23:25:25,724 [main] INFO logger_file - User clicks on the item
+2023-05-30 23:25:25,981 [main] INFO logger_file - 5was selected
+2023-05-30 23:25:26,224 [main] INFO logger_file - User clicked on add to cart
+2023-05-30 23:36:27,939 [main] INFO logger_file - user is on retail website
+2023-05-30 23:36:28,270 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 23:36:28,512 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (5a9758cb-9a6c-4a90-a462-caf4ec8f28c6)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (5a9758cb-9a6c-4a90-a462-caf4ec8f28c6)] -> xpath: //*[@id="password"]]
+2023-05-30 23:36:28,812 [main] INFO logger_file - User clicks on the login button
+2023-05-30 23:36:29,354 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 23:36:29,646 [main] INFO logger_file - User change caegory to smartHome
+2023-05-30 23:36:29,699 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-30 23:36:29,958 [main] INFO logger_file - User clicks on the Search icon
+2023-05-30 23:36:30,214 [main] INFO logger_file - User clicks on the item
+2023-05-30 23:36:30,473 [main] INFO logger_file - 5was selected
+2023-05-30 23:36:30,737 [main] INFO logger_file - User clicked on add to cart
+2023-05-30 23:37:05,243 [main] INFO logger_file - user is on retail website
+2023-05-30 23:37:05,637 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 23:37:05,878 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (ac1a57ec-487f-423e-9c54-7a862521d319)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (ac1a57ec-487f-423e-9c54-7a862521d319)] -> xpath: //*[@id="password"]]
+2023-05-30 23:37:06,176 [main] INFO logger_file - User clicks on the login button
+2023-05-30 23:37:06,714 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 23:37:07,011 [main] INFO logger_file - User change caegory to smartHome
+2023-05-30 23:37:07,066 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-30 23:37:07,327 [main] INFO logger_file - User clicks on the Search icon
+2023-05-30 23:37:07,575 [main] INFO logger_file - User clicks on the item
+2023-05-30 23:37:07,833 [main] INFO logger_file - 5was selected
+2023-05-30 23:37:08,083 [main] INFO logger_file - User clicked on add to cart
+2023-05-30 23:37:08,099 [main] INFO logger_file - 5was validated
+2023-05-30 23:43:11,662 [main] INFO logger_file - user is on retail website
+2023-05-30 23:43:12,025 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 23:43:12,255 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (18f4f345-12c3-4036-adba-214c8eca3674)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (18f4f345-12c3-4036-adba-214c8eca3674)] -> xpath: //*[@id="password"]]
+2023-05-30 23:43:12,556 [main] INFO logger_file - User clicks on the login button
+2023-05-30 23:43:13,096 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 23:43:13,396 [main] INFO logger_file - User change caegory to smartHome
+2023-05-30 23:43:13,446 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-30 23:43:13,702 [main] INFO logger_file - User clicks on the Search icon
+2023-05-30 23:43:13,958 [main] INFO logger_file - User clicks on the item
+2023-05-30 23:43:14,218 [main] INFO logger_file - 5was selected
+2023-05-30 23:43:14,468 [main] INFO logger_file - User clicked on add to cart
+2023-05-30 23:43:47,854 [main] INFO logger_file - user is on retail website
+2023-05-30 23:43:48,176 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 23:43:48,415 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (554facc9-a4c5-41d8-8d0a-696cb7bf192b)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (554facc9-a4c5-41d8-8d0a-696cb7bf192b)] -> xpath: //*[@id="password"]]
+2023-05-30 23:43:48,703 [main] INFO logger_file - User clicks on the login button
+2023-05-30 23:43:49,246 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 23:43:49,539 [main] INFO logger_file - User change caegory to smartHome
+2023-05-30 23:43:49,589 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-30 23:43:49,848 [main] INFO logger_file - User clicks on the Search icon
+2023-05-30 23:43:50,101 [main] INFO logger_file - User clicks on the item
+2023-05-30 23:43:50,357 [main] INFO logger_file - 5was selected
+2023-05-30 23:43:50,606 [main] INFO logger_file - User clicked on add to cart
+2023-05-30 23:43:50,624 [main] INFO logger_file - 5was validated
+2023-05-30 23:51:52,593 [main] INFO logger_file - user is on retail website
+2023-05-30 23:51:52,941 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 23:51:53,214 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (08ed15fe-b76c-4e00-8625-db1fa6e3c4eb)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (08ed15fe-b76c-4e00-8625-db1fa6e3c4eb)] -> xpath: //*[@id="password"]]
+2023-05-30 23:51:53,516 [main] INFO logger_file - User clicks on the login button
+2023-05-30 23:51:54,058 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 23:51:54,361 [main] INFO logger_file - User change caegory to smartHome
+2023-05-30 23:51:54,414 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-30 23:51:54,676 [main] INFO logger_file - User clicks on the Search icon
+2023-05-30 23:51:54,931 [main] INFO logger_file - User clicks on the item
+2023-05-30 23:51:55,192 [main] INFO logger_file - 5was selected
+2023-05-30 23:51:55,435 [main] INFO logger_file - User clicked on add to cart
+2023-05-30 23:52:26,317 [main] INFO logger_file - user is on retail website
+2023-05-30 23:52:26,640 [main] INFO logger_file - user cliked on Sign In option
+2023-05-30 23:52:26,873 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (3243179a-7901-4a3a-93c7-9fcfec54f295)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (3243179a-7901-4a3a-93c7-9fcfec54f295)] -> xpath: //*[@id="password"]]
+2023-05-30 23:52:27,170 [main] INFO logger_file - User clicks on the login button
+2023-05-30 23:52:27,715 [main] INFO logger_file - User is logged in into the Account
+2023-05-30 23:52:28,007 [main] INFO logger_file - User change caegory to smartHome
+2023-05-30 23:52:28,067 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-30 23:52:28,325 [main] INFO logger_file - User clicks on the Search icon
+2023-05-30 23:52:28,573 [main] INFO logger_file - User clicks on the item
+2023-05-30 23:52:28,832 [main] INFO logger_file - 5was selected
+2023-05-30 23:52:29,077 [main] INFO logger_file - User clicked on add to cart
+2023-05-30 23:52:29,092 [main] INFO logger_file - 5was validated
+2023-05-30 23:52:29,368 [main] INFO logger_file - User clicks on the Cart option
+2023-05-31 00:01:55,694 [main] INFO logger_file - user is on retail website
+2023-05-31 00:01:56,045 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:01:56,285 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (c568c096-60cb-4e92-a550-a9d73adf96e3)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (c568c096-60cb-4e92-a550-a9d73adf96e3)] -> xpath: //*[@id="password"]]
+2023-05-31 00:01:56,583 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:01:57,133 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:01:57,433 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:01:57,484 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-31 00:01:57,741 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:01:57,990 [main] INFO logger_file - User clicks on the item
+2023-05-31 00:01:58,249 [main] INFO logger_file - 5was selected
+2023-05-31 00:01:58,500 [main] INFO logger_file - User clicked on add to cart
+2023-05-31 00:09:30,914 [main] INFO logger_file - user is on retail website
+2023-05-31 00:09:31,285 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:09:31,534 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (12a73776-00e6-4b91-a3eb-c559ec7e72a1)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (12a73776-00e6-4b91-a3eb-c559ec7e72a1)] -> xpath: //*[@id="password"]]
+2023-05-31 00:09:31,834 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:09:32,381 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:09:32,672 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:09:32,723 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-31 00:09:32,984 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:09:33,236 [main] INFO logger_file - User clicks on the item
+2023-05-31 00:09:33,497 [main] INFO logger_file - 5was selected
+2023-05-31 00:09:33,749 [main] INFO logger_file - User clicked on add to cart
+2023-05-31 00:09:33,768 [main] INFO logger_file - 5was validated
+2023-05-31 00:09:34,045 [main] INFO logger_file - User clicks on the Cart option
+2023-05-31 00:09:34,306 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-05-31 00:10:09,465 [main] INFO logger_file - user is on retail website
+2023-05-31 00:10:09,816 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:10:10,052 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (61b357d0-57b7-4907-a609-795b7b2aeae4)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (61b357d0-57b7-4907-a609-795b7b2aeae4)] -> xpath: //*[@id="password"]]
+2023-05-31 00:10:10,345 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:10:10,901 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:10:11,200 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:10:11,254 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-31 00:10:11,515 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:10:11,766 [main] INFO logger_file - User clicks on the item
+2023-05-31 00:10:12,021 [main] INFO logger_file - 5was selected
+2023-05-31 00:10:12,267 [main] INFO logger_file - User clicked on add to cart
+2023-05-31 00:10:12,281 [main] INFO logger_file - 5was validated
+2023-05-31 00:10:12,548 [main] INFO logger_file - User clicks on the Cart option
+2023-05-31 00:10:12,803 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-05-31 00:18:43,546 [main] INFO logger_file - user is on retail website
+2023-05-31 00:18:43,884 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:18:44,117 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (d4f138a2-8e5f-423a-afef-ef3e4c4fc6aa)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (d4f138a2-8e5f-423a-afef-ef3e4c4fc6aa)] -> xpath: //*[@id="password"]]
+2023-05-31 00:18:44,404 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:18:44,943 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:18:45,246 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:18:45,297 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-31 00:18:45,552 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:18:45,805 [main] INFO logger_file - User clicks on the item
+2023-05-31 00:18:46,066 [main] INFO logger_file - 5was selected
+2023-05-31 00:18:46,308 [main] INFO logger_file - User clicked on add to cart
+2023-05-31 00:19:10,173 [main] INFO logger_file - user is on retail website
+2023-05-31 00:19:10,512 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:19:10,744 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (14bd0889-9afe-456c-bfce-256e656e78f3)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (14bd0889-9afe-456c-bfce-256e656e78f3)] -> xpath: //*[@id="password"]]
+2023-05-31 00:19:11,036 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:19:11,577 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:19:11,867 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:19:11,921 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-31 00:19:12,178 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:19:12,436 [main] INFO logger_file - User clicks on the item
+2023-05-31 00:19:12,696 [main] INFO logger_file - 5was selected
+2023-05-31 00:19:12,943 [main] INFO logger_file - User clicked on add to cart
+2023-05-31 00:19:12,959 [main] INFO logger_file - 5was validated
+2023-05-31 00:19:13,232 [main] INFO logger_file - User clicks on the Cart option
+2023-05-31 00:19:13,492 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-05-31 00:20:42,196 [main] INFO logger_file - user is on retail website
+2023-05-31 00:20:42,527 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:20:42,776 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (ae30de62-1f8b-4594-8245-d287fe51c2aa)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (ae30de62-1f8b-4594-8245-d287fe51c2aa)] -> xpath: //*[@id="password"]]
+2023-05-31 00:20:43,074 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:20:43,617 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:20:43,912 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:20:43,970 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-31 00:20:44,239 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:20:44,498 [main] INFO logger_file - User clicks on the item
+2023-05-31 00:20:44,760 [main] INFO logger_file - 5was selected
+2023-05-31 00:20:45,004 [main] INFO logger_file - User clicked on add to cart
+2023-05-31 00:21:11,931 [main] INFO logger_file - user is on retail website
+2023-05-31 00:21:12,263 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:21:12,502 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (107f5376-25c0-44e2-8f77-253d763d15e5)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (107f5376-25c0-44e2-8f77-253d763d15e5)] -> xpath: //*[@id="password"]]
+2023-05-31 00:21:12,803 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:21:13,347 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:21:13,647 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:21:13,707 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-31 00:21:13,965 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:21:14,220 [main] INFO logger_file - User clicks on the item
+2023-05-31 00:21:14,481 [main] INFO logger_file - 5was selected
+2023-05-31 00:21:14,727 [main] INFO logger_file - User clicked on add to cart
+2023-05-31 00:21:14,743 [main] INFO logger_file - 5was validated
+2023-05-31 00:21:15,014 [main] INFO logger_file - User clicks on the Cart option
+2023-05-31 00:21:15,278 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-05-31 00:22:26,942 [main] INFO logger_file - user is on retail website
+2023-05-31 00:22:27,275 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:22:27,500 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (bb322830-7ceb-4fbf-ae76-0a93dbf71c7e)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (bb322830-7ceb-4fbf-ae76-0a93dbf71c7e)] -> xpath: //*[@id="password"]]
+2023-05-31 00:22:27,795 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:22:28,338 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:22:28,641 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:22:28,695 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-31 00:22:28,949 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:22:29,204 [main] INFO logger_file - User clicks on the item
+2023-05-31 00:22:29,464 [main] INFO logger_file - 5was selected
+2023-05-31 00:22:29,710 [main] INFO logger_file - User clicked on add to cart
+2023-05-31 00:22:29,724 [main] INFO logger_file - 5was validated
+2023-05-31 00:22:29,998 [main] INFO logger_file - User clicks on the Cart option
+2023-05-31 00:22:30,260 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-05-31 00:25:48,695 [main] INFO logger_file - user is on retail website
+2023-05-31 00:25:49,045 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:25:49,287 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (9e5bb4a9-8b65-4336-ba66-d2d03c3c7fae)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (9e5bb4a9-8b65-4336-ba66-d2d03c3c7fae)] -> xpath: //*[@id="password"]]
+2023-05-31 00:25:49,583 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:25:50,132 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:25:50,446 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:25:50,504 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-31 00:25:50,767 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:25:51,013 [main] INFO logger_file - User clicks on the item
+2023-05-31 00:25:51,271 [main] INFO logger_file - 5was selected
+2023-05-31 00:25:51,528 [main] INFO logger_file - User clicked on add to cart
+2023-05-31 00:26:12,458 [main] INFO logger_file - user is on retail website
+2023-05-31 00:26:12,828 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:26:13,104 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (d3de3e53-9a9d-4271-a776-fa78d9815dee)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (d3de3e53-9a9d-4271-a776-fa78d9815dee)] -> xpath: //*[@id="password"]]
+2023-05-31 00:26:13,403 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:26:13,955 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:26:14,256 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:26:14,308 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-31 00:26:14,571 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:26:14,834 [main] INFO logger_file - User clicks on the item
+2023-05-31 00:26:15,094 [main] INFO logger_file - 5was selected
+2023-05-31 00:26:15,342 [main] INFO logger_file - User clicked on add to cart
+2023-05-31 00:26:15,355 [main] INFO logger_file - 5was validated
+2023-05-31 00:26:15,629 [main] INFO logger_file - User clicks on the Cart option
+2023-05-31 00:26:15,880 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-05-31 00:31:34,581 [main] INFO logger_file - user is on retail website
+2023-05-31 00:31:34,913 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:31:35,157 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (ae1d1496-9b66-4489-9782-376cd188614d)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (ae1d1496-9b66-4489-9782-376cd188614d)] -> xpath: //*[@id="password"]]
+2023-05-31 00:31:35,456 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:31:36,001 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:31:36,296 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:31:36,351 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-31 00:31:36,613 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:31:36,861 [main] INFO logger_file - User clicks on the item
+2023-05-31 00:31:37,119 [main] INFO logger_file - 5was selected
+2023-05-31 00:31:37,365 [main] INFO logger_file - User clicked on add to cart
+2023-05-31 00:32:00,262 [main] INFO logger_file - user is on retail website
+2023-05-31 00:32:00,630 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:32:00,870 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (cceccb78-9ef9-435c-9ad9-510e12e635ee)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (cceccb78-9ef9-435c-9ad9-510e12e635ee)] -> xpath: //*[@id="password"]]
+2023-05-31 00:32:01,167 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:32:01,710 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:32:02,007 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:32:02,061 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-31 00:32:02,322 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:32:02,576 [main] INFO logger_file - User clicks on the item
+2023-05-31 00:32:02,837 [main] INFO logger_file - 5was selected
+2023-05-31 00:32:03,086 [main] INFO logger_file - User clicked on add to cart
+2023-05-31 00:32:03,101 [main] INFO logger_file - 5was validated
+2023-05-31 00:32:03,375 [main] INFO logger_file - User clicks on the Cart option
+2023-05-31 00:32:03,636 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-05-31 00:32:03,888 [main] INFO logger_file - User clicks on place your order button
+2023-05-31 00:32:03,891 [main] INFO logger_file - Successful message displayed
+2023-05-31 00:32:59,894 [main] INFO logger_file - user is on retail website
+2023-05-31 00:33:00,227 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:33:00,471 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (b8df891a-874d-42ef-a0ae-4eefc5ab7726)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (b8df891a-874d-42ef-a0ae-4eefc5ab7726)] -> xpath: //*[@id="password"]]
+2023-05-31 00:33:00,768 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:33:01,311 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:33:01,611 [main] INFO logger_file - User clicks on the Orders section
+2023-05-31 00:33:01,865 [main] INFO logger_file - User clicks on the first order in the list
+2023-05-31 00:33:02,151 [main] INFO logger_file - User clicks on the Cancel The Order button
+2023-05-31 00:33:02,694 [main] INFO logger_file - User selects the cancellation reason: Bought wrong item
+2023-05-31 00:33:02,726 [main] INFO logger_file - Cancellation message displayed: Your Order Has Been Cancelled
+Payment refunded to cart ending with ...8787
+Order Summary
+Item total:
+$ 9.99
+Item quantity:
+5
+2023-05-31 00:34:01,825 [main] INFO logger_file - user is on retail website
+2023-05-31 00:34:02,157 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:34:02,401 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (2ea9e813-f060-4a16-9c19-517f934b12a5)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (2ea9e813-f060-4a16-9c19-517f934b12a5)] -> xpath: //*[@id="password"]]
+2023-05-31 00:34:02,699 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:34:03,236 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:34:03,529 [main] INFO logger_file - User clicks on the Orders section
+2023-05-31 00:34:03,784 [main] INFO logger_file - User clicks on the first order in the list
+2023-05-31 00:35:17,320 [main] INFO logger_file - user is on retail website
+2023-05-31 00:35:17,679 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:35:17,910 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (beeb9683-b651-4eb8-9a36-9e0478b57c81)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (beeb9683-b651-4eb8-9a36-9e0478b57c81)] -> xpath: //*[@id="password"]]
+2023-05-31 00:35:18,206 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:35:18,751 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:35:19,036 [main] INFO logger_file - User clicks on the Orders section
+2023-05-31 00:35:19,289 [main] INFO logger_file - User clicks on the first order in the list
+2023-05-31 00:35:19,555 [main] INFO logger_file - User clicks on the Return Items button
+2023-05-31 00:35:19,853 [main] INFO logger_file - User selects the Return Reason: Item damaged
+2023-05-31 00:35:20,114 [main] INFO logger_file - User selects the drop off service: FedEx
+2023-05-31 00:35:20,371 [main] INFO logger_file - User clicks on the Return Order button
+2023-05-31 00:35:20,389 [main] INFO logger_file - Return successful message displayed: Return was successfull
+2023-05-31 00:36:10,074 [main] INFO logger_file - user is on retail website
+2023-05-31 00:36:10,395 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:36:10,634 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (bfccaa80-ebb4-489b-8a7f-b19035879c58)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (bfccaa80-ebb4-489b-8a7f-b19035879c58)] -> xpath: //*[@id="password"]]
+2023-05-31 00:36:10,930 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:36:11,468 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:36:11,721 [main] INFO logger_file - User clicks on the Orders section
+2023-05-31 00:36:11,969 [main] INFO logger_file - User clicks on the first order in the list
+2023-05-31 00:36:12,232 [main] INFO logger_file - User clicks on the Review button
+2023-05-31 00:36:12,442 [main] INFO logger_file - User writes Review headline: headline value and Review text: review text
+2023-05-31 00:36:12,704 [main] INFO logger_file - User clicks on the Add your Review button
+2023-05-31 00:36:12,740 [main] INFO logger_file - Your review was added successfully: 
+2023-05-31 00:36:42,252 [main] INFO logger_file - user is on retail website
+2023-05-31 00:36:42,616 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:36:42,852 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (08c98cea-85e0-4e54-894f-2b48b466e681)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (08c98cea-85e0-4e54-894f-2b48b466e681)] -> xpath: //*[@id="password"]]
+2023-05-31 00:36:43,153 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:36:43,690 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:36:43,992 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:36:44,071 [main] INFO logger_file - User searches for item:  kasa outdoor smart plug
+2023-05-31 00:36:44,334 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:41:29,770 [main] INFO logger_file - user is on retail website
+2023-05-31 00:41:30,126 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:41:30,373 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (436da84b-5607-4e50-86f7-ca11e5ee6d9c)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (436da84b-5607-4e50-86f7-ca11e5ee6d9c)] -> xpath: //*[@id="password"]]
+2023-05-31 00:41:30,671 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:41:31,212 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:41:31,509 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:41:31,588 [main] INFO logger_file - User searches for item:  kasa outdoor smart plug
+2023-05-31 00:41:31,847 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:42:38,417 [main] INFO logger_file - user is on retail website
+2023-05-31 00:42:38,766 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:42:39,027 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (1ba61a44-d170-44c9-a954-d9c09162be7c)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (1ba61a44-d170-44c9-a954-d9c09162be7c)] -> xpath: //*[@id="password"]]
+2023-05-31 00:42:39,708 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:42:39,729 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:42:40,040 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:42:40,111 [main] INFO logger_file - User searches for item:  kasa outdoor smart plug
+2023-05-31 00:42:40,362 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:44:41,179 [main] INFO logger_file - user is on retail website
+2023-05-31 00:44:41,507 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:44:41,748 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (a5ddb19c-bfb6-4ab4-8cc7-abaa2b70046f)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (a5ddb19c-bfb6-4ab4-8cc7-abaa2b70046f)] -> xpath: //*[@id="password"]]
+2023-05-31 00:44:42,047 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:44:42,586 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:44:42,883 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:44:42,941 [main] INFO logger_file - User searches for item:  kasa outdoor smart plug
+2023-05-31 00:44:43,206 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:46:53,012 [main] INFO logger_file - user is on retail website
+2023-05-31 00:46:53,359 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:46:53,599 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (54cce0b2-b630-4a23-bbd4-de28d50e5bd9)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (54cce0b2-b630-4a23-bbd4-de28d50e5bd9)] -> xpath: //*[@id="password"]]
+2023-05-31 00:46:53,897 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:46:54,431 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:46:54,732 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:46:54,788 [main] INFO logger_file - User searches for item:  kasa outdoor smart plug
+2023-05-31 00:46:55,049 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:47:54,504 [main] INFO logger_file - user is on retail website
+2023-05-31 00:47:54,831 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:47:55,071 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (1107fa2e-4f71-44f3-85cc-f0289c56d3f5)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (1107fa2e-4f71-44f3-85cc-f0289c56d3f5)] -> xpath: //*[@id="password"]]
+2023-05-31 00:47:55,369 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:47:55,906 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:47:56,222 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:47:56,288 [main] INFO logger_file -  kasa outdoor smart plugitem name was entered successfully
+2023-05-31 00:47:56,553 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:50:44,698 [main] INFO logger_file - user is on retail website
+2023-05-31 00:50:45,032 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:50:45,277 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (cd9f82a2-271f-4ed8-be2d-e1f6e4175c10)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (cd9f82a2-271f-4ed8-be2d-e1f6e4175c10)] -> xpath: //*[@id="password"]]
+2023-05-31 00:50:45,571 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:50:46,109 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:50:46,406 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:50:46,467 [main] INFO logger_file -  kasa outdoor smart plugitem name was entered successfully
+2023-05-31 00:50:46,725 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:51:38,321 [main] INFO logger_file - user is on retail website
+2023-05-31 00:51:38,658 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:51:38,902 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (eac87f77-6181-4518-b7af-9ee661b90f07)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (eac87f77-6181-4518-b7af-9ee661b90f07)] -> xpath: //*[@id="password"]]
+2023-05-31 00:51:39,205 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:51:39,747 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:51:40,047 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:51:40,125 [main] INFO logger_file -  kasa outdoor smart plugitem name was entered successfully
+2023-05-31 00:51:40,384 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:52:10,463 [main] INFO logger_file - user is on retail website
+2023-05-31 00:52:10,848 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:52:11,098 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (a31a7896-5fad-4d4f-88dd-7d6f1d50547e)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (a31a7896-5fad-4d4f-88dd-7d6f1d50547e)] -> xpath: //*[@id="password"]]
+2023-05-31 00:52:11,395 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:52:12,451 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:52:12,759 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:52:12,819 [main] INFO logger_file -  kasa outdoor smart plugitem name was entered successfully
+2023-05-31 00:52:13,068 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:53:59,789 [main] INFO logger_file - user is on retail website
+2023-05-31 00:54:00,125 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:54:00,355 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (cee71c80-1734-44cc-ab54-3aae0a0b9816)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (cee71c80-1734-44cc-ab54-3aae0a0b9816)] -> xpath: //*[@id="password"]]
+2023-05-31 00:54:00,650 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:54:01,193 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:54:01,484 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:54:01,525 [main] INFO logger_file -  kasa outdoor smart plugitem name was entered successfully
+2023-05-31 00:54:01,786 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:57:51,014 [main] INFO logger_file - user is on retail website
+2023-05-31 00:57:51,360 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:57:51,599 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (d9be8d08-4640-4e3d-b1b9-bca1a3ad2df2)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (d9be8d08-4640-4e3d-b1b9-bca1a3ad2df2)] -> xpath: //*[@id="password"]]
+2023-05-31 00:57:51,889 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:57:52,431 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:57:52,728 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:57:53,050 [main] INFO logger_file -  kasa outdoor smart plugitem name was entered successfully
+2023-05-31 00:57:53,304 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:59:04,300 [main] INFO logger_file - user is on retail website
+2023-05-31 00:59:04,639 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:59:04,874 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (a910e07d-a477-4e6b-beb0-989ef030057f)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (a910e07d-a477-4e6b-beb0-989ef030057f)] -> xpath: //*[@id="password"]]
+2023-05-31 00:59:05,169 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:59:05,709 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:59:06,014 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:59:06,339 [main] INFO logger_file -  kasa outdoor smart plugitem name was entered successfully
+2023-05-31 00:59:06,592 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:59:53,616 [main] INFO logger_file - user is on retail website
+2023-05-31 00:59:53,940 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 00:59:54,177 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (c4f38a55-b31a-4075-81c3-623a79344544)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (c4f38a55-b31a-4075-81c3-623a79344544)] -> xpath: //*[@id="password"]]
+2023-05-31 00:59:54,466 [main] INFO logger_file - User clicks on the login button
+2023-05-31 00:59:55,005 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 00:59:55,307 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 00:59:55,629 [main] INFO logger_file -  kasa outdoor smart plugitem name was entered successfully
+2023-05-31 00:59:55,881 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 00:59:56,127 [main] INFO logger_file - User successfully click on item
+2023-05-31 01:00:57,953 [main] INFO logger_file - user is on retail website
+2023-05-31 01:00:58,322 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:00:58,554 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (3249046c-79f5-4d3a-976e-6fa7cc7f4feb)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (3249046c-79f5-4d3a-976e-6fa7cc7f4feb)] -> xpath: //*[@id="password"]]
+2023-05-31 01:00:58,850 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:00:59,391 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:00:59,690 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 01:01:00,008 [main] INFO logger_file -  kasa outdoor smart plugitem name was entered successfully
+2023-05-31 01:01:00,259 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:01:00,507 [main] INFO logger_file - User successfully click on item
+2023-05-31 01:01:51,072 [main] INFO logger_file - user is on retail website
+2023-05-31 01:01:51,400 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:01:51,647 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (832f79b3-304a-4e66-affd-c5fc41edc833)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (832f79b3-304a-4e66-affd-c5fc41edc833)] -> xpath: //*[@id="password"]]
+2023-05-31 01:01:51,934 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:01:52,478 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:01:52,778 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 01:01:53,097 [main] INFO logger_file -  kasa outdoor smart plugitem name was entered successfully
+2023-05-31 01:01:53,348 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:01:53,593 [main] INFO logger_file - User successfully click on item
+2023-05-31 01:02:39,012 [main] INFO logger_file - user is on retail website
+2023-05-31 01:02:39,349 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:02:39,601 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (30dde979-3465-4b61-99ad-8ededc29401f)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (30dde979-3465-4b61-99ad-8ededc29401f)] -> xpath: //*[@id="password"]]
+2023-05-31 01:02:39,890 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:02:40,432 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:02:40,730 [main] INFO logger_file - User change caegory to smartHome
+2023-05-31 01:02:41,298 [main] INFO logger_file -  kasa outdoor smart plugitem name was entered successfully
+2023-05-31 01:02:41,546 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:05:42,383 [main] INFO logger_file - user is on retail website
+2023-05-31 01:05:42,733 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:05:42,978 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (2318892d-97de-4285-bc6e-3a5234774917)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (2318892d-97de-4285-bc6e-3a5234774917)] -> xpath: //*[@id="password"]]
+2023-05-31 01:05:43,264 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:05:43,802 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:06:27,739 [main] INFO logger_file - user is on retail website
+2023-05-31 01:06:28,079 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:06:28,313 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (c8d9ed08-4f1f-4b40-8d04-23df4c18fffc)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (c8d9ed08-4f1f-4b40-8d04-23df4c18fffc)] -> xpath: //*[@id="password"]]
+2023-05-31 01:06:28,613 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:06:29,151 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:07:01,870 [main] INFO logger_file - user is on retail website
+2023-05-31 01:07:02,229 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:07:02,461 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (a7fbc9c0-2320-426a-83d2-e1b6ad708646)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (a7fbc9c0-2320-426a-83d2-e1b6ad708646)] -> xpath: //*[@id="password"]]
+2023-05-31 01:07:02,756 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:07:03,299 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:07:03,633 [main] INFO logger_file -  kasa outdoor smart plugitem name was entered successfully
+2023-05-31 01:07:03,887 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:07:04,141 [main] INFO logger_file - User successfully click on item
+2023-05-31 01:07:52,322 [main] INFO logger_file - user is on retail website
+2023-05-31 01:07:52,674 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:07:52,930 [main] INFO logger_file - user is on retail website
+2023-05-31 01:07:52,960 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (cd5cbcb1-91b1-4c0b-8818-cbeb7e83c948)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (cd5cbcb1-91b1-4c0b-8818-cbeb7e83c948)] -> xpath: //*[@id="password"]]
+2023-05-31 01:07:53,284 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:07:53,351 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:07:53,626 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (5d116185-beb1-4b90-bb65-2cca2866326d)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (5d116185-beb1-4b90-bb65-2cca2866326d)] -> xpath: //*[@id="password"]]
+2023-05-31 01:07:53,829 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:07:53,944 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:07:54,173 [main] INFO logger_file -  kasa outdoor smart plugitem name was entered successfully
+2023-05-31 01:07:54,429 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:07:54,490 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:07:54,828 [main] INFO logger_file -  kasa outdoor smart plugitem name was entered successfully
+2023-05-31 01:07:55,086 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:08:06,584 [main] INFO logger_file - User successfully click on item
+2023-05-31 01:09:16,319 [main] INFO logger_file - user is on retail website
+2023-05-31 01:09:16,672 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:09:16,935 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (720ba174-2b2f-4a05-99db-f1eb5a7b9054)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (720ba174-2b2f-4a05-99db-f1eb5a7b9054)] -> xpath: //*[@id="password"]]
+2023-05-31 01:09:17,219 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:09:17,761 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:09:18,097 [main] INFO logger_file -  kasa outdoor smart plugitem name was entered successfully
+2023-05-31 01:09:18,356 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:09:41,628 [main] INFO logger_file - user is on retail website
+2023-05-31 01:09:42,029 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:09:42,287 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (345026c0-2499-42fa-843a-10125ea0d666)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (345026c0-2499-42fa-843a-10125ea0d666)] -> xpath: //*[@id="password"]]
+2023-05-31 01:09:42,583 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:09:43,130 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:09:45,966 [main] INFO logger_file - user is on retail website
+2023-05-31 01:09:46,297 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:09:46,534 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (10544e03-9f5a-4796-bc76-086e461469fc)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (10544e03-9f5a-4796-bc76-086e461469fc)] -> xpath: //*[@id="password"]]
+2023-05-31 01:09:46,821 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:09:47,359 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:09:47,692 [main] INFO logger_file -  kasa outdoor smart plugitem name was entered successfully
+2023-05-31 01:09:47,949 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:10:19,165 [main] INFO logger_file - user is on retail website
+2023-05-31 01:10:19,526 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:10:19,768 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (8f6ab57e-7c93-4870-b74d-1fc59387715c)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (8f6ab57e-7c93-4870-b74d-1fc59387715c)] -> xpath: //*[@id="password"]]
+2023-05-31 01:10:20,062 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:10:20,601 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:10:20,679 [main] INFO logger_file -  kasa outdoor smart plugitem name was entered successfully
+2023-05-31 01:10:20,931 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:10:21,199 [main] INFO logger_file - User successfully click on item
+2023-05-31 01:11:05,087 [main] INFO logger_file - user is on retail website
+2023-05-31 01:11:05,446 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:11:05,676 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (8cbbc2ed-50de-4820-b947-e9ae67b74467)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (8cbbc2ed-50de-4820-b947-e9ae67b74467)] -> xpath: //*[@id="password"]]
+2023-05-31 01:11:05,965 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:11:06,507 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:11:06,587 [main] INFO logger_file -  kasa outdoor smart plugitem name was entered successfully
+2023-05-31 01:11:06,840 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:13:26,505 [main] INFO logger_file - user is on retail website
+2023-05-31 01:13:26,834 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:13:27,077 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (2b41d491-94ca-4a08-b903-9fce50bd7de2)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (2b41d491-94ca-4a08-b903-9fce50bd7de2)] -> xpath: //*[@id="password"]]
+2023-05-31 01:13:27,372 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:13:27,917 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:13:27,997 [main] INFO logger_file -  kasa outdoor smart plugitem name was entered successfully
+2023-05-31 01:13:28,247 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:16:27,488 [main] INFO logger_file - user is on retail website
+2023-05-31 01:16:27,853 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:16:28,098 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (6e723295-cc5e-41dc-87cb-3d2c64f2df6c)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (6e723295-cc5e-41dc-87cb-3d2c64f2df6c)] -> xpath: //*[@id="password"]]
+2023-05-31 01:16:28,390 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:16:28,931 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:16:29,020 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-05-31 01:16:29,273 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:16:29,777 [main] INFO logger_file - User successfully click on item
+2023-05-31 01:16:30,043 [main] INFO logger_file - User selects quantity: 5
+2023-05-31 01:16:30,299 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-05-31 01:17:23,716 [main] INFO logger_file - user is on retail website
+2023-05-31 01:17:24,036 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:17:24,269 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (f342088b-e430-4705-b4f5-90cf30b2a353)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (f342088b-e430-4705-b4f5-90cf30b2a353)] -> xpath: //*[@id="password"]]
+2023-05-31 01:17:24,566 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:17:25,107 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:17:25,188 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-05-31 01:17:25,435 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:17:25,942 [main] INFO logger_file - User successfully click on item
+2023-05-31 01:17:26,204 [main] INFO logger_file - User selects quantity: 2
+2023-05-31 01:17:26,454 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-05-31 01:21:50,226 [main] INFO logger_file - user is on retail website
+2023-05-31 01:21:50,563 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:21:50,808 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (a2ecafd1-7332-4aca-aa82-acf20a4c8a2b)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (a2ecafd1-7332-4aca-aa82-acf20a4c8a2b)] -> xpath: //*[@id="password"]]
+2023-05-31 01:21:51,101 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:21:51,645 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:21:51,734 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-05-31 01:21:51,983 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:21:52,498 [main] INFO logger_file - User successfully click on item
+2023-05-31 01:21:52,755 [main] INFO logger_file - User selects quantity: 2
+2023-05-31 01:21:53,013 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-05-31 01:24:39,254 [main] INFO logger_file - user is on retail website
+2023-05-31 01:24:39,597 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:24:39,833 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (a0a8bd2e-1f2b-4a8a-a8a9-fc7b5f313414)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (a0a8bd2e-1f2b-4a8a-a8a9-fc7b5f313414)] -> xpath: //*[@id="password"]]
+2023-05-31 01:24:40,129 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:24:40,672 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:24:40,767 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-05-31 01:24:41,021 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:24:41,534 [main] INFO logger_file - User successfully click on item
+2023-05-31 01:24:41,797 [main] INFO logger_file - User selects quantity: 2
+2023-05-31 01:24:42,050 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-05-31 01:25:45,594 [main] INFO logger_file - user is on retail website
+2023-05-31 01:25:45,923 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:25:46,169 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (5f0519db-0f6c-4692-85d7-10c8f0285013)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (5f0519db-0f6c-4692-85d7-10c8f0285013)] -> xpath: //*[@id="password"]]
+2023-05-31 01:25:46,462 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:25:47,006 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:25:47,116 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-05-31 01:25:47,369 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:25:47,874 [main] INFO logger_file - User successfully click on item
+2023-05-31 01:25:48,139 [main] INFO logger_file - User selects quantity: 2
+2023-05-31 01:25:48,403 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-05-31 01:27:18,583 [main] INFO logger_file - user is on retail website
+2023-05-31 01:27:18,916 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:27:19,162 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (53ef2628-9d33-4a78-8d4a-a3400b83edca)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (53ef2628-9d33-4a78-8d4a-a3400b83edca)] -> xpath: //*[@id="password"]]
+2023-05-31 01:27:19,451 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:27:19,992 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:27:20,083 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-05-31 01:27:20,337 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:27:20,840 [main] INFO logger_file - User successfully click on item
+2023-05-31 01:27:21,102 [main] INFO logger_file - User selects quantity: 2
+2023-05-31 01:27:21,359 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-05-31 01:28:47,647 [main] INFO logger_file - user is on retail website
+2023-05-31 01:28:47,971 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:28:48,214 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (0d60e557-cfdd-448f-9f23-643ad48bc52b)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (0d60e557-cfdd-448f-9f23-643ad48bc52b)] -> xpath: //*[@id="password"]]
+2023-05-31 01:28:48,506 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:28:49,045 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:28:49,129 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-05-31 01:28:49,385 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:28:49,891 [main] INFO logger_file - User successfully click on item
+2023-05-31 01:28:50,151 [main] INFO logger_file - User selects quantity: 2
+2023-05-31 01:28:50,410 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-05-31 01:29:43,076 [main] INFO logger_file - user is on retail website
+2023-05-31 01:29:43,438 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:29:43,678 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (9fe32d00-4d1b-4a94-8f48-4d2d5f4b2849)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (9fe32d00-4d1b-4a94-8f48-4d2d5f4b2849)] -> xpath: //*[@id="password"]]
+2023-05-31 01:29:43,969 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:29:44,510 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:29:44,594 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-05-31 01:29:44,845 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:29:45,357 [main] INFO logger_file - User successfully click on item
+2023-05-31 01:29:45,617 [main] INFO logger_file - User selects quantity: 2
+2023-05-31 01:29:45,870 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-05-31 01:30:32,357 [main] INFO logger_file - user is on retail website
+2023-05-31 01:30:32,681 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:30:32,922 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (4bd5fb5d-b801-4294-951f-1a4e6c190015)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (4bd5fb5d-b801-4294-951f-1a4e6c190015)] -> xpath: //*[@id="password"]]
+2023-05-31 01:30:33,208 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:30:33,751 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:30:33,838 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-05-31 01:30:34,089 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:30:34,602 [main] INFO logger_file - User successfully click on item
+2023-05-31 01:30:34,860 [main] INFO logger_file - User selects quantity: 2
+2023-05-31 01:30:35,115 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-05-31 01:31:03,492 [main] INFO logger_file - user is on retail website
+2023-05-31 01:31:04,284 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:31:04,515 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (a80cd2d8-e0e3-442c-8987-9612275834f7)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (a80cd2d8-e0e3-442c-8987-9612275834f7)] -> xpath: //*[@id="password"]]
+2023-05-31 01:31:04,803 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:31:05,345 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:31:05,424 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-05-31 01:31:06,176 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:31:07,434 [main] INFO logger_file - User successfully click on item
+2023-05-31 01:31:07,960 [main] INFO logger_file - User selects quantity: 2
+2023-05-31 01:31:08,734 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-05-31 01:31:08,736 [main] INFO logger_file - 2was displayed in the cart
+2023-05-31 01:31:30,430 [main] INFO logger_file - user is on retail website
+2023-05-31 01:31:30,769 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:31:31,008 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (f33205ca-40bf-422a-aaea-c3ff4d8f5aca)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (f33205ca-40bf-422a-aaea-c3ff4d8f5aca)] -> xpath: //*[@id="password"]]
+2023-05-31 01:31:31,298 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:31:31,841 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:31:31,939 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-05-31 01:31:32,192 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:31:32,701 [main] INFO logger_file - User successfully click on item
+2023-05-31 01:31:32,963 [main] INFO logger_file - User selects quantity: 2
+2023-05-31 01:31:33,223 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-05-31 01:31:33,226 [main] INFO logger_file - 2was displayed in the cart
+2023-05-31 01:31:57,492 [main] INFO logger_file - user is on retail website
+2023-05-31 01:31:57,872 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:31:58,124 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (61ce5ad3-d274-4aef-9608-9796fb194738)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (61ce5ad3-d274-4aef-9608-9796fb194738)] -> xpath: //*[@id="password"]]
+2023-05-31 01:31:58,418 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:31:58,962 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:31:59,261 [main] INFO logger_file - User change caegory to allDepartments
+2023-05-31 01:31:59,315 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-31 01:31:59,578 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:32:00,067 [main] INFO logger_file - User successfully click on item
+2023-05-31 01:32:00,329 [main] INFO logger_file - 5was selected
+2023-05-31 01:32:00,588 [main] INFO logger_file - User clicked on add to cart
+2023-05-31 01:32:32,983 [main] INFO logger_file - user is on retail website
+2023-05-31 01:32:33,329 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:32:33,565 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (23f2a046-c2d3-4566-9969-07e3fb8dccf1)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (23f2a046-c2d3-4566-9969-07e3fb8dccf1)] -> xpath: //*[@id="password"]]
+2023-05-31 01:32:33,858 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:32:34,402 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:32:34,703 [main] INFO logger_file - User change caegory to allDepartments
+2023-05-31 01:32:34,754 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-05-31 01:32:35,008 [main] INFO logger_file - User clicks on the Search icon
+2023-05-31 01:32:35,505 [main] INFO logger_file - User successfully click on item
+2023-05-31 01:32:35,769 [main] INFO logger_file - 5was selected
+2023-05-31 01:32:36,027 [main] INFO logger_file - User clicked on add to cart
+2023-05-31 01:32:36,040 [main] INFO logger_file - 5was validated
+2023-05-31 01:32:36,301 [main] INFO logger_file - User clicks on the Cart option
+2023-05-31 01:32:36,559 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-05-31 01:32:36,809 [main] INFO logger_file - User clicks on place your order button
+2023-05-31 01:32:36,812 [main] INFO logger_file - Successful message displayed
+2023-05-31 01:32:52,531 [main] INFO logger_file - user is on retail website
+2023-05-31 01:32:52,906 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:32:53,167 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (c66a7d1c-9246-41db-9ff4-34d9c41d2540)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (c66a7d1c-9246-41db-9ff4-34d9c41d2540)] -> xpath: //*[@id="password"]]
+2023-05-31 01:32:53,464 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:32:54,006 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:32:54,296 [main] INFO logger_file - User clicks on the Orders section
+2023-05-31 01:32:54,550 [main] INFO logger_file - User clicks on the first order in the list
+2023-05-31 01:32:54,833 [main] INFO logger_file - User clicks on the Cancel The Order button
+2023-05-31 01:32:55,382 [main] INFO logger_file - User selects the cancellation reason: Bought wrong item
+2023-05-31 01:32:55,416 [main] INFO logger_file - Cancellation message displayed: Your Order Has Been Cancelled
+Payment refunded to cart ending with ...8787
+Order Summary
+Item total:
+$ 9.99
+Item quantity:
+5
+2023-05-31 01:33:11,174 [main] INFO logger_file - user is on retail website
+2023-05-31 01:33:11,541 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:33:11,782 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (e5f9150d-d4a5-4351-9335-e6e587526c7a)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (e5f9150d-d4a5-4351-9335-e6e587526c7a)] -> xpath: //*[@id="password"]]
+2023-05-31 01:33:12,073 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:33:12,615 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:33:12,907 [main] INFO logger_file - User clicks on the Orders section
+2023-05-31 01:33:13,163 [main] INFO logger_file - User clicks on the first order in the list
+2023-05-31 01:33:46,663 [main] INFO logger_file - user is on retail website
+2023-05-31 01:33:46,993 [main] INFO logger_file - user cliked on Sign In option
+2023-05-31 01:33:47,236 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (07894a03-1dac-48c3-a4c0-a69fb990afff)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (07894a03-1dac-48c3-a4c0-a69fb990afff)] -> xpath: //*[@id="password"]]
+2023-05-31 01:33:47,527 [main] INFO logger_file - User clicks on the login button
+2023-05-31 01:33:48,067 [main] INFO logger_file - User is logged in into the Account
+2023-05-31 01:33:48,358 [main] INFO logger_file - User clicks on the Orders section
+2023-05-31 01:33:48,609 [main] INFO logger_file - User clicks on the first order in the list
+2023-05-31 01:33:48,876 [main] INFO logger_file - User clicks on the Return Items button
+2023-05-31 01:33:49,179 [main] INFO logger_file - User selects the Return Reason: Item damaged
+2023-05-31 01:33:49,443 [main] INFO logger_file - User selects the drop off service: FedEx
+2023-05-31 01:33:49,697 [main] INFO logger_file - User clicks on the Return Order button
+2023-05-31 01:33:49,717 [main] INFO logger_file - Return successful message displayed: Return was successfull
