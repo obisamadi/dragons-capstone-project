@@ -8,14 +8,14 @@ Feature: Retail Account Page
     And User click on login button
     And User should be logged in into Account
 
-  @Account2
+ # @Account2
   Scenario: Verify User can update Profile Information
     When User click on Account option
     And User update Name 'Ubaid' and Phone '5408410419'
     And User click on Update button
     Then user profile information should be updated
 
-  @Account3
+ # @Account3
   Scenario: Verify User can add a payment method
     When User click on Account option
     And User click on Add a payment method link
@@ -25,7 +25,7 @@ Feature: Retail Account Page
     And User click on Add your card button
     Then a message should be displayed 'Payment Method added successfully'
 
-  @Account4
+  # @Account4
   Scenario: Verify User can edit Debit or Credit card
     When User click on Account option
     And User click on Edit option of card section
@@ -35,13 +35,13 @@ Feature: Retail Account Page
     And user click on Update Your Card button
     Then a message should be displayed ‘Payment Method updated Successfully’
 
-  @Account5
+  # @Account5
   Scenario: Verify User can remove Debit or Credit card
     When User click on Account option
     And User click on remove option of card section
     Then payment details should be removed
 
-  @Account6
+  # @Account6
   Scenario: Verify User can add an Address
     When User click on Account option
     And User click on Add address option
@@ -51,7 +51,7 @@ Feature: Retail Account Page
     And User click Add Your Address button
     Then a message should be displayed ‘Address Added Successfully’
 
-  @Account7
+  # @Account7
   Scenario: Verify User can edit an Address added on account
     When User click on Account option
     And User click on edit address option
@@ -61,7 +61,7 @@ Feature: Retail Account Page
     And User click update Your Address button
     Then a message should be displayed ‘Address Updated Successfully’
 
-  @Account8
+  # @Account8
   Scenario: Verify User can remove Address from Account
     When User click on Account option
     And User click on remove option of Address section

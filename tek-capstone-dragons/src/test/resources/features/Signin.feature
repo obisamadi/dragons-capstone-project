@@ -1,7 +1,7 @@
 @Regression
 Feature: Retail SignIn Page
 
-@Signin
+#@Signin
 Scenario: Verify user can sign in into Retail Application
   Given User is on retail website
   When User click on Sign in option
@@ -9,7 +9,7 @@ Scenario: Verify user can sign in into Retail Application
   And User click on login button
   Then User should be logged in into Account
   
-@Signin2
+#@Signin2
 Scenario: Verify user can create an account into Retail Website
 	Given User is on retail website
 	When User click on Sign in option

@@ -1,7 +1,7 @@
 @Regression
 Feature: Retail Order Page
 
-  @Order
+  # @Order
   Scenario: Verify User can add an item to cart
     Given User is on retail website
     When User click on Sign in option
@@ -16,7 +16,7 @@ Feature: Retail Order Page
     And User click add to Cart button
     Then the cart icon quantity should change to ‘2’
 
-  @Ordertwo
+  # @Ordertwo
   Scenario: Verify User can place an order with Shipping address and payment Method on file​​​​​​​
     Given User is on retail website
     When User click on Sign in option
@@ -35,7 +35,7 @@ Feature: Retail Order Page
     And User click on Place Your Order
     Then a message should be displayed 'Order Placed, Thanks'
 
-  @Orderthree
+  # @Orderthree
   Scenario: Verify User can cancel the order
     Given User is on retail website
     When User click on Sign in option
@@ -49,7 +49,7 @@ Feature: Retail Order Page
     #And User click on Cancel Order button
     Then a cancelation message should be displayed ‘Your Order Has Been Cancelled’
 
-  @Orderfour
+ # @Orderfour
   Scenario: Verify User can Return the order
     Given User is on retail website
     When User click on Sign in option
@@ -64,7 +64,7 @@ Feature: Retail Order Page
     And User click on Return Order button
     Then a cancelation message should be displayed ‘Return was successful’
 
-  @Orderfive
+ # @Orderfive
   Scenario: Verify User can write a review on order placed
     Given User is on retail website
     When User click on Sign in option
