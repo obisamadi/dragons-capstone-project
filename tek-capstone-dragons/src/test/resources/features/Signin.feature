@@ -1,4 +1,4 @@
-@SigninSteps
+@Regression
 Feature: Retail SignIn Page
 
 @Signin

@@ -1,4 +1,4 @@
-@HomeSteps
+@Regression
 Feature: RetailHomeSteps
 	@Home
   Scenario: Verify user can sign up into Retail Application
