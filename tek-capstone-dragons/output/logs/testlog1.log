@@ -2290,3 +2290,37 @@ Item quantity:
 2023-05-31 19:04:33,299 [main] INFO logger_file - User selects the Return Reason: Item damaged
 2023-05-31 19:04:33,833 [main] INFO logger_file - User selects the drop off service: FedEx
 2023-05-31 19:04:34,697 [main] INFO logger_file - User clicks on the Return Order button
+2023-06-03 14:32:07,555 [main] INFO logger_file - user is on retail website
+2023-06-03 14:32:07,905 [main] INFO logger_file - user cliked on Sign In option
+2023-06-03 14:32:08,154 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (7da241a0-5e2f-4eba-bfce-ac26efa56eb3)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (7da241a0-5e2f-4eba-bfce-ac26efa56eb3)] -> xpath: //*[@id="password"]]
+2023-06-03 14:32:08,442 [main] INFO logger_file - User clicks on the login button
+2023-06-03 14:32:08,996 [main] INFO logger_file - User is logged in into the Account
+2023-06-03 14:32:09,284 [main] INFO logger_file - User clicks on the Orders section
+2023-06-03 14:32:09,541 [main] INFO logger_file - User clicks on the first order in the list
+2023-06-03 14:32:09,827 [main] INFO logger_file - User clicks on the Return Items button
+2023-06-03 14:32:10,135 [main] INFO logger_file - User selects the Return Reason: Item damaged
+2023-06-03 14:32:10,409 [main] INFO logger_file - User selects the drop off service: FedEx
+2023-06-03 14:32:10,674 [main] INFO logger_file - User clicks on the Return Order button
+2023-06-03 14:32:10,674 [main] INFO logger_file - Return successful message displayed
+2023-06-03 19:52:12,034 [main] INFO logger_file - user clicked on all Department
+2023-06-03 19:52:16,210 [main] INFO logger_file - user clicked on all Department
+2023-06-03 19:52:20,309 [main] INFO logger_file - user clicked on all Department
+2023-06-03 19:52:24,398 [main] INFO logger_file - user clicked on all Department
+2023-06-03 19:52:28,324 [main] INFO logger_file - user clicked on all Department
+2023-06-03 19:53:41,104 [main] INFO logger_file - user clicked on all Department
+2023-06-03 19:53:41,411 [main] INFO logger_file - User clicked on Electronics sidebar option
+2023-06-03 19:53:41,454 [main] INFO logger_file - Department TV & Video is present
+2023-06-03 19:53:41,502 [main] INFO logger_file - Department Video Games is present
+2023-06-03 19:53:45,420 [main] INFO logger_file - user clicked on all Department
+2023-06-03 19:53:45,708 [main] INFO logger_file - User clicked on Computers sidebar option
+2023-06-03 19:53:45,758 [main] INFO logger_file - Department Accessories is present
+2023-06-03 19:53:45,791 [main] INFO logger_file - Department Networking is present
+2023-06-03 19:53:49,657 [main] INFO logger_file - user clicked on all Department
+2023-06-03 19:53:49,950 [main] INFO logger_file - User clicked on Smart Home sidebar option
+2023-06-03 19:53:49,975 [main] INFO logger_file - Department Smart Home Lightning is present
+2023-06-03 19:53:50,016 [main] INFO logger_file - Department Plugs and Outlets is present
+2023-06-03 19:53:53,790 [main] INFO logger_file - user clicked on all Department
+2023-06-03 19:53:54,063 [main] INFO logger_file - User clicked on Sports sidebar option
+2023-06-03 19:53:54,094 [main] INFO logger_file - Department Athletic Clothing is present
+2023-06-03 19:53:54,136 [main] INFO logger_file - Department Exercise & Fitness is present
+2023-06-03 19:53:57,796 [main] INFO logger_file - user clicked on all Department
