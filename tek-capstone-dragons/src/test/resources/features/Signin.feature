@@ -1,3 +1,4 @@
+@SigninSteps
 Feature: Retail SignIn Page
 
 @Signin
