@@ -1,7 +1,7 @@
 @Regression
 Feature: Retail Order Page
 
-Background: 
+  Background: 
     Given User is on retail website home page
     Then User verify retail website title
     And User click on sign in option
@@ -9,17 +9,7 @@ Background:
     And User click on login button
     Then user should be logged into Account
 
-   #@Order
-  Scenario: Verify User can add an item to cart
-    And User change the category to 'Smart Home'
-    And User search for an item 'kasa outdoor smart plug'
-    And User click on Search icon
-    And User click on item
-    And User select quantity 
-    And User click add to Cart button
-    Then the cart icon quantity should change to ‘5’
-
-   #@Ordertwo
+  #@Ordertwo
   Scenario: Verify User can place an order with Shipping address and payment Method on file​​​​​​​
     And User change the category to 'Electronics'
     And User search for an item 'Apex Legends'
@@ -41,6 +31,20 @@ Background:
     And User select the cancelation Reason ‘Bought wrong item’
     #And User click on Cancel Order button
     Then a cancelation message should be displayed ‘Your Order Has Been Cancelled’
+
+  #@Order
+  Scenario: Verify User can add an item to cart
+    And User change the category to 'Smart Home'
+    And User search for an item 'kasa outdoor smart plug'
+    And User click on Search icon
+    And User click on item
+    And User select quantity
+    And User click add to Cart button
+    Then the cart icon quantity should change to ‘5’
+    And User click on Cart option
+    And User click on Proceed to Checkout button
+    And User click on Place Your Order
+    Then a message should be displayed 'Order Placed, Thanks'
 
   #@Orderfour
   Scenario: Verify User can Return the order

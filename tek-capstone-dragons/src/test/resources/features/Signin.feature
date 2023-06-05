@@ -1,7 +1,7 @@
 @Regression
 Feature: Retail SignIn Page
 
-  @Signin
+  #@Signin
   Scenario Outline: Verify user can create account on tek retail website
     Given User is on retail website home page
     Then User verify retail website title
@@ -12,5 +12,5 @@ Feature: Retail SignIn Page
     Then User see his profile page
 
     Examples: 
-      | name        | email                   | password      | confirmpassword |
-      | Ubaid Samadi | ubaid.samadi@tekschool.com | heLcpDAMDpMGD4U! | heLcpDAMDpMGD4U!  |
+      | name         | email                  | password         | confirmpassword  |
+      | Ubaid Samadi | ubaid.samadi@gmail.af | heLcpDAMDpMGD4U! | heLcpDAMDpMGD4U! |

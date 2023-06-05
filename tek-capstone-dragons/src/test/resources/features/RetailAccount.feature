@@ -36,7 +36,7 @@ Feature: Retail Account Page
     And user click on Update Your Card button
     Then a message should be displayed ‘Payment Method updated Successfully’
 
-   #@Account5
+  #@Account5
   Scenario: Verify User can remove Debit or Credit card
     And User click on remove option of card section
     Then payment details should be removed

@@ -40,19 +40,19 @@ public class RetailOrderSteps extends CommonUtilities {
 	@When("User change the category to {string}")
 	public void userChangeTheCategoryTo(String allDepartments) {
 		selectByVisibleText(factory.orderPage().allDepartments, allDepartments);
-	    logger.info("User change caegory to allDepartments");
+		logger.info("User change caegory to allDepartments");
 	}
-	
+
 	@When("User click on Search icon")
 	public void userClickOnSearchIcon() {
 		click(factory.orderPage().searchIcon);
 		logger.info("User clicks on the Search icon");
 	}
-	
+
 	@When("User search for an item {string}")
 	public void userSearchForAnItem(String kasaOutdoorSmartPlug) {
 		WebElement searchInput = factory.orderPage().searchIcon;
-		//waitTillPresence(searchInput);
+		// waitTillPresence(searchInput);
 		sendText(factory.orderPage().searchIcon, kasaOutdoorSmartPlug);
 		logger.info(kasaOutdoorSmartPlug + "item name was entered successfully");
 	}
@@ -63,7 +63,7 @@ public class RetailOrderSteps extends CommonUtilities {
 		click(factory.orderPage().kasaOutdoorSmartPlugItem);
 		logger.info("User successfully click on item");
 	}
-	
+
 	@When("User select quantity ‘{int}’")
 	public void userSelectQuantities(Integer int1) {
 		click(factory.orderPage().quantityInput);
@@ -79,14 +79,14 @@ public class RetailOrderSteps extends CommonUtilities {
 
 	@Then("the cart icon quantity should change to ‘{int}’")
 	public void theCartIconQuantityShouldChangeTo(int int1) {
-		//WebElement cartIcon = factory.orderPage().cartIcon;
-		//waitTillPresence(cartIcon);
-		//String cartQuantity = cartIcon.getText();
-		//Assert.assertEquals(cartQuantity, String.valueOf(int1));
-		
-		//Assert.assertEquals(int1, factory.orderPage().cartIcon.getText());
+		// WebElement cartIcon = factory.orderPage().cartIcon;
+		// waitTillPresence(cartIcon);
+		// String cartQuantity = cartIcon.getText();
+		// Assert.assertEquals(cartQuantity, String.valueOf(int1));
+
+		// Assert.assertEquals(int1, factory.orderPage().cartIcon.getText());
 		logger.info(int1 + "was displayed in the cart");
-		//logger.info("The cart icon quantity is verified to be: " + cartQuantity);
+		// logger.info("The cart icon quantity is verified to be: " + cartQuantity);
 	}
 
 	@When("User change the category to {string} Apex Legends '")
@@ -111,58 +111,61 @@ public class RetailOrderSteps extends CommonUtilities {
 
 	@Then("User click on Place Your Order")
 	public void userClickOnPlaceYourOrder() {
-		//WebElement getPlaceYourOrderButton = factory.orderPage().getPlaceYourOrderButton;
-		//waitTillPresence(getPlaceYourOrderButton);
+		// WebElement getPlaceYourOrderButton =
+		// factory.orderPage().getPlaceYourOrderButton;
+		// waitTillPresence(getPlaceYourOrderButton);
 		click(factory.orderPage().getPlaceYourOrderButton);
 		logger.info("User clicks on place your order button");
 
 	}
-	
+
 	@When("User search for an item Apex Legends {string}")
 	public void userSearchForAnItemApexLegends(String apexLegends) {
 		sendText(factory.orderPage().searchInputField, apexLegends);
-	    logger.info(apexLegends + "was entered successfully");
+		logger.info(apexLegends + "was entered successfully");
 	}
-	
+
 	@Then("User click on item Apex Legends")
 	public void userClickOnItemApexLegends() {
 		click(factory.orderPage().searchBttn);
 		click(factory.orderPage().ApexLegends);
 		logger.info("user clicked on item");
-		
+
 	}
 
-	
 	@Then("User select quantity")
 	public void userSelectQuantity() {
 		click(factory.orderPage().quantityInput);
 		logger.info("User selects quantity");
 	}
+
 	@Then("the cart icon quantity should change to {string}")
 	public void theCartIconQuantityShouldChangeTo(String quantity) {
-		//Assert.assertEquals(quantity, factory.orderPage().cartQuantity.getText());
+		// Assert.assertEquals(quantity, factory.orderPage().cartQuantity.getText());
 		logger.info(quantity + "quantity was displayed in the cart");
-		//slowDown();
+		// slowDown();
 	}
 
-	//@Then("User select Apex Legends quantity {string}")
-	//public void userSelectApexLegendsQuantity(String string) {
-		//selectByVisibleText(factory.orderPage().productQtyDropdown, string);
-		//logger.info(string + "was selected");
-	//}
+	// @Then("User select Apex Legends quantity {string}")
+	// public void userSelectApexLegendsQuantity(String string) {
+	// selectByVisibleText(factory.orderPage().productQtyDropdown, string);
+	// logger.info(string + "was selected");
+	// }
 	@When("User click add cart button")
 	public void userClickAddCartButton() {
 		click(factory.orderPage().addToCartButton);
 		logger.info("User clicked on add to cart");
 	}
+
 	@Then("the cart icon quantity Apex Legends should change to {string}")
 	public void theCartIconQuantityApexLegendsShouldChangeTo(String string) {
 		Assert.assertEquals(string, factory.orderPage().cartQuantity.getText());
-	    logger.info(string + "was validated");
+		logger.info(string + "was validated");
 	}
+
 	@Then("a message should be displayed {string}")
 	public void aMessageShouldBeDisplayed(String string) {
-	    logger.info("Successful message displayed");
+		logger.info("Successful message displayed");
 
 	}
 
@@ -243,41 +246,44 @@ public class RetailOrderSteps extends CommonUtilities {
 	@Then("a cancelation message should be displayed ‘Return was successful’")
 	public void aCancelationMessageShouldBeDisplayedReturnWasSuccessful() {
 		logger.info("Return successful message displayed");
-		
+
 	}
 
 	@When("User click on Review button")
 	public void userClickOnReviewButton() {
 		click(factory.orderPage().reviewButton);
-	    logger.info("User clicks on the Review button");
+		logger.info("User clicks on the Review button");
 	}
+
 	@When("User write Review headline ‘ headline value’ and ‘review text’")
 	public void userWriteReviewHeadlineHeadlineValueAndReviewText() {
 		WebElement headlineInput = factory.orderPage().reviewHeadlineInput;
-	    WebElement reviewTextInput = factory.orderPage().reviewTextInput;
-	    
-	    String headline = "headline value";
-	    String reviewText = "review text";
-	    
-	    headlineInput.sendKeys(Keys.CONTROL + "a");
-	    headlineInput.sendKeys(Keys.DELETE);
-	    headlineInput.sendKeys(headline);
-	    
-	    reviewTextInput.sendKeys(Keys.CONTROL + "a");
-	    reviewTextInput.sendKeys(Keys.DELETE);
-	    reviewTextInput.sendKeys(reviewText);
-	    
-	    logger.info("User writes Review headline: " + headline + " and Review text: " + reviewText);
+		WebElement reviewTextInput = factory.orderPage().reviewTextInput;
+
+		String headline = "headline value";
+		String reviewText = "review text";
+
+		headlineInput.sendKeys(Keys.CONTROL + "a");
+		headlineInput.sendKeys(Keys.DELETE);
+		headlineInput.sendKeys(headline);
+
+		reviewTextInput.sendKeys(Keys.CONTROL + "a");
+		reviewTextInput.sendKeys(Keys.DELETE);
+		reviewTextInput.sendKeys(reviewText);
+
+		logger.info("User writes Review headline: " + headline + " and Review text: " + reviewText);
 	}
+
 	@When("User click Add your Review button")
 	public void userClickAddYourReviewButton() {
 		click(factory.orderPage().addReviewButton);
-	    logger.info("User clicks on the Add your Review button");
+		logger.info("User clicks on the Add your Review button");
 	}
+
 	@Then("a review message should be displayed ‘Your review was added successfully’")
 	public void aReviewMessageShouldBeDisplayedYourReviewWasAddedSuccessfully() {
 		WebElement actualMessage = factory.orderPage().reviewAdded;
-		//String expectedMessage = "Review added successfully";
+		String expectedMessage = "Review added successfully";
 		logger.info("Your review was added successfully: " + actualMessage.getText());
 	}
 

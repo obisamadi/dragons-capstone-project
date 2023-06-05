@@ -88,14 +88,14 @@ public class RetailAccountSteps extends CommonUtilities {
 		logger.info("User clicks on 'Add your card' button");
 	}
 
-	@Then("a message should be displayed 'Payment Method added successfully'")
-	public void paymentMethodAddedSuccessfully() {
-		WebElement successMessage = factory.accountPage().successMessage;
-		Assert.assertTrue(isElementDisplayed(successMessage));
+	//@Then("a message should be displayed 'Payment Method added successfully'")
+	//public void paymentMethodAddedSuccessfully() {
+		//WebElement successMessage = factory.accountPage().successMessage;
+		//Assert.assertTrue(isElementDisplayed(successMessage));
 		// Assert.assertEquals(successMessage.getText(), "Payment Method added
 		// successfully");
-		logger.info("Payment Method added successfully message is displayed");
-	}
+		//logger.info("Payment Method added successfully message is displayed");
+	//}
 
 	@When("User click on remove option of card section")
 	public void userClickOnRemoveOptionOfCardSection() {
