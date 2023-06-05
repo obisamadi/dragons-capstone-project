@@ -22,9 +22,9 @@ public class RetailSignInPage extends CommonUtilities {
 	public WebElement newAccountBttn;
 	@FindBy(id = "nameInput")
 	public WebElement nameInputField;
-	@FindBy(xpath = "//*[@id=\"email\"]")
+	@FindBy(id = "emailInput")
 	public WebElement emailInputField;
-	@FindBy(id = "//*[@id=\"password\"]")
+	@FindBy(id = "passwordInput")
 	public WebElement passInputField;
 	@FindBy(xpath = "//*[@id=\"confirmPasswordInput\"]")
 	public WebElement confirmPassInputField;
@@ -34,7 +34,7 @@ public class RetailSignInPage extends CommonUtilities {
 	public WebElement yourProfileText;
 	@FindBy(xpath = "//*[@id=\"email\"]")
 	public WebElement emailInputFieldLogin;
-	@FindBy(xpath = "//*[@id=\"password\"]")
+	@FindBy(xpath = "//*[@id=\"passwordInput\"]")
 	public WebElement passwordInputFieldLogin;
 	@FindBy(xpath = "//*[@id=\"loginBtn\"]")
 	public WebElement loginBttn;

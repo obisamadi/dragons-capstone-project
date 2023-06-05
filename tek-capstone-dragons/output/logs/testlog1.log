@@ -2324,3 +2324,1438 @@ Item quantity:
 2023-06-03 19:53:54,094 [main] INFO logger_file - Department Athletic Clothing is present
 2023-06-03 19:53:54,136 [main] INFO logger_file - Department Exercise & Fitness is present
 2023-06-03 19:53:57,796 [main] INFO logger_file - user clicked on all Department
+2023-06-04 13:49:50,232 [main] INFO logger_file - user is on retail website
+2023-06-04 13:49:50,566 [main] INFO logger_file - user cliked on Sign In option
+2023-06-04 13:49:50,843 [main] INFO logger_file - user clicked on create new account option
+2023-06-04 13:49:51,096 [main] INFO logger_file - User fills the sign-up information
+2023-06-04 13:49:51,342 [main] INFO logger_file - User clicks on SignUp button
+2023-06-04 13:50:15,684 [main] INFO logger_file - user clicked on all Department
+2023-06-04 13:50:19,700 [main] INFO logger_file - user clicked on all Department
+2023-06-04 13:50:19,958 [main] INFO logger_file - User clicked on Computers sidebar option
+2023-06-04 13:50:19,992 [main] INFO logger_file - Department Accessories is present
+2023-06-04 13:50:20,027 [main] INFO logger_file - Department Networking is present
+2023-06-04 13:50:23,970 [main] INFO logger_file - user clicked on all Department
+2023-06-04 13:50:28,048 [main] INFO logger_file - user clicked on all Department
+2023-06-04 13:50:28,314 [main] INFO logger_file - User clicked on Sports sidebar option
+2023-06-04 13:50:28,337 [main] INFO logger_file - Department Athletic Clothing is present
+2023-06-04 13:50:28,364 [main] INFO logger_file - Department Exercise & Fitness is present
+2023-06-04 13:50:32,546 [main] INFO logger_file - user clicked on all Department
+2023-06-04 13:50:36,152 [main] INFO logger_file - user is on retail website
+2023-06-04 13:50:36,447 [main] INFO logger_file - user cliked on Sign In option
+2023-06-04 13:50:36,653 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (6eceff8c-b167-4289-8448-53afec23febc)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (6eceff8c-b167-4289-8448-53afec23febc)] -> xpath: //*[@id="password"]]
+2023-06-04 13:50:36,926 [main] INFO logger_file - User clicks on the login button
+2023-06-04 13:50:37,461 [main] INFO logger_file - User is logged in into the Account
+2023-06-04 13:50:37,733 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 13:50:37,920 [main] INFO logger_file - User updates Name: Ubaid and Phone: 5408410419
+2023-06-04 13:50:38,172 [main] INFO logger_file - User clicks on the Update button
+2023-06-04 13:50:38,198 [main] INFO logger_file - User profile information is updated
+2023-06-04 13:50:41,600 [main] INFO logger_file - user is on retail website
+2023-06-04 13:50:41,918 [main] INFO logger_file - user cliked on Sign In option
+2023-06-04 13:50:42,118 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (4527c89a-1dfb-48aa-80ad-8b03c49961f8)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (4527c89a-1dfb-48aa-80ad-8b03c49961f8)] -> xpath: //*[@id="password"]]
+2023-06-04 13:50:42,382 [main] INFO logger_file - User clicks on the login button
+2023-06-04 13:50:42,916 [main] INFO logger_file - User is logged in into the Account
+2023-06-04 13:50:43,188 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 13:50:43,431 [main] INFO logger_file - User clicks on 'Add a payment method' link
+2023-06-04 13:50:43,665 [main] INFO logger_file - User fills the card information
+2023-06-04 13:50:43,910 [main] INFO logger_file - User clicks on 'Add your card' button
+2023-06-04 13:50:47,256 [main] INFO logger_file - user is on retail website
+2023-06-04 13:50:47,553 [main] INFO logger_file - user cliked on Sign In option
+2023-06-04 13:50:47,733 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (3d3e1476-2df3-456f-8ab8-31bfae192025)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (3d3e1476-2df3-456f-8ab8-31bfae192025)] -> xpath: //*[@id="password"]]
+2023-06-04 13:50:47,986 [main] INFO logger_file - User clicks on the login button
+2023-06-04 13:50:48,048 [main] INFO logger_file - User is logged in into the Account
+2023-06-04 13:50:48,314 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 13:50:49,357 [main] INFO logger_file - User clicks on Edit option of card section
+2023-06-04 13:50:49,641 [main] INFO logger_file - User edits card information
+2023-06-04 13:50:49,899 [main] INFO logger_file - User clicks on Update Your Card button
+2023-06-04 13:50:49,914 [main] INFO logger_file - Payment Method updated Successfully message is displayed
+2023-06-04 13:50:53,297 [main] INFO logger_file - user is on retail website
+2023-06-04 13:50:53,589 [main] INFO logger_file - user cliked on Sign In option
+2023-06-04 13:50:53,759 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (ccffe75e-8ace-4710-9c5f-961786d14c5f)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (ccffe75e-8ace-4710-9c5f-961786d14c5f)] -> xpath: //*[@id="password"]]
+2023-06-04 13:50:54,004 [main] INFO logger_file - User clicks on the login button
+2023-06-04 13:50:54,058 [main] INFO logger_file - User is logged in into the Account
+2023-06-04 13:50:54,322 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 13:50:55,357 [main] INFO logger_file - User clicks on the remove option of card section
+2023-06-04 13:50:55,375 [main] INFO logger_file - Payment details have been removed
+2023-06-04 13:50:58,722 [main] INFO logger_file - user is on retail website
+2023-06-04 13:50:59,013 [main] INFO logger_file - user cliked on Sign In option
+2023-06-04 13:50:59,205 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (f8b14148-0b7c-4bfb-b3ce-8c0c15446d97)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (f8b14148-0b7c-4bfb-b3ce-8c0c15446d97)] -> xpath: //*[@id="password"]]
+2023-06-04 13:50:59,459 [main] INFO logger_file - User clicks on the login button
+2023-06-04 13:50:59,993 [main] INFO logger_file - User is logged in into the Account
+2023-06-04 13:51:00,299 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 13:51:00,567 [main] INFO logger_file - User clicks on the Add address option
+2023-06-04 13:51:00,978 [main] INFO logger_file - User fills new address form
+2023-06-04 13:51:01,273 [main] INFO logger_file - User clicks on the Add Your Address button
+2023-06-04 13:51:01,840 [main] INFO logger_file - Address Added Successfully message is displayed
+2023-06-04 13:51:05,197 [main] INFO logger_file - user is on retail website
+2023-06-04 13:51:05,487 [main] INFO logger_file - user cliked on Sign In option
+2023-06-04 13:51:05,667 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (631039db-e5b2-404a-8c96-58e0b6302546)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (631039db-e5b2-404a-8c96-58e0b6302546)] -> xpath: //*[@id="password"]]
+2023-06-04 13:51:05,917 [main] INFO logger_file - User clicks on the login button
+2023-06-04 13:51:06,445 [main] INFO logger_file - User is logged in into the Account
+2023-06-04 13:51:06,710 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 13:51:06,965 [main] INFO logger_file - User clicks on edit address option
+2023-06-04 13:51:07,364 [main] INFO logger_file - User fills new address form
+2023-06-04 13:51:07,642 [main] INFO logger_file - User clicks on update Your Address button
+2023-06-04 13:51:07,661 [main] INFO logger_file - Address Updated Successfully message is displayed
+2023-06-04 13:51:11,100 [main] INFO logger_file - user is on retail website
+2023-06-04 13:51:11,382 [main] INFO logger_file - user cliked on Sign In option
+2023-06-04 13:51:11,546 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (a2eb0e69-9bf3-4c4d-919a-b1fa7c207d37)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (a2eb0e69-9bf3-4c4d-919a-b1fa7c207d37)] -> xpath: //*[@id="password"]]
+2023-06-04 13:51:11,793 [main] INFO logger_file - User clicks on the login button
+2023-06-04 13:51:12,319 [main] INFO logger_file - User is logged in into the Account
+2023-06-04 13:51:12,581 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 13:51:13,356 [main] INFO logger_file - User clicks on the remove option of Address section
+2023-06-04 13:51:13,399 [main] INFO logger_file - Address details are removed
+2023-06-04 13:51:16,788 [main] INFO logger_file - user is on retail website
+2023-06-04 13:51:17,087 [main] INFO logger_file - user cliked on Sign In option
+2023-06-04 13:51:17,273 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (6810244c-ebc6-47ab-81f7-a6991720d8be)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (6810244c-ebc6-47ab-81f7-a6991720d8be)] -> xpath: //*[@id="password"]]
+2023-06-04 13:51:17,513 [main] INFO logger_file - User clicks on the login button
+2023-06-04 13:51:18,042 [main] INFO logger_file - User is logged in into the Account
+2023-06-04 13:51:18,121 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-06-04 13:51:18,366 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 13:51:18,862 [main] INFO logger_file - User successfully click on item
+2023-06-04 13:51:19,121 [main] INFO logger_file - User selects quantity: 2
+2023-06-04 13:51:19,362 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-06-04 13:51:19,364 [main] INFO logger_file - 2was displayed in the cart
+2023-06-04 13:51:22,618 [main] INFO logger_file - user is on retail website
+2023-06-04 13:51:22,902 [main] INFO logger_file - user cliked on Sign In option
+2023-06-04 13:51:23,073 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (08f1010c-4ed5-49f3-a755-e8947b8696bb)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (08f1010c-4ed5-49f3-a755-e8947b8696bb)] -> xpath: //*[@id="password"]]
+2023-06-04 13:51:23,330 [main] INFO logger_file - User clicks on the login button
+2023-06-04 13:51:23,858 [main] INFO logger_file - User is logged in into the Account
+2023-06-04 13:51:24,135 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 13:51:24,192 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-06-04 13:51:24,421 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 13:51:24,902 [main] INFO logger_file - User successfully click on item
+2023-06-04 13:51:25,139 [main] INFO logger_file - 5was selected
+2023-06-04 13:51:25,369 [main] INFO logger_file - User clicked on add to cart
+2023-06-04 13:51:29,297 [main] INFO logger_file - user is on retail website
+2023-06-04 13:51:29,577 [main] INFO logger_file - user cliked on Sign In option
+2023-06-04 13:51:29,745 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (7ed83097-7e63-4bd7-8272-85b431d70f06)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (7ed83097-7e63-4bd7-8272-85b431d70f06)] -> xpath: //*[@id="password"]]
+2023-06-04 13:51:29,993 [main] INFO logger_file - User clicks on the login button
+2023-06-04 13:51:30,524 [main] INFO logger_file - User is logged in into the Account
+2023-06-04 13:51:30,805 [main] INFO logger_file - User clicks on the Orders section
+2023-06-04 13:51:31,050 [main] INFO logger_file - User clicks on the first order in the list
+2023-06-04 13:51:31,328 [main] INFO logger_file - User clicks on the Cancel The Order button
+2023-06-04 13:51:31,851 [main] INFO logger_file - User selects the cancellation reason: Bought wrong item
+2023-06-04 13:51:31,883 [main] INFO logger_file - Cancellation message displayed: Your Order Has Been Cancelled
+Payment refunded to cart ending with ...8768
+Order Summary
+Item total:
+$ 9.99
+Item quantity:
+5
+2023-06-04 13:51:35,080 [main] INFO logger_file - user is on retail website
+2023-06-04 13:51:35,391 [main] INFO logger_file - user cliked on Sign In option
+2023-06-04 13:51:35,571 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (d6e6d884-f4ca-4f45-baf8-15022a4fe435)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (d6e6d884-f4ca-4f45-baf8-15022a4fe435)] -> xpath: //*[@id="password"]]
+2023-06-04 13:51:35,851 [main] INFO logger_file - User clicks on the login button
+2023-06-04 13:51:36,381 [main] INFO logger_file - User is logged in into the Account
+2023-06-04 13:51:36,661 [main] INFO logger_file - User clicks on the Orders section
+2023-06-04 13:51:36,898 [main] INFO logger_file - User clicks on the first order in the list
+2023-06-04 19:01:41,116 [main] INFO logger_file - User is on the retail website
+2023-06-04 19:03:17,250 [main] INFO logger_file - User is on the retail website
+2023-06-04 19:06:41,458 [main] INFO logger_file - User is on the retail website
+2023-06-04 19:07:45,801 [main] INFO logger_file - User is on the retail website
+2023-06-04 19:08:34,320 [main] INFO logger_file - User is on the retail website
+2023-06-04 19:08:34,389 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 19:08:34,747 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 19:08:35,004 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (be5ce21f-fc4c-42d7-a44e-8eb0fe0c9e10)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (be5ce21f-fc4c-42d7-a44e-8eb0fe0c9e10)] -> xpath: //*[@id="password"]]
+2023-06-04 19:08:35,299 [main] INFO logger_file - User clicks on the login button
+2023-06-04 19:08:35,917 [main] INFO logger_file - user logged in into account
+2023-06-04 19:08:36,226 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 19:08:36,293 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-06-04 19:08:36,532 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 19:08:37,045 [main] INFO logger_file - User successfully click on item
+2023-06-04 19:08:37,317 [main] INFO logger_file - User selects quantity: 2
+2023-06-04 19:08:37,575 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-06-04 19:08:37,576 [main] INFO logger_file - 2was displayed in the cart
+2023-06-04 19:12:22,083 [main] INFO logger_file - User is on the retail website
+2023-06-04 19:12:22,157 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 19:12:22,502 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 19:12:22,757 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (7dec0bf7-8389-418b-9214-09bfc0bc34f6)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (7dec0bf7-8389-418b-9214-09bfc0bc34f6)] -> xpath: //*[@id="password"]]
+2023-06-04 19:12:23,050 [main] INFO logger_file - User clicks on the login button
+2023-06-04 19:12:23,653 [main] INFO logger_file - user logged in into account
+2023-06-04 19:12:23,983 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 19:12:24,027 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-06-04 19:12:24,273 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 19:12:24,780 [main] INFO logger_file - User successfully click on item
+2023-06-04 19:12:25,041 [main] INFO logger_file - 5was selected
+2023-06-04 19:12:25,294 [main] INFO logger_file - User clicked on add to cart
+2023-06-04 19:19:01,797 [main] INFO logger_file - User is on the retail website
+2023-06-04 19:19:01,892 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 19:19:02,191 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 19:19:02,419 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (fd711cd3-e021-4708-ab37-d219e8500e9b)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (fd711cd3-e021-4708-ab37-d219e8500e9b)] -> xpath: //*[@id="password"]]
+2023-06-04 19:19:02,699 [main] INFO logger_file - User clicks on the login button
+2023-06-04 19:19:03,299 [main] INFO logger_file - user logged in into account
+2023-06-04 19:19:03,615 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 19:19:03,665 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-06-04 19:19:03,904 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 19:19:04,404 [main] INFO logger_file - User successfully click on item
+2023-06-04 19:19:04,663 [main] INFO logger_file - 5was selected
+2023-06-04 19:19:04,905 [main] INFO logger_file - User clicked on add to cart
+2023-06-04 19:19:04,922 [main] INFO logger_file - 5was validated
+2023-06-04 19:19:05,193 [main] INFO logger_file - User clicks on the Cart option
+2023-06-04 19:19:05,482 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-06-04 19:19:05,744 [main] INFO logger_file - User clicks on place your order button
+2023-06-04 19:19:05,749 [main] INFO logger_file - Successful message displayed
+2023-06-04 19:20:03,534 [main] INFO logger_file - User is on the retail website
+2023-06-04 19:20:03,600 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 19:20:03,895 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 19:20:04,129 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (20d26e2a-48cb-49a2-8345-651255fae9d6)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (20d26e2a-48cb-49a2-8345-651255fae9d6)] -> xpath: //*[@id="password"]]
+2023-06-04 19:20:04,415 [main] INFO logger_file - User clicks on the login button
+2023-06-04 19:20:05,041 [main] INFO logger_file - user logged in into account
+2023-06-04 19:20:05,344 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 19:20:05,397 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-06-04 19:20:05,637 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 19:20:06,132 [main] INFO logger_file - User successfully click on item
+2023-06-04 19:21:29,219 [main] INFO logger_file - User is on the retail website
+2023-06-04 19:21:29,302 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 19:21:29,602 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 19:21:29,832 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (7d1338d1-9d00-4168-a5cd-e3fd3ad20279)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (7d1338d1-9d00-4168-a5cd-e3fd3ad20279)] -> xpath: //*[@id="password"]]
+2023-06-04 19:21:30,117 [main] INFO logger_file - User clicks on the login button
+2023-06-04 19:21:30,727 [main] INFO logger_file - user logged in into account
+2023-06-04 19:21:31,039 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 19:21:31,088 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-06-04 19:21:31,326 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 19:21:31,830 [main] INFO logger_file - User successfully click on item
+2023-06-04 19:34:34,251 [main] INFO logger_file - User is on the retail website
+2023-06-04 19:34:34,317 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 19:34:34,638 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 19:34:34,858 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (5f9e0950-6c3e-4e9f-a64c-df802827258c)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (5f9e0950-6c3e-4e9f-a64c-df802827258c)] -> xpath: //*[@id="password"]]
+2023-06-04 19:34:35,146 [main] INFO logger_file - User clicks on the login button
+2023-06-04 19:34:35,743 [main] INFO logger_file - user logged in into account
+2023-06-04 19:34:36,049 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 19:34:36,102 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-06-04 19:34:36,347 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 19:34:36,864 [main] INFO logger_file - User successfully click on item
+2023-06-04 19:37:59,163 [main] INFO logger_file - User is on the retail website
+2023-06-04 19:37:59,239 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 19:37:59,554 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 19:37:59,838 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (54f50a78-e6c5-48cf-8b32-405f375dca39)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (54f50a78-e6c5-48cf-8b32-405f375dca39)] -> xpath: //*[@id="password"]]
+2023-06-04 19:38:00,132 [main] INFO logger_file - User clicks on the login button
+2023-06-04 19:38:00,742 [main] INFO logger_file - user logged in into account
+2023-06-04 19:38:01,057 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 19:38:01,103 [main] INFO logger_file - Apex Legendswas entered successfully
+2023-06-04 19:38:01,342 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 19:38:01,842 [main] INFO logger_file - User successfully click on item
+2023-06-04 19:38:02,104 [main] INFO logger_file - 5was selected
+2023-06-04 19:38:02,351 [main] INFO logger_file - User clicked on add to cart
+2023-06-04 19:38:02,365 [main] INFO logger_file - 5was validated
+2023-06-04 19:38:02,633 [main] INFO logger_file - User clicks on the Cart option
+2023-06-04 19:38:02,909 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-06-04 19:38:03,154 [main] INFO logger_file - User clicks on place your order button
+2023-06-04 19:38:03,158 [main] INFO logger_file - Successful message displayed
+2023-06-04 21:10:34,143 [main] INFO logger_file - User is on the retail website
+2023-06-04 21:10:34,209 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 21:10:34,510 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 21:10:34,734 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (9ec4608c-06e8-4d28-88a6-77a9e756cff7)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (9ec4608c-06e8-4d28-88a6-77a9e756cff7)] -> xpath: //*[@id="password"]]
+2023-06-04 21:10:35,018 [main] INFO logger_file - User clicks on the login button
+2023-06-04 21:10:35,639 [main] INFO logger_file - user logged in into account
+2023-06-04 21:10:35,961 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 21:10:36,017 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 21:10:36,259 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 21:17:14,661 [main] INFO logger_file - User is on the retail website
+2023-06-04 21:17:14,732 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 21:17:15,049 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 21:17:15,323 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (52c1e2bc-af8d-4f38-872d-e7362f76528e)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (52c1e2bc-af8d-4f38-872d-e7362f76528e)] -> xpath: //*[@id="password"]]
+2023-06-04 21:17:15,607 [main] INFO logger_file - User clicks on the login button
+2023-06-04 21:17:16,199 [main] INFO logger_file - user logged in into account
+2023-06-04 21:17:16,514 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 21:17:16,561 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 21:17:16,806 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 21:20:16,328 [main] INFO logger_file - User is on the retail website
+2023-06-04 21:20:16,388 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 21:20:16,700 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 21:20:16,987 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (be08766d-61b6-4f5c-bcd5-b6f22ab7c11a)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (be08766d-61b6-4f5c-bcd5-b6f22ab7c11a)] -> xpath: //*[@id="password"]]
+2023-06-04 21:20:17,271 [main] INFO logger_file - User clicks on the login button
+2023-06-04 21:20:17,870 [main] INFO logger_file - user logged in into account
+2023-06-04 21:20:18,179 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 21:20:18,227 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 21:20:18,482 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 21:20:18,727 [main] INFO logger_file - user clicked on item
+2023-06-04 21:20:48,987 [main] INFO logger_file - User is on the retail website
+2023-06-04 21:20:49,052 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 21:20:49,387 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 21:20:49,604 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (96317834-74c6-4bc2-842a-a145a2052539)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (96317834-74c6-4bc2-842a-a145a2052539)] -> xpath: //*[@id="password"]]
+2023-06-04 21:20:49,897 [main] INFO logger_file - User clicks on the login button
+2023-06-04 21:20:50,499 [main] INFO logger_file - user logged in into account
+2023-06-04 21:20:50,804 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 21:20:50,862 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 21:20:51,104 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 21:20:51,358 [main] INFO logger_file - user clicked on item
+2023-06-04 21:22:32,572 [main] INFO logger_file - User is on the retail website
+2023-06-04 21:22:32,641 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 21:22:32,933 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 21:22:33,168 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (8fecaadf-49cf-4809-bfc2-6a53b9125976)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (8fecaadf-49cf-4809-bfc2-6a53b9125976)] -> xpath: //*[@id="password"]]
+2023-06-04 21:22:33,451 [main] INFO logger_file - User clicks on the login button
+2023-06-04 21:22:34,055 [main] INFO logger_file - user logged in into account
+2023-06-04 21:22:34,375 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 21:22:34,421 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 21:22:34,668 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 21:22:34,920 [main] INFO logger_file - user clicked on item
+2023-06-04 21:27:11,383 [main] INFO logger_file - User is on the retail website
+2023-06-04 21:27:11,450 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 21:27:11,777 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 21:27:12,001 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (9d49913e-219f-4339-b4f8-630175416c16)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (9d49913e-219f-4339-b4f8-630175416c16)] -> xpath: //*[@id="password"]]
+2023-06-04 21:27:12,287 [main] INFO logger_file - User clicks on the login button
+2023-06-04 21:27:13,444 [main] INFO logger_file - user logged in into account
+2023-06-04 21:27:13,756 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 21:27:13,818 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 21:27:14,065 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 21:27:14,319 [main] INFO logger_file - user clicked on item
+2023-06-04 21:28:54,791 [main] INFO logger_file - User is on the retail website
+2023-06-04 21:28:54,856 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 21:28:55,181 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 21:28:55,405 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (dd90bcc1-e2d7-4ff9-bb67-0a23ef3c9666)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (dd90bcc1-e2d7-4ff9-bb67-0a23ef3c9666)] -> xpath: //*[@id="password"]]
+2023-06-04 21:28:55,691 [main] INFO logger_file - User clicks on the login button
+2023-06-04 21:28:56,294 [main] INFO logger_file - user logged in into account
+2023-06-04 21:28:56,615 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 21:28:56,661 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 21:28:56,903 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 21:28:57,148 [main] INFO logger_file - user clicked on item
+2023-06-04 21:29:21,190 [main] INFO logger_file - User is on the retail website
+2023-06-04 21:29:21,268 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 21:29:21,585 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 21:29:21,848 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (e1f20068-664b-40ee-a448-2c52bcdf422a)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (e1f20068-664b-40ee-a448-2c52bcdf422a)] -> xpath: //*[@id="password"]]
+2023-06-04 21:29:22,129 [main] INFO logger_file - User clicks on the login button
+2023-06-04 21:29:22,738 [main] INFO logger_file - user logged in into account
+2023-06-04 21:29:23,047 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 21:29:23,097 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 21:29:23,344 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 21:29:23,591 [main] INFO logger_file - user clicked on item
+2023-06-04 21:30:01,021 [main] INFO logger_file - User is on the retail website
+2023-06-04 21:30:01,094 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 21:30:01,384 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 21:30:01,621 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (d9402a34-38b9-4033-aa8d-0e2f64e0b49a)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (d9402a34-38b9-4033-aa8d-0e2f64e0b49a)] -> xpath: //*[@id="password"]]
+2023-06-04 21:30:01,905 [main] INFO logger_file - User clicks on the login button
+2023-06-04 21:30:02,504 [main] INFO logger_file - user logged in into account
+2023-06-04 21:30:02,821 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 21:30:02,872 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 21:30:03,110 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 21:30:08,395 [main] INFO logger_file - user clicked on item
+2023-06-04 21:33:24,166 [main] INFO logger_file - User is on the retail website
+2023-06-04 21:33:24,247 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 21:33:24,567 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 21:33:24,819 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (3c6edc31-6d7a-47a4-a6e1-a4f052ef84b9)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (3c6edc31-6d7a-47a4-a6e1-a4f052ef84b9)] -> xpath: //*[@id="password"]]
+2023-06-04 21:33:25,107 [main] INFO logger_file - User clicks on the login button
+2023-06-04 21:33:25,716 [main] INFO logger_file - user logged in into account
+2023-06-04 21:33:26,032 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 21:33:26,091 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 21:33:26,329 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 21:33:26,821 [main] INFO logger_file - user clicked on item
+2023-06-04 21:33:27,085 [main] INFO logger_file - User selects quantity
+2023-06-04 21:33:27,342 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-06-04 21:34:18,105 [main] INFO logger_file - User is on the retail website
+2023-06-04 21:34:18,173 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 21:34:18,491 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 21:34:18,708 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (2233901a-7a1a-42d4-a780-ab716e7156ca)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (2233901a-7a1a-42d4-a780-ab716e7156ca)] -> xpath: //*[@id="password"]]
+2023-06-04 21:34:18,989 [main] INFO logger_file - User clicks on the login button
+2023-06-04 21:34:19,610 [main] INFO logger_file - user logged in into account
+2023-06-04 21:34:19,927 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 21:34:19,986 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 21:34:20,236 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 21:34:20,736 [main] INFO logger_file - user clicked on item
+2023-06-04 21:34:21,001 [main] INFO logger_file - User selects quantity
+2023-06-04 21:34:21,262 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-06-04 21:36:02,773 [main] INFO logger_file - User is on the retail website
+2023-06-04 21:36:02,848 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 21:36:03,146 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 21:36:03,380 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (044feb28-11d9-4413-80b1-957a0f5ffc0f)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (044feb28-11d9-4413-80b1-957a0f5ffc0f)] -> xpath: //*[@id="password"]]
+2023-06-04 21:36:03,669 [main] INFO logger_file - User clicks on the login button
+2023-06-04 21:36:04,270 [main] INFO logger_file - user logged in into account
+2023-06-04 21:36:04,579 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 21:36:04,635 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 21:36:04,878 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 21:36:05,372 [main] INFO logger_file - user clicked on item
+2023-06-04 21:36:05,635 [main] INFO logger_file - User selects quantity
+2023-06-04 21:36:05,888 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-06-04 21:37:04,510 [main] INFO logger_file - User is on the retail website
+2023-06-04 21:37:04,592 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 21:37:04,915 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 21:37:05,162 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (87bace64-c9f6-42d7-bc7a-44c0fa58f655)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (87bace64-c9f6-42d7-bc7a-44c0fa58f655)] -> xpath: //*[@id="password"]]
+2023-06-04 21:37:05,446 [main] INFO logger_file - User clicks on the login button
+2023-06-04 21:37:06,065 [main] INFO logger_file - user logged in into account
+2023-06-04 21:37:06,377 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 21:37:06,423 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 21:37:06,666 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 21:37:07,159 [main] INFO logger_file - user clicked on item
+2023-06-04 21:37:07,427 [main] INFO logger_file - User selects quantity
+2023-06-04 21:37:07,667 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-06-04 21:38:38,889 [main] INFO logger_file - User is on the retail website
+2023-06-04 21:38:38,954 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 21:38:39,267 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 21:38:39,515 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (41f8af22-5820-4a6c-84a1-63c991c157b9)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (41f8af22-5820-4a6c-84a1-63c991c157b9)] -> xpath: //*[@id="password"]]
+2023-06-04 21:38:39,803 [main] INFO logger_file - User clicks on the login button
+2023-06-04 21:38:40,405 [main] INFO logger_file - user logged in into account
+2023-06-04 21:38:40,715 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 21:38:40,763 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 21:38:41,002 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 21:38:41,510 [main] INFO logger_file - user clicked on item
+2023-06-04 21:38:41,788 [main] INFO logger_file - User selects quantity
+2023-06-04 21:38:42,043 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-06-04 21:39:36,781 [main] INFO logger_file - User is on the retail website
+2023-06-04 21:39:36,856 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 21:39:37,185 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 21:39:37,433 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (57b6402d-1826-477e-994e-1fc12ac6a435)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (57b6402d-1826-477e-994e-1fc12ac6a435)] -> xpath: //*[@id="password"]]
+2023-06-04 21:39:37,720 [main] INFO logger_file - User clicks on the login button
+2023-06-04 21:39:38,328 [main] INFO logger_file - user logged in into account
+2023-06-04 21:39:38,657 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 21:39:38,709 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 21:39:38,956 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 21:39:39,448 [main] INFO logger_file - user clicked on item
+2023-06-04 21:39:39,710 [main] INFO logger_file - User selects quantity
+2023-06-04 21:39:39,968 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-06-04 21:41:39,484 [main] INFO logger_file - User is on the retail website
+2023-06-04 21:41:39,550 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 21:41:39,859 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 21:41:40,146 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (1abd709c-a722-4910-9343-8f2b8769afe5)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (1abd709c-a722-4910-9343-8f2b8769afe5)] -> xpath: //*[@id="password"]]
+2023-06-04 21:41:40,434 [main] INFO logger_file - User clicks on the login button
+2023-06-04 21:41:41,039 [main] INFO logger_file - user logged in into account
+2023-06-04 21:41:41,354 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 21:41:41,408 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 21:41:41,652 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 21:41:42,162 [main] INFO logger_file - user clicked on item
+2023-06-04 21:41:42,951 [main] INFO logger_file - User selects quantity
+2023-06-04 21:41:43,215 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-06-04 21:43:01,640 [main] INFO logger_file - User is on the retail website
+2023-06-04 21:43:01,702 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 21:43:02,054 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 21:43:02,300 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (5a432a6c-9ae5-4fb4-a00f-bd05dd193db7)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (5a432a6c-9ae5-4fb4-a00f-bd05dd193db7)] -> xpath: //*[@id="password"]]
+2023-06-04 21:43:02,590 [main] INFO logger_file - User clicks on the login button
+2023-06-04 21:43:03,193 [main] INFO logger_file - user logged in into account
+2023-06-04 21:43:03,510 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 21:43:03,564 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 21:43:03,806 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 21:43:04,296 [main] INFO logger_file - user clicked on item
+2023-06-04 21:43:40,634 [main] INFO logger_file - User is on the retail website
+2023-06-04 21:43:40,695 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 21:43:41,019 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 21:43:41,273 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (5873b055-734e-4b77-aa94-c36d22198b0e)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (5873b055-734e-4b77-aa94-c36d22198b0e)] -> xpath: //*[@id="password"]]
+2023-06-04 21:43:41,555 [main] INFO logger_file - User clicks on the login button
+2023-06-04 21:43:42,142 [main] INFO logger_file - user logged in into account
+2023-06-04 21:43:42,453 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 21:43:42,501 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 21:43:42,749 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 21:43:43,249 [main] INFO logger_file - user clicked on item
+2023-06-04 21:43:43,524 [main] INFO logger_file - User selects quantity
+2023-06-04 21:43:43,778 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-06-04 21:45:28,632 [main] INFO logger_file - User is on the retail website
+2023-06-04 21:45:28,701 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 21:45:29,027 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 21:45:29,282 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (fde4ccf0-67d3-4746-b6ce-d1da0fff731e)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (fde4ccf0-67d3-4746-b6ce-d1da0fff731e)] -> xpath: //*[@id="password"]]
+2023-06-04 21:45:29,567 [main] INFO logger_file - User clicks on the login button
+2023-06-04 21:45:30,161 [main] INFO logger_file - user logged in into account
+2023-06-04 21:45:30,472 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 21:45:30,519 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 21:45:30,768 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 21:45:31,282 [main] INFO logger_file - user clicked on item
+2023-06-04 21:45:31,556 [main] INFO logger_file - User selects quantity
+2023-06-04 21:45:31,808 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-06-04 21:45:31,821 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-06-04 21:45:32,093 [main] INFO logger_file - User clicks on the Cart option
+2023-06-04 21:45:32,375 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-06-04 21:45:32,888 [main] INFO logger_file - User clicks on place your order button
+2023-06-04 21:45:32,891 [main] INFO logger_file - Successful message displayed
+2023-06-04 23:04:21,376 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:04:21,442 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:04:21,767 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:04:21,991 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (13f2669c-d343-48ef-b1df-fd662b750461)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (13f2669c-d343-48ef-b1df-fd662b750461)] -> xpath: //*[@id="password"]]
+2023-06-04 23:04:22,276 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:04:22,874 [main] INFO logger_file - user logged in into account
+2023-06-04 23:04:23,183 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 23:04:23,238 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 23:04:23,482 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 23:04:24,015 [main] INFO logger_file - user clicked on item
+2023-06-04 23:04:24,278 [main] INFO logger_file - User selects quantity
+2023-06-04 23:04:24,531 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-06-04 23:04:48,284 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:04:48,372 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:04:48,674 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:04:48,903 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (9e16642a-1ae4-4907-863b-40f04301fbf5)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (9e16642a-1ae4-4907-863b-40f04301fbf5)] -> xpath: //*[@id="password"]]
+2023-06-04 23:04:49,188 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:04:49,787 [main] INFO logger_file - user logged in into account
+2023-06-04 23:04:50,097 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 23:04:50,155 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 23:04:50,405 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 23:04:50,908 [main] INFO logger_file - user clicked on item
+2023-06-04 23:04:51,171 [main] INFO logger_file - User selects quantity
+2023-06-04 23:04:51,419 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-06-04 23:06:39,157 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:06:39,224 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:06:39,545 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:06:39,797 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (63f70449-2c62-403c-ab48-5eb61a4ec1f4)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (63f70449-2c62-403c-ab48-5eb61a4ec1f4)] -> xpath: //*[@id="password"]]
+2023-06-04 23:06:40,086 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:06:40,680 [main] INFO logger_file - user logged in into account
+2023-06-04 23:06:40,998 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 23:06:41,062 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 23:06:41,308 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 23:06:41,813 [main] INFO logger_file - user clicked on item
+2023-06-04 23:06:42,086 [main] INFO logger_file - User selects quantity
+2023-06-04 23:06:42,341 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-06-04 23:07:44,572 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:07:44,650 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:07:44,938 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:07:45,145 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (d91be236-1906-48e5-a1de-bfb55b701ad5)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (d91be236-1906-48e5-a1de-bfb55b701ad5)] -> xpath: //*[@id="password"]]
+2023-06-04 23:07:45,421 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:07:46,022 [main] INFO logger_file - user logged in into account
+2023-06-04 23:07:46,342 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 23:07:46,403 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 23:07:46,650 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 23:07:47,160 [main] INFO logger_file - user clicked on item
+2023-06-04 23:07:47,428 [main] INFO logger_file - User selects quantity
+2023-06-04 23:07:47,687 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-06-04 23:07:47,688 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-06-04 23:07:47,961 [main] INFO logger_file - User clicks on the Cart option
+2023-06-04 23:07:48,240 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-06-04 23:07:48,524 [main] INFO logger_file - User clicks on place your order button
+2023-06-04 23:07:48,530 [main] INFO logger_file - Successful message displayed
+2023-06-04 23:08:33,262 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:08:33,336 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:08:33,625 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:08:33,834 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (595f6775-f9a8-454c-8f44-9ca0db6ca6e6)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (595f6775-f9a8-454c-8f44-9ca0db6ca6e6)] -> xpath: //*[@id="password"]]
+2023-06-04 23:08:34,112 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:08:34,709 [main] INFO logger_file - user logged in into account
+2023-06-04 23:08:35,007 [main] INFO logger_file - User clicks on the Orders section
+2023-06-04 23:08:35,263 [main] INFO logger_file - User clicks on the first order in the list
+2023-06-04 23:08:35,553 [main] INFO logger_file - User clicks on the Cancel The Order button
+2023-06-04 23:08:36,133 [main] INFO logger_file - User selects the cancellation reason: Bought wrong item
+2023-06-04 23:08:36,167 [main] INFO logger_file - Cancellation message displayed: Your Order Has Been Cancelled
+Payment refunded to cart ending with ...8777
+Order Summary
+Item total:
+$ 9.99
+Item quantity:
+4
+2023-06-04 23:09:13,221 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:09:13,282 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:09:13,601 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:09:13,846 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (08c5626f-aa71-4b5d-9d53-d669880df653)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (08c5626f-aa71-4b5d-9d53-d669880df653)] -> xpath: //*[@id="password"]]
+2023-06-04 23:09:14,133 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:09:14,732 [main] INFO logger_file - user logged in into account
+2023-06-04 23:09:15,037 [main] INFO logger_file - User clicks on the Orders section
+2023-06-04 23:09:15,294 [main] INFO logger_file - User clicks on the first order in the list
+2023-06-04 23:10:01,322 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:10:01,383 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:10:01,708 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:10:01,964 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (c4e61daf-4729-4c8c-aee3-121079d8ea83)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (c4e61daf-4729-4c8c-aee3-121079d8ea83)] -> xpath: //*[@id="password"]]
+2023-06-04 23:10:02,253 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:10:02,847 [main] INFO logger_file - user logged in into account
+2023-06-04 23:10:03,147 [main] INFO logger_file - User clicks on the Orders section
+2023-06-04 23:10:03,403 [main] INFO logger_file - User clicks on the first order in the list
+2023-06-04 23:10:46,521 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:10:46,601 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:10:46,923 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:10:47,169 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (8cbb18af-968a-40c2-b950-6bf970dbee1f)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (8cbb18af-968a-40c2-b950-6bf970dbee1f)] -> xpath: //*[@id="password"]]
+2023-06-04 23:10:47,456 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:10:48,060 [main] INFO logger_file - user logged in into account
+2023-06-04 23:10:48,366 [main] INFO logger_file - User clicks on the Orders section
+2023-06-04 23:10:48,624 [main] INFO logger_file - User clicks on the first order in the list
+2023-06-04 23:10:48,904 [main] INFO logger_file - User clicks on the Return Items button
+2023-06-04 23:10:49,216 [main] INFO logger_file - User selects the Return Reason: Item damaged
+2023-06-04 23:10:49,489 [main] INFO logger_file - User selects the drop off service: FedEx
+2023-06-04 23:10:49,759 [main] INFO logger_file - User clicks on the Return Order button
+2023-06-04 23:10:49,761 [main] INFO logger_file - Return successful message displayed
+2023-06-04 23:11:08,600 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:11:08,701 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:11:09,024 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:11:09,265 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (184f8c6d-f0ea-429f-8485-dae16786a4bf)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (184f8c6d-f0ea-429f-8485-dae16786a4bf)] -> xpath: //*[@id="password"]]
+2023-06-04 23:11:09,549 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:11:10,142 [main] INFO logger_file - user logged in into account
+2023-06-04 23:11:10,434 [main] INFO logger_file - User clicks on the Orders section
+2023-06-04 23:11:10,693 [main] INFO logger_file - User clicks on the first order in the list
+2023-06-04 23:11:10,962 [main] INFO logger_file - User clicks on the Review button
+2023-06-04 23:11:11,159 [main] INFO logger_file - User writes Review headline: headline value and Review text: review text
+2023-06-04 23:11:11,421 [main] INFO logger_file - User clicks on the Add your Review button
+2023-06-04 23:11:11,452 [main] INFO logger_file - Your review was added successfully: 
+2023-06-04 23:14:03,952 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:14:04,011 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:14:04,314 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:14:04,528 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (a00fbc58-5fa7-4f89-89fd-02994a675177)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (a00fbc58-5fa7-4f89-89fd-02994a675177)] -> xpath: //*[@id="password"]]
+2023-06-04 23:14:04,812 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:14:05,410 [main] INFO logger_file - user logged in into account
+2023-06-04 23:14:05,689 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:14:06,216 [main] INFO logger_file - User clicks on the remove option of card section
+2023-06-04 23:14:06,242 [main] INFO logger_file - Payment details have been removed
+2023-06-04 23:15:38,422 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:15:38,486 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:15:38,787 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:15:39,003 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (6df48407-23ce-4ebf-bd4e-e8babc1cb753)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (6df48407-23ce-4ebf-bd4e-e8babc1cb753)] -> xpath: //*[@id="password"]]
+2023-06-04 23:15:39,293 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:15:39,889 [main] INFO logger_file - user logged in into account
+2023-06-04 23:15:43,469 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:15:43,761 [main] INFO logger_file - user clicked on all Department
+2023-06-04 23:15:44,034 [main] INFO logger_file - User clicked on Electronics sidebar option
+2023-06-04 23:15:44,067 [main] INFO logger_file - Department TV & Video is present
+2023-06-04 23:15:44,112 [main] INFO logger_file - Department Video Games is present
+2023-06-04 23:15:47,486 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:15:47,774 [main] INFO logger_file - user clicked on all Department
+2023-06-04 23:15:48,056 [main] INFO logger_file - User clicked on Computers sidebar option
+2023-06-04 23:15:48,085 [main] INFO logger_file - Department Accessories is present
+2023-06-04 23:15:48,123 [main] INFO logger_file - Department Networking is present
+2023-06-04 23:15:51,414 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:15:51,692 [main] INFO logger_file - user clicked on all Department
+2023-06-04 23:15:51,976 [main] INFO logger_file - User clicked on Smart Home sidebar option
+2023-06-04 23:15:52,006 [main] INFO logger_file - Department Smart Home Lightning is present
+2023-06-04 23:15:52,059 [main] INFO logger_file - Department Plugs and Outlets is present
+2023-06-04 23:15:55,607 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:15:55,877 [main] INFO logger_file - user clicked on all Department
+2023-06-04 23:15:56,147 [main] INFO logger_file - User clicked on Sports sidebar option
+2023-06-04 23:15:56,172 [main] INFO logger_file - Department Athletic Clothing is present
+2023-06-04 23:15:56,200 [main] INFO logger_file - Department Exercise & Fitness is present
+2023-06-04 23:15:59,605 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:15:59,901 [main] INFO logger_file - user clicked on all Department
+2023-06-04 23:16:03,469 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:16:03,525 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:16:03,809 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:16:04,000 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (38168741-4242-49e8-a0f8-fb41834c02fb)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (38168741-4242-49e8-a0f8-fb41834c02fb)] -> xpath: //*[@id="password"]]
+2023-06-04 23:16:04,266 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:16:04,843 [main] INFO logger_file - user logged in into account
+2023-06-04 23:16:05,117 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:16:05,313 [main] INFO logger_file - User updates Name: Ubaid and Phone: 5408410419
+2023-06-04 23:16:29,538 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:16:29,570 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:16:29,839 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:16:30,019 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (8365867d-4030-4e46-963c-19dbaae9e9f7)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (8365867d-4030-4e46-963c-19dbaae9e9f7)] -> xpath: //*[@id="password"]]
+2023-06-04 23:16:30,268 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:16:30,841 [main] INFO logger_file - user logged in into account
+2023-06-04 23:16:31,099 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:16:31,340 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:16:55,658 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:16:55,709 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:16:55,990 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:16:56,177 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (5644570a-f7df-4cd9-a093-0874dff8755e)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (5644570a-f7df-4cd9-a093-0874dff8755e)] -> xpath: //*[@id="password"]]
+2023-06-04 23:16:56,435 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:16:57,004 [main] INFO logger_file - user logged in into account
+2023-06-04 23:16:57,270 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:16:57,502 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:22:15,687 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:22:15,745 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:22:16,071 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:22:16,323 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (72306380-69e1-4cd9-8847-01db14a70864)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (72306380-69e1-4cd9-8847-01db14a70864)] -> xpath: //*[@id="password"]]
+2023-06-04 23:22:16,612 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:22:17,206 [main] INFO logger_file - user logged in into account
+2023-06-04 23:22:17,523 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:22:17,726 [main] INFO logger_file - User updates Name: Ubaid and Phone: 5408410419
+2023-06-04 23:23:48,845 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:23:48,906 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:23:49,222 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:23:49,454 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (631db4cc-eb24-4526-85fa-224aa49b2c8a)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (631db4cc-eb24-4526-85fa-224aa49b2c8a)] -> xpath: //*[@id="password"]]
+2023-06-04 23:23:50,225 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:23:50,300 [main] INFO logger_file - user logged in into account
+2023-06-04 23:23:50,732 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:23:50,938 [main] INFO logger_file - User updates Name: Ubaid and Phone: 5408410419
+2023-06-04 23:24:56,192 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:24:56,255 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:24:56,585 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:24:56,850 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (e68f825c-719c-4732-8f5c-a060eca35725)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (e68f825c-719c-4732-8f5c-a060eca35725)] -> xpath: //*[@id="password"]]
+2023-06-04 23:24:57,147 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:24:57,765 [main] INFO logger_file - user logged in into account
+2023-06-04 23:24:58,088 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:24:58,294 [main] INFO logger_file - User updates Name: Ubaid and Phone: 5408410419
+2023-06-04 23:24:58,546 [main] INFO logger_file - User clicks on the Update button
+2023-06-04 23:24:58,568 [main] INFO logger_file - User profile information is updated
+2023-06-04 23:25:54,114 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:25:54,205 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:25:54,528 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:25:54,762 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (bb1766b0-d236-411e-96bb-78aa0f41beef)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (bb1766b0-d236-411e-96bb-78aa0f41beef)] -> xpath: //*[@id="password"]]
+2023-06-04 23:25:55,046 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:25:55,664 [main] INFO logger_file - user logged in into account
+2023-06-04 23:25:59,429 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:25:59,714 [main] INFO logger_file - user clicked on all Department
+2023-06-04 23:26:00,003 [main] INFO logger_file - User clicked on Electronics sidebar option
+2023-06-04 23:26:00,040 [main] INFO logger_file - Department TV & Video is present
+2023-06-04 23:26:00,088 [main] INFO logger_file - Department Video Games is present
+2023-06-04 23:26:03,499 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:26:03,789 [main] INFO logger_file - user clicked on all Department
+2023-06-04 23:26:04,063 [main] INFO logger_file - User clicked on Computers sidebar option
+2023-06-04 23:26:04,090 [main] INFO logger_file - Department Accessories is present
+2023-06-04 23:26:04,127 [main] INFO logger_file - Department Networking is present
+2023-06-04 23:26:07,465 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:26:07,743 [main] INFO logger_file - user clicked on all Department
+2023-06-04 23:26:08,035 [main] INFO logger_file - User clicked on Smart Home sidebar option
+2023-06-04 23:26:08,067 [main] INFO logger_file - Department Smart Home Lightning is present
+2023-06-04 23:26:08,117 [main] INFO logger_file - Department Plugs and Outlets is present
+2023-06-04 23:26:11,807 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:26:12,082 [main] INFO logger_file - user clicked on all Department
+2023-06-04 23:26:12,355 [main] INFO logger_file - User clicked on Sports sidebar option
+2023-06-04 23:26:12,378 [main] INFO logger_file - Department Athletic Clothing is present
+2023-06-04 23:26:12,403 [main] INFO logger_file - Department Exercise & Fitness is present
+2023-06-04 23:26:16,079 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:26:16,371 [main] INFO logger_file - user clicked on all Department
+2023-06-04 23:26:19,933 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:26:19,988 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:26:20,269 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:26:20,469 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (6a4708bd-af95-4d27-8867-99e56ee353d5)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (6a4708bd-af95-4d27-8867-99e56ee353d5)] -> xpath: //*[@id="password"]]
+2023-06-04 23:26:20,729 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:26:21,299 [main] INFO logger_file - user logged in into account
+2023-06-04 23:26:21,580 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:26:21,778 [main] INFO logger_file - User updates Name: Ubaid and Phone: 5408410419
+2023-06-04 23:27:06,786 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:27:06,885 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:27:07,216 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:27:07,452 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (96b3ec4c-91d7-4cf0-99a7-c0d84b6e50fa)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (96b3ec4c-91d7-4cf0-99a7-c0d84b6e50fa)] -> xpath: //*[@id="password"]]
+2023-06-04 23:27:07,742 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:27:08,355 [main] INFO logger_file - user logged in into account
+2023-06-04 23:27:11,987 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:27:12,284 [main] INFO logger_file - user clicked on all Department
+2023-06-04 23:27:12,552 [main] INFO logger_file - User clicked on Electronics sidebar option
+2023-06-04 23:27:12,589 [main] INFO logger_file - Department TV & Video is present
+2023-06-04 23:27:12,634 [main] INFO logger_file - Department Video Games is present
+2023-06-04 23:27:16,491 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:27:16,790 [main] INFO logger_file - user clicked on all Department
+2023-06-04 23:27:17,046 [main] INFO logger_file - User clicked on Computers sidebar option
+2023-06-04 23:27:17,077 [main] INFO logger_file - Department Accessories is present
+2023-06-04 23:27:17,114 [main] INFO logger_file - Department Networking is present
+2023-06-04 23:27:20,563 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:27:20,851 [main] INFO logger_file - user clicked on all Department
+2023-06-04 23:27:21,122 [main] INFO logger_file - User clicked on Smart Home sidebar option
+2023-06-04 23:27:21,155 [main] INFO logger_file - Department Smart Home Lightning is present
+2023-06-04 23:27:21,203 [main] INFO logger_file - Department Plugs and Outlets is present
+2023-06-04 23:27:24,810 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:27:25,084 [main] INFO logger_file - user clicked on all Department
+2023-06-04 23:27:25,384 [main] INFO logger_file - User clicked on Sports sidebar option
+2023-06-04 23:27:25,409 [main] INFO logger_file - Department Athletic Clothing is present
+2023-06-04 23:27:25,438 [main] INFO logger_file - Department Exercise & Fitness is present
+2023-06-04 23:27:28,894 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:27:29,185 [main] INFO logger_file - user clicked on all Department
+2023-06-04 23:27:32,536 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:27:32,576 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:27:32,850 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:27:33,042 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (65e4e8cb-3c9c-473e-b1d4-7b9aa13a7407)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (65e4e8cb-3c9c-473e-b1d4-7b9aa13a7407)] -> xpath: //*[@id="password"]]
+2023-06-04 23:27:33,309 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:27:33,893 [main] INFO logger_file - user logged in into account
+2023-06-04 23:27:34,172 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:27:34,370 [main] INFO logger_file - User updates Name: Ubaid and Phone: 5408410419
+2023-06-04 23:27:34,627 [main] INFO logger_file - User clicks on the Update button
+2023-06-04 23:27:34,652 [main] INFO logger_file - User profile information is updated
+2023-06-04 23:27:38,170 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:27:38,206 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:27:38,518 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:27:38,693 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (341a8b03-d871-455f-889b-87d816e1b6e4)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (341a8b03-d871-455f-889b-87d816e1b6e4)] -> xpath: //*[@id="password"]]
+2023-06-04 23:27:38,959 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:27:39,552 [main] INFO logger_file - user logged in into account
+2023-06-04 23:27:39,825 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:27:40,063 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:28:04,281 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:28:04,340 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:28:04,630 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:28:04,813 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (412b52f3-ce03-40c5-b5ee-caebe547fe95)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (412b52f3-ce03-40c5-b5ee-caebe547fe95)] -> xpath: //*[@id="password"]]
+2023-06-04 23:28:05,063 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:28:05,644 [main] INFO logger_file - user logged in into account
+2023-06-04 23:28:05,933 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:28:06,176 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:29:18,837 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:29:18,904 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:29:19,218 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:29:19,436 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (47a4c683-2ebf-4388-81ad-f99275fab177)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (47a4c683-2ebf-4388-81ad-f99275fab177)] -> xpath: //*[@id="password"]]
+2023-06-04 23:29:19,719 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:29:20,331 [main] INFO logger_file - user logged in into account
+2023-06-04 23:29:23,866 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:29:24,165 [main] INFO logger_file - user clicked on all Department
+2023-06-04 23:29:24,431 [main] INFO logger_file - User clicked on Electronics sidebar option
+2023-06-04 23:29:24,464 [main] INFO logger_file - Department TV & Video is present
+2023-06-04 23:29:24,512 [main] INFO logger_file - Department Video Games is present
+2023-06-04 23:29:27,984 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:29:28,291 [main] INFO logger_file - user clicked on all Department
+2023-06-04 23:29:28,550 [main] INFO logger_file - User clicked on Computers sidebar option
+2023-06-04 23:29:28,582 [main] INFO logger_file - Department Accessories is present
+2023-06-04 23:29:28,623 [main] INFO logger_file - Department Networking is present
+2023-06-04 23:29:32,861 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:29:33,137 [main] INFO logger_file - user clicked on all Department
+2023-06-04 23:29:33,416 [main] INFO logger_file - User clicked on Smart Home sidebar option
+2023-06-04 23:29:33,446 [main] INFO logger_file - Department Smart Home Lightning is present
+2023-06-04 23:29:33,492 [main] INFO logger_file - Department Plugs and Outlets is present
+2023-06-04 23:29:36,938 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:29:37,212 [main] INFO logger_file - user clicked on all Department
+2023-06-04 23:29:37,482 [main] INFO logger_file - User clicked on Sports sidebar option
+2023-06-04 23:29:37,507 [main] INFO logger_file - Department Athletic Clothing is present
+2023-06-04 23:29:37,534 [main] INFO logger_file - Department Exercise & Fitness is present
+2023-06-04 23:29:40,994 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:29:41,277 [main] INFO logger_file - user clicked on all Department
+2023-06-04 23:29:44,847 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:29:44,885 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:29:45,165 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:29:45,353 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (9ed97bc1-90e4-4a17-b05c-5ced09b2b6c0)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (9ed97bc1-90e4-4a17-b05c-5ced09b2b6c0)] -> xpath: //*[@id="password"]]
+2023-06-04 23:29:45,619 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:29:46,195 [main] INFO logger_file - user logged in into account
+2023-06-04 23:29:46,472 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:29:46,672 [main] INFO logger_file - User updates Name: Ubaid and Phone: 5408410419
+2023-06-04 23:29:46,925 [main] INFO logger_file - User clicks on the Update button
+2023-06-04 23:29:46,955 [main] INFO logger_file - User profile information is updated
+2023-06-04 23:29:50,386 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:29:50,420 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:29:50,695 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:29:50,877 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (9e496b3e-f024-4e6b-af61-0c8dab932871)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (9e496b3e-f024-4e6b-af61-0c8dab932871)] -> xpath: //*[@id="password"]]
+2023-06-04 23:29:51,133 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:29:51,714 [main] INFO logger_file - user logged in into account
+2023-06-04 23:29:51,999 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:29:52,243 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:29:52,496 [main] INFO logger_file - User clicks on 'Add a payment method' link
+2023-06-04 23:29:52,761 [main] INFO logger_file - User fills the card information
+2023-06-04 23:29:53,007 [main] INFO logger_file - User clicks on 'Add your card' button
+2023-06-04 23:29:56,495 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:29:56,534 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:29:56,823 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:29:57,012 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (183e0323-ca94-4ab4-a9cc-0e513ec9397e)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (183e0323-ca94-4ab4-a9cc-0e513ec9397e)] -> xpath: //*[@id="password"]]
+2023-06-04 23:29:57,268 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:29:57,851 [main] INFO logger_file - user logged in into account
+2023-06-04 23:29:58,146 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:29:58,388 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:29:58,902 [main] INFO logger_file - User clicks on Edit option of card section
+2023-06-04 23:29:59,154 [main] INFO logger_file - User edits card information
+2023-06-04 23:29:59,399 [main] INFO logger_file - User clicks on Update Your Card button
+2023-06-04 23:29:59,418 [main] INFO logger_file - Payment Method updated Successfully message is displayed
+2023-06-04 23:30:03,013 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:30:03,045 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:30:03,316 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:30:03,516 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (2d4abd39-5566-4770-8db7-a602bc6037dc)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (2d4abd39-5566-4770-8db7-a602bc6037dc)] -> xpath: //*[@id="password"]]
+2023-06-04 23:30:03,773 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:30:04,350 [main] INFO logger_file - user logged in into account
+2023-06-04 23:30:04,638 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:30:05,131 [main] INFO logger_file - User clicks on the remove option of card section
+2023-06-04 23:30:05,146 [main] INFO logger_file - Payment details have been removed
+2023-06-04 23:30:08,624 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:30:08,660 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:30:08,942 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:30:09,113 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (35572a30-f89d-4dc2-9125-7197f86817a3)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (35572a30-f89d-4dc2-9125-7197f86817a3)] -> xpath: //*[@id="password"]]
+2023-06-04 23:30:09,369 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:30:09,956 [main] INFO logger_file - user logged in into account
+2023-06-04 23:30:10,233 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:30:10,478 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:30:10,758 [main] INFO logger_file - User clicks on the Add address option
+2023-06-04 23:30:11,168 [main] INFO logger_file - User fills new address form
+2023-06-04 23:30:11,444 [main] INFO logger_file - User clicks on the Add Your Address button
+2023-06-04 23:30:12,008 [main] INFO logger_file - Address Added Successfully message is displayed
+2023-06-04 23:30:15,294 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:30:15,342 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:30:15,613 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:30:15,787 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (10e681c0-cfcf-43e9-8250-06c49f0b4d68)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (10e681c0-cfcf-43e9-8250-06c49f0b4d68)] -> xpath: //*[@id="password"]]
+2023-06-04 23:30:16,033 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:30:16,590 [main] INFO logger_file - user logged in into account
+2023-06-04 23:30:16,864 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:30:17,104 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:30:17,361 [main] INFO logger_file - User clicks on edit address option
+2023-06-04 23:30:17,762 [main] INFO logger_file - User fills new address form
+2023-06-04 23:30:18,050 [main] INFO logger_file - User clicks on update Your Address button
+2023-06-04 23:30:18,066 [main] INFO logger_file - Address Updated Successfully message is displayed
+2023-06-04 23:30:21,449 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:30:21,484 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:30:21,757 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:30:21,923 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (a452b2dc-f190-4560-a715-6ea9be5baa32)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (a452b2dc-f190-4560-a715-6ea9be5baa32)] -> xpath: //*[@id="password"]]
+2023-06-04 23:30:22,171 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:30:22,732 [main] INFO logger_file - user logged in into account
+2023-06-04 23:30:23,009 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:30:23,246 [main] INFO logger_file - User clicks on the Account option
+2023-06-04 23:30:23,501 [main] INFO logger_file - User clicks on the remove option of Address section
+2023-06-04 23:30:23,528 [main] INFO logger_file - Address details are removed
+2023-06-04 23:30:27,127 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:30:27,177 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:30:27,449 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:30:27,616 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (4ea9d34d-b91c-4562-b860-db1b9f42648b)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (4ea9d34d-b91c-4562-b860-db1b9f42648b)] -> xpath: //*[@id="password"]]
+2023-06-04 23:30:27,856 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:30:28,473 [main] INFO logger_file - user logged in into account
+2023-06-04 23:30:28,835 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 23:30:28,943 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-06-04 23:30:29,201 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 23:30:29,687 [main] INFO logger_file - User successfully click on item
+2023-06-04 23:30:29,941 [main] INFO logger_file - User selects quantity
+2023-06-04 23:30:30,187 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-06-04 23:30:30,188 [main] INFO logger_file - 5was displayed in the cart
+2023-06-04 23:30:33,599 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:30:33,634 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:30:33,906 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:30:34,088 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (524d053b-0d6c-442e-8a23-28bbff93b5aa)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (524d053b-0d6c-442e-8a23-28bbff93b5aa)] -> xpath: //*[@id="password"]]
+2023-06-04 23:30:34,338 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:30:34,904 [main] INFO logger_file - user logged in into account
+2023-06-04 23:30:35,162 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-04 23:30:35,207 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-04 23:30:35,439 [main] INFO logger_file - User clicks on the Search icon
+2023-06-04 23:30:35,916 [main] INFO logger_file - user clicked on item
+2023-06-04 23:30:36,167 [main] INFO logger_file - User selects quantity
+2023-06-04 23:30:36,402 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-06-04 23:30:36,404 [main] INFO logger_file - 5quantity was displayed in the cart
+2023-06-04 23:30:36,662 [main] INFO logger_file - User clicks on the Cart option
+2023-06-04 23:30:36,920 [main] INFO logger_file - User clicks on the proceed to checkout button
+2023-06-04 23:30:37,166 [main] INFO logger_file - User clicks on place your order button
+2023-06-04 23:30:37,168 [main] INFO logger_file - Successful message displayed
+2023-06-04 23:30:40,765 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:30:40,797 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:30:41,072 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:30:41,246 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (c0434a2b-9ee9-42e1-88a4-959940d7910f)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (c0434a2b-9ee9-42e1-88a4-959940d7910f)] -> xpath: //*[@id="password"]]
+2023-06-04 23:30:41,490 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:30:42,066 [main] INFO logger_file - user logged in into account
+2023-06-04 23:30:42,344 [main] INFO logger_file - User clicks on the Orders section
+2023-06-04 23:30:42,586 [main] INFO logger_file - User clicks on the first order in the list
+2023-06-04 23:30:42,858 [main] INFO logger_file - User clicks on the Cancel The Order button
+2023-06-04 23:30:43,388 [main] INFO logger_file - User selects the cancellation reason: Bought wrong item
+2023-06-04 23:30:43,416 [main] INFO logger_file - Cancellation message displayed: Your Order Has Been Cancelled
+Payment refunded to cart ending with ...8777
+Order Summary
+Item total:
+$ 29.98
+Item quantity:
+2
+2023-06-04 23:30:47,061 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:30:47,093 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:30:47,372 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:30:47,535 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (ea28e8da-621d-464a-ad89-6ea119ff2c27)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (ea28e8da-621d-464a-ad89-6ea119ff2c27)] -> xpath: //*[@id="password"]]
+2023-06-04 23:30:47,786 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:30:48,341 [main] INFO logger_file - user logged in into account
+2023-06-04 23:30:48,620 [main] INFO logger_file - User clicks on the Orders section
+2023-06-04 23:30:48,860 [main] INFO logger_file - User clicks on the first order in the list
+2023-06-04 23:31:12,834 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:31:12,867 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:31:13,144 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:31:13,320 [main] INFO logger_file - User enters email: [[FirefoxDriver: firefox on MAC (5b02addd-a346-4426-86ce-d67dfea0ac4e)] -> xpath: //*[@id="email"]] and password[[FirefoxDriver: firefox on MAC (5b02addd-a346-4426-86ce-d67dfea0ac4e)] -> xpath: //*[@id="password"]]
+2023-06-04 23:31:13,575 [main] INFO logger_file - User clicks on the login button
+2023-06-04 23:31:14,158 [main] INFO logger_file - user logged in into account
+2023-06-04 23:31:14,451 [main] INFO logger_file - User clicks on the Orders section
+2023-06-04 23:31:14,686 [main] INFO logger_file - User clicks on the first order in the list
+2023-06-04 23:31:14,939 [main] INFO logger_file - User clicks on the Review button
+2023-06-04 23:31:15,103 [main] INFO logger_file - User writes Review headline: headline value and Review text: review text
+2023-06-04 23:31:15,339 [main] INFO logger_file - User clicks on the Add your Review button
+2023-06-04 23:31:15,371 [main] INFO logger_file - Your review was added successfully: 
+2023-06-04 23:31:18,810 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:31:18,844 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:31:19,116 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:40:59,431 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:40:59,495 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:40:59,797 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:41:00,099 [main] INFO logger_file - user clicked on create new account option
+2023-06-04 23:42:08,171 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:42:08,233 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:42:08,530 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:42:08,825 [main] INFO logger_file - user clicked on create new account option
+2023-06-04 23:42:08,956 [main] INFO logger_file - UbaidSamadi user name was entered successfully
+2023-06-04 23:42:09,053 [main] INFO logger_file - ubaidsamadi73@gmail.comemail entered successfully
+2023-06-04 23:42:09,101 [main] INFO logger_file - password entered successfully
+2023-06-04 23:42:09,148 [main] INFO logger_file - heLcpDAMDpMGD4U! password entered successfully for confirmation
+2023-06-04 23:42:09,407 [main] INFO logger_file - Signup button was clicked succesfully
+2023-06-04 23:42:23,389 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:42:23,448 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:42:23,790 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:42:24,097 [main] INFO logger_file - user clicked on create new account option
+2023-06-04 23:42:24,243 [main] INFO logger_file - UbaidSamadi user name was entered successfully
+2023-06-04 23:42:24,336 [main] INFO logger_file - ubaidsamadi73@gmail.comemail entered successfully
+2023-06-04 23:42:24,386 [main] INFO logger_file - password entered successfully
+2023-06-04 23:42:24,435 [main] INFO logger_file - heLcpDAMDpMGD4U! password entered successfully for confirmation
+2023-06-04 23:42:24,704 [main] INFO logger_file - Signup button was clicked succesfully
+2023-06-04 23:46:51,069 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:46:51,148 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:46:51,443 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:46:51,768 [main] INFO logger_file - user clicked on create new account option
+2023-06-04 23:46:51,917 [main] INFO logger_file - UbaidSamadi user name was entered successfully
+2023-06-04 23:46:52,016 [main] INFO logger_file - ubaidsamadi73@gmail.comemail entered successfully
+2023-06-04 23:46:52,065 [main] INFO logger_file - password entered successfully
+2023-06-04 23:46:52,110 [main] INFO logger_file - heLcpDAMDpMGD4U! password entered successfully for confirmation
+2023-06-04 23:46:52,359 [main] INFO logger_file - Signup button was clicked succesfully
+2023-06-04 23:47:35,460 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:47:35,522 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:47:35,820 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:47:36,109 [main] INFO logger_file - user clicked on create new account option
+2023-06-04 23:47:36,227 [main] INFO logger_file - UbaidSam user name was entered successfully
+2023-06-04 23:47:36,327 [main] INFO logger_file - ubaidsamadi1@gmail.comemail entered successfully
+2023-06-04 23:47:36,377 [main] INFO logger_file - password entered successfully
+2023-06-04 23:47:36,427 [main] INFO logger_file - heLcpDAMDpMGD4U! password entered successfully for confirmation
+2023-06-04 23:47:36,679 [main] INFO logger_file - Signup button was clicked succesfully
+2023-06-04 23:48:58,967 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:48:59,035 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:48:59,337 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:48:59,629 [main] INFO logger_file - user clicked on create new account option
+2023-06-04 23:48:59,777 [main] INFO logger_file - userdragonstudent user name was entered successfully
+2023-06-04 23:48:59,864 [main] INFO logger_file - user122@gmail.comemail entered successfully
+2023-06-04 23:48:59,913 [main] INFO logger_file - password entered successfully
+2023-06-04 23:48:59,956 [main] INFO logger_file - heLcpDAMDkMGD4U! password entered successfully for confirmation
+2023-06-04 23:49:00,209 [main] INFO logger_file - Signup button was clicked succesfully
+2023-06-04 23:50:30,097 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:50:30,169 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:50:30,467 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:50:30,797 [main] INFO logger_file - user clicked on create new account option
+2023-06-04 23:50:30,950 [main] INFO logger_file - userdragonstudent user name was entered successfully
+2023-06-04 23:50:31,033 [main] INFO logger_file - user122@gmail.comemail entered successfully
+2023-06-04 23:50:31,080 [main] INFO logger_file - password entered successfully
+2023-06-04 23:50:31,124 [main] INFO logger_file - heLcpDAMDkMGD4U! password entered successfully for confirmation
+2023-06-04 23:50:31,386 [main] INFO logger_file - Signup button was clicked succesfully
+2023-06-04 23:50:46,272 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:50:46,338 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:50:46,657 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:50:46,952 [main] INFO logger_file - user clicked on create new account option
+2023-06-04 23:50:47,090 [main] INFO logger_file - userdragonstudent user name was entered successfully
+2023-06-04 23:50:47,172 [main] INFO logger_file - user122@gmail.comemail entered successfully
+2023-06-04 23:50:47,221 [main] INFO logger_file - password entered successfully
+2023-06-04 23:50:47,269 [main] INFO logger_file - heLcpDAMDkMGD4U! password entered successfully for confirmation
+2023-06-04 23:50:47,528 [main] INFO logger_file - Signup button was clicked succesfully
+2023-06-04 23:51:21,632 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:51:21,693 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:51:22,009 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:51:22,342 [main] INFO logger_file - user clicked on create new account option
+2023-06-04 23:51:22,508 [main] INFO logger_file - userdragonstudent user name was entered successfully
+2023-06-04 23:51:22,590 [main] INFO logger_file - user114@gmail.comemail entered successfully
+2023-06-04 23:51:22,631 [main] INFO logger_file - password entered successfully
+2023-06-04 23:51:22,674 [main] INFO logger_file - Messi123! password entered successfully for confirmation
+2023-06-04 23:51:22,929 [main] INFO logger_file - Signup button was clicked succesfully
+2023-06-04 23:52:37,159 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:52:37,254 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:52:37,555 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:52:37,859 [main] INFO logger_file - user clicked on create new account option
+2023-06-04 23:52:38,003 [main] INFO logger_file - userdragonstudent user name was entered successfully
+2023-06-04 23:52:38,088 [main] INFO logger_file - user114@gmail.comemail entered successfully
+2023-06-04 23:52:38,131 [main] INFO logger_file - password entered successfully
+2023-06-04 23:52:38,172 [main] INFO logger_file - Messi123! password entered successfully for confirmation
+2023-06-04 23:52:38,424 [main] INFO logger_file - Signup button was clicked succesfully
+2023-06-04 23:53:04,943 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:53:05,036 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:53:05,346 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:53:05,640 [main] INFO logger_file - user clicked on create new account option
+2023-06-04 23:53:05,777 [main] INFO logger_file - userdragonstudent user name was entered successfully
+2023-06-04 23:53:05,858 [main] INFO logger_file - user147@gmail.comemail entered successfully
+2023-06-04 23:53:05,901 [main] INFO logger_file - password entered successfully
+2023-06-04 23:53:05,946 [main] INFO logger_file - Messi123! password entered successfully for confirmation
+2023-06-04 23:53:06,202 [main] INFO logger_file - Signup button was clicked succesfully
+2023-06-04 23:54:06,267 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:54:06,332 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:54:06,678 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:54:06,995 [main] INFO logger_file - user clicked on create new account option
+2023-06-04 23:54:07,146 [main] INFO logger_file - userdragonstudent user name was entered successfully
+2023-06-04 23:54:07,232 [main] INFO logger_file - user112@gmail.comemail entered successfully
+2023-06-04 23:54:07,276 [main] INFO logger_file - password entered successfully
+2023-06-04 23:54:07,317 [main] INFO logger_file - Messi123! password entered successfully for confirmation
+2023-06-04 23:54:07,579 [main] INFO logger_file - Signup button was clicked succesfully
+2023-06-04 23:54:56,397 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:54:56,465 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:54:56,761 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:54:57,063 [main] INFO logger_file - user clicked on create new account option
+2023-06-04 23:54:57,206 [main] INFO logger_file - userdragonstudent user name was entered successfully
+2023-06-04 23:54:57,287 [main] INFO logger_file - user112@gmail.comemail entered successfully
+2023-06-04 23:54:57,329 [main] INFO logger_file - password entered successfully
+2023-06-04 23:54:57,370 [main] INFO logger_file - Messi123! password entered successfully for confirmation
+2023-06-04 23:54:57,634 [main] INFO logger_file - Signup button was clicked succesfully
+2023-06-04 23:55:18,475 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:55:18,565 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:55:18,866 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:55:19,162 [main] INFO logger_file - user clicked on create new account option
+2023-06-04 23:55:19,293 [main] INFO logger_file - userdragonstudent user name was entered successfully
+2023-06-04 23:55:19,383 [main] INFO logger_file - user78k4@gmail.comemail entered successfully
+2023-06-04 23:55:19,420 [main] INFO logger_file - password entered successfully
+2023-06-04 23:55:19,463 [main] INFO logger_file - Messi123! password entered successfully for confirmation
+2023-06-04 23:55:19,719 [main] INFO logger_file - Signup button was clicked succesfully
+2023-06-04 23:56:39,232 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:56:39,308 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:56:39,628 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:56:39,939 [main] INFO logger_file - user clicked on create new account option
+2023-06-04 23:56:40,098 [main] INFO logger_file - userdragonstudent user name was entered successfully
+2023-06-04 23:56:40,182 [main] INFO logger_file - user78j4@gmail.comemail entered successfully
+2023-06-04 23:56:40,222 [main] INFO logger_file - password entered successfully
+2023-06-04 23:56:40,269 [main] INFO logger_file - Messi123! password entered successfully for confirmation
+2023-06-04 23:56:40,530 [main] INFO logger_file - Signup button was clicked succesfully
+2023-06-04 23:57:52,146 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:57:52,207 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:57:52,524 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:57:52,847 [main] INFO logger_file - user clicked on create new account option
+2023-06-04 23:57:53,005 [main] INFO logger_file - userdragonstudent user name was entered successfully
+2023-06-04 23:57:53,087 [main] INFO logger_file - user78j4@gmail.comemail entered successfully
+2023-06-04 23:57:53,123 [main] INFO logger_file - password entered successfully
+2023-06-04 23:57:53,160 [main] INFO logger_file - Messi123! password entered successfully for confirmation
+2023-06-04 23:57:53,419 [main] INFO logger_file - Signup button was clicked succesfully
+2023-06-04 23:58:17,510 [main] INFO logger_file - User is on the retail website
+2023-06-04 23:58:17,574 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-04 23:58:17,903 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-04 23:58:18,213 [main] INFO logger_file - user clicked on create new account option
+2023-06-04 23:58:18,353 [main] INFO logger_file - userdragonstudent user name was entered successfully
+2023-06-04 23:58:18,441 [main] INFO logger_file - user78p4@gmail.comemail entered successfully
+2023-06-04 23:58:18,484 [main] INFO logger_file - password entered successfully
+2023-06-04 23:58:18,523 [main] INFO logger_file - Messi123! password entered successfully for confirmation
+2023-06-04 23:58:18,781 [main] INFO logger_file - Signup button was clicked succesfully
+2023-06-05 11:39:28,497 [main] INFO logger_file - User is on the retail website
+2023-06-05 11:39:28,563 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 11:39:28,880 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 11:39:32,477 [main] INFO logger_file - User is on the retail website
+2023-06-05 11:39:32,770 [main] INFO logger_file - user clicked on all Department
+2023-06-05 11:39:33,037 [main] INFO logger_file - User clicked on Electronics sidebar option
+2023-06-05 11:39:33,068 [main] INFO logger_file - Department TV & Video is present
+2023-06-05 11:39:33,114 [main] INFO logger_file - Department Video Games is present
+2023-06-05 11:39:36,712 [main] INFO logger_file - User is on the retail website
+2023-06-05 11:39:36,991 [main] INFO logger_file - user clicked on all Department
+2023-06-05 11:39:37,253 [main] INFO logger_file - User clicked on Computers sidebar option
+2023-06-05 11:39:37,281 [main] INFO logger_file - Department Accessories is present
+2023-06-05 11:39:37,323 [main] INFO logger_file - Department Networking is present
+2023-06-05 11:39:40,886 [main] INFO logger_file - User is on the retail website
+2023-06-05 11:39:41,172 [main] INFO logger_file - user clicked on all Department
+2023-06-05 11:39:41,443 [main] INFO logger_file - User clicked on Smart Home sidebar option
+2023-06-05 11:39:41,480 [main] INFO logger_file - Department Smart Home Lightning is present
+2023-06-05 11:39:41,529 [main] INFO logger_file - Department Plugs and Outlets is present
+2023-06-05 11:39:44,968 [main] INFO logger_file - User is on the retail website
+2023-06-05 11:39:45,250 [main] INFO logger_file - user clicked on all Department
+2023-06-05 11:39:45,547 [main] INFO logger_file - User clicked on Sports sidebar option
+2023-06-05 11:39:45,581 [main] INFO logger_file - Department Athletic Clothing is present
+2023-06-05 11:39:45,612 [main] INFO logger_file - Department Exercise & Fitness is present
+2023-06-05 11:43:26,216 [main] INFO logger_file - User is on the retail website
+2023-06-05 11:43:26,282 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 11:43:26,583 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 11:43:30,250 [main] INFO logger_file - User is on the retail website
+2023-06-05 11:43:30,555 [main] INFO logger_file - user clicked on all Department
+2023-06-05 11:43:30,823 [main] INFO logger_file - User clicked on Electronics sidebar option
+2023-06-05 11:43:30,874 [main] INFO logger_file - Department TV & Video is present
+2023-06-05 11:43:30,917 [main] INFO logger_file - Department Video Games is present
+2023-06-05 11:43:50,064 [main] INFO logger_file - User is on the retail website
+2023-06-05 11:43:50,135 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 11:43:50,468 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 11:43:54,075 [main] INFO logger_file - User is on the retail website
+2023-06-05 11:43:54,366 [main] INFO logger_file - user clicked on all Department
+2023-06-05 11:43:54,649 [main] INFO logger_file - User clicked on Electronics sidebar option
+2023-06-05 11:43:54,681 [main] INFO logger_file - Department TV & Video is present
+2023-06-05 11:43:54,744 [main] INFO logger_file - Department Video Games is present
+2023-06-05 11:43:57,933 [main] INFO logger_file - User is on the retail website
+2023-06-05 11:43:58,228 [main] INFO logger_file - user clicked on all Department
+2023-06-05 11:43:58,494 [main] INFO logger_file - User clicked on Computers sidebar option
+2023-06-05 11:43:58,526 [main] INFO logger_file - Department Accessories is present
+2023-06-05 11:43:58,564 [main] INFO logger_file - Department Networking is present
+2023-06-05 11:44:02,018 [main] INFO logger_file - User is on the retail website
+2023-06-05 11:44:02,333 [main] INFO logger_file - user clicked on all Department
+2023-06-05 11:44:02,590 [main] INFO logger_file - User clicked on Smart Home sidebar option
+2023-06-05 11:44:02,622 [main] INFO logger_file - Department Smart Home Lightning is present
+2023-06-05 11:44:02,671 [main] INFO logger_file - Department Plugs and Outlets is present
+2023-06-05 11:45:49,891 [main] INFO logger_file - User is on the retail website
+2023-06-05 11:45:49,963 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 11:45:50,260 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 11:47:52,957 [main] INFO logger_file - User is on the retail website
+2023-06-05 11:47:53,021 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 11:47:53,330 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 11:47:53,454 [main] INFO logger_file - email was sent successfully
+2023-06-05 11:47:53,510 [main] INFO logger_file - password was sent successfully
+2023-06-05 11:47:53,797 [main] INFO logger_file - User clicks on the login button
+2023-06-05 11:48:17,295 [main] INFO logger_file - User is on the retail website
+2023-06-05 11:48:17,607 [main] INFO logger_file - user clicked on all Department
+2023-06-05 11:48:17,870 [main] INFO logger_file - User clicked on Electronics sidebar option
+2023-06-05 11:48:17,905 [main] INFO logger_file - Department TV & Video is present
+2023-06-05 11:48:17,942 [main] INFO logger_file - Department Video Games is present
+2023-06-05 11:48:21,446 [main] INFO logger_file - User is on the retail website
+2023-06-05 11:48:21,762 [main] INFO logger_file - user clicked on all Department
+2023-06-05 11:48:22,015 [main] INFO logger_file - User clicked on Computers sidebar option
+2023-06-05 11:48:22,056 [main] INFO logger_file - Department Accessories is present
+2023-06-05 11:48:22,109 [main] INFO logger_file - Department Networking is present
+2023-06-05 11:48:25,521 [main] INFO logger_file - User is on the retail website
+2023-06-05 11:48:25,793 [main] INFO logger_file - user clicked on all Department
+2023-06-05 11:48:26,056 [main] INFO logger_file - User clicked on Smart Home sidebar option
+2023-06-05 11:48:26,080 [main] INFO logger_file - Department Smart Home Lightning is present
+2023-06-05 11:48:26,112 [main] INFO logger_file - Department Plugs and Outlets is present
+2023-06-05 11:48:29,652 [main] INFO logger_file - User is on the retail website
+2023-06-05 11:48:29,936 [main] INFO logger_file - user clicked on all Department
+2023-06-05 11:48:30,204 [main] INFO logger_file - User clicked on Sports sidebar option
+2023-06-05 11:48:30,241 [main] INFO logger_file - Department Athletic Clothing is present
+2023-06-05 11:48:30,280 [main] INFO logger_file - Department Exercise & Fitness is present
+2023-06-05 11:48:33,735 [main] INFO logger_file - User is on the retail website
+2023-06-05 11:48:34,028 [main] INFO logger_file - user clicked on all Department
+2023-06-05 11:48:37,641 [main] INFO logger_file - User is on the retail website
+2023-06-05 11:48:37,700 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 11:48:37,983 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 11:48:38,102 [main] INFO logger_file - email was sent successfully
+2023-06-05 11:48:38,156 [main] INFO logger_file - password was sent successfully
+2023-06-05 11:48:38,432 [main] INFO logger_file - User clicks on the login button
+2023-06-05 11:49:02,135 [main] INFO logger_file - User is on the retail website
+2023-06-05 11:49:02,191 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 11:49:02,465 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 11:49:02,579 [main] INFO logger_file - email was sent successfully
+2023-06-05 11:49:02,630 [main] INFO logger_file - password was sent successfully
+2023-06-05 11:49:02,892 [main] INFO logger_file - User clicks on the login button
+2023-06-05 11:49:26,743 [main] INFO logger_file - User is on the retail website
+2023-06-05 11:49:26,786 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 11:49:27,083 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 11:49:27,205 [main] INFO logger_file - email was sent successfully
+2023-06-05 11:49:27,256 [main] INFO logger_file - password was sent successfully
+2023-06-05 11:49:27,518 [main] INFO logger_file - User clicks on the login button
+2023-06-05 11:50:00,448 [main] INFO logger_file - User is on the retail website
+2023-06-05 11:50:00,511 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 11:50:00,824 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 11:50:00,963 [main] INFO logger_file - email was sent successfully
+2023-06-05 11:50:01,021 [main] INFO logger_file - password was sent successfully
+2023-06-05 11:50:01,305 [main] INFO logger_file - User clicks on the login button
+2023-06-05 12:54:30,389 [main] INFO logger_file - User is on the retail website
+2023-06-05 12:54:30,453 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 12:54:30,766 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 12:54:30,876 [main] INFO logger_file - email was sent successfully
+2023-06-05 12:54:30,938 [main] INFO logger_file - password was sent successfully
+2023-06-05 12:54:31,214 [main] INFO logger_file - User clicks on the login button
+2023-06-05 12:54:54,760 [main] INFO logger_file - User is on the retail website
+2023-06-05 12:54:55,057 [main] INFO logger_file - user clicked on all Department
+2023-06-05 12:54:55,329 [main] INFO logger_file - User clicked on Electronics sidebar option
+2023-06-05 12:54:55,360 [main] INFO logger_file - Department TV & Video is present
+2023-06-05 12:54:55,395 [main] INFO logger_file - Department Video Games is present
+2023-06-05 12:54:58,914 [main] INFO logger_file - User is on the retail website
+2023-06-05 12:54:59,196 [main] INFO logger_file - user clicked on all Department
+2023-06-05 12:54:59,458 [main] INFO logger_file - User clicked on Computers sidebar option
+2023-06-05 12:54:59,493 [main] INFO logger_file - Department Accessories is present
+2023-06-05 12:54:59,537 [main] INFO logger_file - Department Networking is present
+2023-06-05 12:55:03,023 [main] INFO logger_file - User is on the retail website
+2023-06-05 12:55:03,292 [main] INFO logger_file - user clicked on all Department
+2023-06-05 12:55:03,547 [main] INFO logger_file - User clicked on Smart Home sidebar option
+2023-06-05 12:55:03,574 [main] INFO logger_file - Department Smart Home Lightning is present
+2023-06-05 12:55:03,602 [main] INFO logger_file - Department Plugs and Outlets is present
+2023-06-05 12:55:06,979 [main] INFO logger_file - User is on the retail website
+2023-06-05 12:55:07,288 [main] INFO logger_file - user clicked on all Department
+2023-06-05 12:55:07,552 [main] INFO logger_file - User clicked on Sports sidebar option
+2023-06-05 12:55:07,581 [main] INFO logger_file - Department Athletic Clothing is present
+2023-06-05 12:55:07,622 [main] INFO logger_file - Department Exercise & Fitness is present
+2023-06-05 12:55:11,259 [main] INFO logger_file - User is on the retail website
+2023-06-05 12:55:11,544 [main] INFO logger_file - user clicked on all Department
+2023-06-05 12:55:15,154 [main] INFO logger_file - User is on the retail website
+2023-06-05 12:55:15,189 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 12:55:15,477 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 12:55:15,580 [main] INFO logger_file - email was sent successfully
+2023-06-05 12:55:15,627 [main] INFO logger_file - password was sent successfully
+2023-06-05 12:55:15,910 [main] INFO logger_file - User clicks on the login button
+2023-06-05 12:55:39,715 [main] INFO logger_file - User is on the retail website
+2023-06-05 12:55:39,765 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 12:55:40,045 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 12:55:40,152 [main] INFO logger_file - email was sent successfully
+2023-06-05 12:55:40,193 [main] INFO logger_file - password was sent successfully
+2023-06-05 12:55:40,452 [main] INFO logger_file - User clicks on the login button
+2023-06-05 12:58:58,807 [main] INFO logger_file - User is on the retail website
+2023-06-05 12:58:58,877 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 12:58:59,174 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 12:58:59,310 [main] INFO logger_file - email was sent successfully
+2023-06-05 12:58:59,370 [main] INFO logger_file - password was sent successfully
+2023-06-05 12:58:59,649 [main] INFO logger_file - User clicks on the login button
+2023-06-05 13:00:37,749 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:00:37,836 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 13:00:38,137 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 13:00:38,273 [main] INFO logger_file - email was sent successfully
+2023-06-05 13:00:38,335 [main] INFO logger_file - password was sent successfully
+2023-06-05 13:00:38,609 [main] INFO logger_file - User clicks on the login button
+2023-06-05 13:01:02,947 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:01:03,237 [main] INFO logger_file - user clicked on all Department
+2023-06-05 13:01:03,501 [main] INFO logger_file - User clicked on Electronics sidebar option
+2023-06-05 13:01:03,535 [main] INFO logger_file - Department TV & Video is present
+2023-06-05 13:01:03,578 [main] INFO logger_file - Department Video Games is present
+2023-06-05 13:01:06,982 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:01:07,292 [main] INFO logger_file - user clicked on all Department
+2023-06-05 13:01:07,552 [main] INFO logger_file - User clicked on Computers sidebar option
+2023-06-05 13:01:07,590 [main] INFO logger_file - Department Accessories is present
+2023-06-05 13:01:07,636 [main] INFO logger_file - Department Networking is present
+2023-06-05 13:01:11,729 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:01:12,003 [main] INFO logger_file - user clicked on all Department
+2023-06-05 13:01:12,262 [main] INFO logger_file - User clicked on Smart Home sidebar option
+2023-06-05 13:01:12,289 [main] INFO logger_file - Department Smart Home Lightning is present
+2023-06-05 13:01:12,318 [main] INFO logger_file - Department Plugs and Outlets is present
+2023-06-05 13:01:15,860 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:01:16,132 [main] INFO logger_file - user clicked on all Department
+2023-06-05 13:01:16,404 [main] INFO logger_file - User clicked on Sports sidebar option
+2023-06-05 13:01:19,306 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:01:19,611 [main] INFO logger_file - user clicked on all Department
+2023-06-05 13:01:23,285 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:01:23,321 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 13:01:23,607 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 13:01:23,739 [main] INFO logger_file - email was sent successfully
+2023-06-05 13:01:23,787 [main] INFO logger_file - password was sent successfully
+2023-06-05 13:01:24,055 [main] INFO logger_file - User clicks on the login button
+2023-06-05 13:01:56,699 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:01:56,784 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 13:01:57,112 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 13:01:57,243 [main] INFO logger_file - email was sent successfully
+2023-06-05 13:01:57,305 [main] INFO logger_file - password was sent successfully
+2023-06-05 13:01:57,589 [main] INFO logger_file - User clicks on the login button
+2023-06-05 13:01:58,202 [main] INFO logger_file - user logged in into account
+2023-06-05 13:02:01,797 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:02:02,103 [main] INFO logger_file - user clicked on all Department
+2023-06-05 13:02:02,369 [main] INFO logger_file - User clicked on Electronics sidebar option
+2023-06-05 13:02:02,400 [main] INFO logger_file - Department TV & Video is present
+2023-06-05 13:02:02,444 [main] INFO logger_file - Department Video Games is present
+2023-06-05 13:02:05,721 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:02:06,009 [main] INFO logger_file - user clicked on all Department
+2023-06-05 13:02:06,275 [main] INFO logger_file - User clicked on Computers sidebar option
+2023-06-05 13:02:06,306 [main] INFO logger_file - Department Accessories is present
+2023-06-05 13:02:06,350 [main] INFO logger_file - Department Networking is present
+2023-06-05 13:02:09,818 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:02:10,120 [main] INFO logger_file - user clicked on all Department
+2023-06-05 13:02:10,385 [main] INFO logger_file - User clicked on Smart Home sidebar option
+2023-06-05 13:02:10,413 [main] INFO logger_file - Department Smart Home Lightning is present
+2023-06-05 13:02:10,454 [main] INFO logger_file - Department Plugs and Outlets is present
+2023-06-05 13:02:13,926 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:02:14,199 [main] INFO logger_file - user clicked on all Department
+2023-06-05 13:02:14,498 [main] INFO logger_file - User clicked on Sports sidebar option
+2023-06-05 13:02:14,520 [main] INFO logger_file - Department Athletic Clothing is present
+2023-06-05 13:02:14,547 [main] INFO logger_file - Department Exercise & Fitness is present
+2023-06-05 13:02:18,008 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:02:18,310 [main] INFO logger_file - user clicked on all Department
+2023-06-05 13:02:22,018 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:02:22,050 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 13:02:22,347 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 13:02:22,459 [main] INFO logger_file - email was sent successfully
+2023-06-05 13:02:22,509 [main] INFO logger_file - password was sent successfully
+2023-06-05 13:02:22,768 [main] INFO logger_file - User clicks on the login button
+2023-06-05 13:02:23,345 [main] INFO logger_file - user logged in into account
+2023-06-05 13:02:23,634 [main] INFO logger_file - User clicks on the Account option
+2023-06-05 13:02:23,826 [main] INFO logger_file - User updates Name: Ubaid and Phone: 5408410419
+2023-06-05 13:02:48,017 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:02:48,050 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 13:02:48,320 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 13:02:48,434 [main] INFO logger_file - email was sent successfully
+2023-06-05 13:02:48,482 [main] INFO logger_file - password was sent successfully
+2023-06-05 13:02:48,733 [main] INFO logger_file - User clicks on the login button
+2023-06-05 13:02:49,310 [main] INFO logger_file - user logged in into account
+2023-06-05 13:02:49,587 [main] INFO logger_file - User clicks on the Account option
+2023-06-05 13:02:49,827 [main] INFO logger_file - User clicks on the Account option
+2023-06-05 13:02:50,083 [main] INFO logger_file - User clicks on 'Add a payment method' link
+2023-06-05 13:02:50,320 [main] INFO logger_file - User fills the card information
+2023-06-05 13:02:50,561 [main] INFO logger_file - User clicks on 'Add your card' button
+2023-06-05 13:02:53,967 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:02:54,004 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 13:02:54,302 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 13:02:54,410 [main] INFO logger_file - email was sent successfully
+2023-06-05 13:02:54,463 [main] INFO logger_file - password was sent successfully
+2023-06-05 13:02:54,736 [main] INFO logger_file - User clicks on the login button
+2023-06-05 13:02:55,305 [main] INFO logger_file - user logged in into account
+2023-06-05 13:02:55,584 [main] INFO logger_file - User clicks on the Account option
+2023-06-05 13:02:55,818 [main] INFO logger_file - User clicks on the Account option
+2023-06-05 13:02:56,323 [main] INFO logger_file - User clicks on Edit option of card section
+2023-06-05 13:02:56,572 [main] INFO logger_file - User edits card information
+2023-06-05 13:02:56,820 [main] INFO logger_file - User clicks on Update Your Card button
+2023-06-05 13:02:56,835 [main] INFO logger_file - Payment Method updated Successfully message is displayed
+2023-06-05 13:03:00,293 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:03:00,325 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 13:03:00,611 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 13:03:00,729 [main] INFO logger_file - email was sent successfully
+2023-06-05 13:03:00,777 [main] INFO logger_file - password was sent successfully
+2023-06-05 13:03:01,029 [main] INFO logger_file - User clicks on the login button
+2023-06-05 13:03:01,594 [main] INFO logger_file - user logged in into account
+2023-06-05 13:03:01,866 [main] INFO logger_file - User clicks on the Account option
+2023-06-05 13:03:02,898 [main] INFO logger_file - User clicks on the remove option of card section
+2023-06-05 13:03:02,924 [main] INFO logger_file - Payment details have been removed
+2023-06-05 13:03:06,339 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:03:06,384 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 13:03:06,655 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 13:03:06,768 [main] INFO logger_file - email was sent successfully
+2023-06-05 13:03:06,816 [main] INFO logger_file - password was sent successfully
+2023-06-05 13:03:07,072 [main] INFO logger_file - User clicks on the login button
+2023-06-05 13:03:07,642 [main] INFO logger_file - user logged in into account
+2023-06-05 13:03:07,914 [main] INFO logger_file - User clicks on the Account option
+2023-06-05 13:03:08,150 [main] INFO logger_file - User clicks on the Account option
+2023-06-05 13:03:08,424 [main] INFO logger_file - User clicks on the Add address option
+2023-06-05 13:03:08,801 [main] INFO logger_file - User fills new address form
+2023-06-05 13:03:09,092 [main] INFO logger_file - User clicks on the Add Your Address button
+2023-06-05 13:03:09,640 [main] INFO logger_file - Address Added Successfully message is displayed
+2023-06-05 13:03:13,009 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:03:13,040 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 13:03:13,313 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 13:03:13,425 [main] INFO logger_file - email was sent successfully
+2023-06-05 13:03:13,464 [main] INFO logger_file - password was sent successfully
+2023-06-05 13:03:13,716 [main] INFO logger_file - User clicks on the login button
+2023-06-05 13:03:14,269 [main] INFO logger_file - user logged in into account
+2023-06-05 13:03:14,547 [main] INFO logger_file - User clicks on the Account option
+2023-06-05 13:03:14,783 [main] INFO logger_file - User clicks on the Account option
+2023-06-05 13:03:15,054 [main] INFO logger_file - User clicks on edit address option
+2023-06-05 13:03:15,443 [main] INFO logger_file - User fills new address form
+2023-06-05 13:03:15,735 [main] INFO logger_file - User clicks on update Your Address button
+2023-06-05 13:03:15,753 [main] INFO logger_file - Address Updated Successfully message is displayed
+2023-06-05 13:03:19,090 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:03:19,122 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 13:03:19,402 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 13:03:19,517 [main] INFO logger_file - email was sent successfully
+2023-06-05 13:03:19,557 [main] INFO logger_file - password was sent successfully
+2023-06-05 13:03:19,811 [main] INFO logger_file - User clicks on the login button
+2023-06-05 13:03:20,387 [main] INFO logger_file - user logged in into account
+2023-06-05 13:03:20,670 [main] INFO logger_file - User clicks on the Account option
+2023-06-05 13:03:20,912 [main] INFO logger_file - User clicks on the Account option
+2023-06-05 13:03:21,168 [main] INFO logger_file - User clicks on the remove option of Address section
+2023-06-05 13:03:21,192 [main] INFO logger_file - Address details are removed
+2023-06-05 13:03:24,517 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:03:24,558 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 13:03:24,829 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 13:03:24,938 [main] INFO logger_file - email was sent successfully
+2023-06-05 13:03:24,980 [main] INFO logger_file - password was sent successfully
+2023-06-05 13:03:25,234 [main] INFO logger_file - User clicks on the login button
+2023-06-05 13:03:25,801 [main] INFO logger_file - user logged in into account
+2023-06-05 13:03:26,080 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-05 13:03:26,138 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-06-05 13:03:26,370 [main] INFO logger_file - User clicks on the Search icon
+2023-06-05 13:03:26,906 [main] INFO logger_file - User successfully click on item
+2023-06-05 13:03:27,212 [main] INFO logger_file - User selects quantity
+2023-06-05 13:03:27,475 [main] INFO logger_file - User clicks on the Add to Cart button
+2023-06-05 13:03:27,477 [main] INFO logger_file - 5was displayed in the cart
+2023-06-05 13:03:31,053 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:03:31,084 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 13:03:31,352 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 13:03:31,469 [main] INFO logger_file - email was sent successfully
+2023-06-05 13:03:31,509 [main] INFO logger_file - password was sent successfully
+2023-06-05 13:03:31,760 [main] INFO logger_file - User clicks on the login button
+2023-06-05 13:03:32,333 [main] INFO logger_file - user logged in into account
+2023-06-05 13:03:32,597 [main] INFO logger_file - User change caegory to allDepartments
+2023-06-05 13:03:32,650 [main] INFO logger_file - Apex Legendsitem name was entered successfully
+2023-06-05 13:03:32,881 [main] INFO logger_file - User clicks on the Search icon
+2023-06-05 13:03:33,380 [main] INFO logger_file - user clicked on item
+2023-06-05 13:03:57,118 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:03:57,152 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 13:03:57,423 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 13:03:57,534 [main] INFO logger_file - email was sent successfully
+2023-06-05 13:03:57,577 [main] INFO logger_file - password was sent successfully
+2023-06-05 13:03:57,821 [main] INFO logger_file - User clicks on the login button
+2023-06-05 13:03:58,377 [main] INFO logger_file - user logged in into account
+2023-06-05 13:03:58,656 [main] INFO logger_file - User clicks on the Orders section
+2023-06-05 13:03:58,892 [main] INFO logger_file - User clicks on the first order in the list
+2023-06-05 13:03:59,163 [main] INFO logger_file - User clicks on the Cancel The Order button
+2023-06-05 13:03:59,695 [main] INFO logger_file - User selects the cancellation reason: Bought wrong item
+2023-06-05 13:03:59,719 [main] INFO logger_file - Cancellation message displayed: Your Order Has Been Cancelled
+Payment refunded to cart ending with ...8768
+Order Summary
+Item total:
+$ 29.98
+Item quantity:
+2
+2023-06-05 13:04:03,173 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:04:03,207 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 13:04:03,480 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 13:04:03,592 [main] INFO logger_file - email was sent successfully
+2023-06-05 13:04:03,634 [main] INFO logger_file - password was sent successfully
+2023-06-05 13:04:03,873 [main] INFO logger_file - User clicks on the login button
+2023-06-05 13:04:04,448 [main] INFO logger_file - user logged in into account
+2023-06-05 13:04:04,751 [main] INFO logger_file - User clicks on the Orders section
+2023-06-05 13:04:04,988 [main] INFO logger_file - User clicks on the first order in the list
+2023-06-05 13:04:28,935 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:04:28,988 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 13:04:29,258 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 13:04:29,364 [main] INFO logger_file - email was sent successfully
+2023-06-05 13:04:29,403 [main] INFO logger_file - password was sent successfully
+2023-06-05 13:04:29,646 [main] INFO logger_file - User clicks on the login button
+2023-06-05 13:04:30,210 [main] INFO logger_file - user logged in into account
+2023-06-05 13:04:30,448 [main] INFO logger_file - User clicks on the Orders section
+2023-06-05 13:04:30,677 [main] INFO logger_file - User clicks on the first order in the list
+2023-06-05 13:04:30,935 [main] INFO logger_file - User clicks on the Review button
+2023-06-05 13:04:31,101 [main] INFO logger_file - User writes Review headline: headline value and Review text: review text
+2023-06-05 13:04:31,341 [main] INFO logger_file - User clicks on the Add your Review button
+2023-06-05 13:04:31,368 [main] INFO logger_file - Your review was added successfully: 
+2023-06-05 13:04:34,827 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:04:34,871 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 13:04:35,143 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 13:04:35,398 [main] INFO logger_file - user clicked on create new account option
+2023-06-05 13:04:35,508 [main] INFO logger_file - Ubaid Samadi user name was entered successfully
+2023-06-05 13:10:27,803 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:10:27,885 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 13:10:28,183 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 13:10:28,482 [main] INFO logger_file - user clicked on create new account option
+2023-06-05 13:10:28,613 [main] INFO logger_file - Ubaid Samadi user name was entered successfully
+2023-06-05 13:12:34,561 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:12:34,624 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 13:12:34,948 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 13:12:35,258 [main] INFO logger_file - user clicked on create new account option
+2023-06-05 13:12:35,402 [main] INFO logger_file - Ubaid Samadi user name was entered successfully
+2023-06-05 13:15:09,432 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:15:09,514 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 13:15:09,808 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 13:15:10,107 [main] INFO logger_file - user clicked on create new account option
+2023-06-05 13:15:10,239 [main] INFO logger_file - Ubaid Samadi user name was entered successfully
+2023-06-05 13:15:10,347 [main] INFO logger_file - ubaid.samadi@tekschool.usemail entered successfully
+2023-06-05 13:16:15,232 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:16:15,292 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 13:16:15,595 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 13:16:15,889 [main] INFO logger_file - user clicked on create new account option
+2023-06-05 13:16:16,017 [main] INFO logger_file - Ubaid Samadi user name was entered successfully
+2023-06-05 13:16:16,116 [main] INFO logger_file - ubaid.samadi@tekschool.usemail entered successfully
+2023-06-05 13:16:16,164 [main] INFO logger_file - password entered successfully
+2023-06-05 13:16:16,210 [main] INFO logger_file - heLcpDAMDpMGD4U! password entered successfully for confirmation
+2023-06-05 13:16:16,463 [main] INFO logger_file - Signup button was clicked succesfully
+2023-06-05 13:16:45,637 [main] INFO logger_file - User is on the retail website
+2023-06-05 13:16:45,719 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-05 13:16:46,019 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-05 13:16:46,319 [main] INFO logger_file - user clicked on create new account option
+2023-06-05 13:16:46,447 [main] INFO logger_file - Ubaid Samadi user name was entered successfully
+2023-06-05 13:16:46,544 [main] INFO logger_file - ubaid.samadi@tekschool.comemail entered successfully
+2023-06-05 13:16:46,591 [main] INFO logger_file - password entered successfully
+2023-06-05 13:16:46,642 [main] INFO logger_file - heLcpDAMDpMGD4U! password entered successfully for confirmation
+2023-06-05 13:16:46,899 [main] INFO logger_file - Signup button was clicked succesfully

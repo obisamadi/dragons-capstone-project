@@ -24,30 +24,6 @@ public class RetailOrderSteps extends CommonUtilities {
 
 	POMFactory factory = new POMFactory();
 
-	//@Given("User is on retail website")
-	//public void userIsOnRetailWebsite() {
-		//String actualTitle = getTitle();
-		//String expectedTitle = "React App";
-		//Assert.assertEquals(actualTitle, expectedTitle);
-		//Assert.assertTrue(isElementDisplayed(factory.homePage().retailLogo));
-		//logger.info("User is on the retail website");
-	//}
-
-	//@When("User click on Sign in option")
-	//public void userClickOnSignInOption() {
-		//click(factory.homePage().signInOption);
-		//logger.info("User clicks on the Sign in option");
-	//}
-
-	//@When("User enter email {string} and password {string}")
-	//public void userEnterEmailAndPassword(String EmailValue, String PasswordValue) {
-		//String EmailValue1 = "ubaid.samadi@tekschool.us";
-		//String PasswordValue1 = "heLcpDAMDpMGD4U!";
-		//sendText(factory.signinPage().emailInputFieldLogin, EmailValue1);
-		//sendText(factory.signinPage().passwordInputFieldLogin, PasswordValue1);
-		//logger.info("user entered email and password");
-	//}
-
 	@When("User click on login button")
 	public void userClickOnLoginButton() {
 		click(factory.signinPage().loginBttn);
@@ -141,17 +117,39 @@ public class RetailOrderSteps extends CommonUtilities {
 		logger.info("User clicks on place your order button");
 
 	}
-
+	
 	@When("User search for an item Apex Legends {string}")
 	public void userSearchForAnItemApexLegends(String apexLegends) {
 		sendText(factory.orderPage().searchInputField, apexLegends);
 	    logger.info(apexLegends + "was entered successfully");
 	}
-	@When("User select Apex Legends quantity {string}")
-	public void userSelectApexLegendsQuantity(String string) {
-		selectByVisibleText(factory.orderPage().productQtyDropdown, string);
-		logger.info(string + "was selected");
+	
+	@Then("User click on item Apex Legends")
+	public void userClickOnItemApexLegends() {
+		click(factory.orderPage().searchBttn);
+		click(factory.orderPage().ApexLegends);
+		logger.info("user clicked on item");
+		
 	}
+
+	
+	@Then("User select quantity")
+	public void userSelectQuantity() {
+		click(factory.orderPage().quantityInput);
+		logger.info("User selects quantity");
+	}
+	@Then("the cart icon quantity should change to {string}")
+	public void theCartIconQuantityShouldChangeTo(String quantity) {
+		//Assert.assertEquals(quantity, factory.orderPage().cartQuantity.getText());
+		logger.info(quantity + "quantity was displayed in the cart");
+		//slowDown();
+	}
+
+	//@Then("User select Apex Legends quantity {string}")
+	//public void userSelectApexLegendsQuantity(String string) {
+		//selectByVisibleText(factory.orderPage().productQtyDropdown, string);
+		//logger.info(string + "was selected");
+	//}
 	@When("User click add cart button")
 	public void userClickAddCartButton() {
 		click(factory.orderPage().addToCartButton);
@@ -279,7 +277,7 @@ public class RetailOrderSteps extends CommonUtilities {
 	@Then("a review message should be displayed ‘Your review was added successfully’")
 	public void aReviewMessageShouldBeDisplayedYourReviewWasAddedSuccessfully() {
 		WebElement actualMessage = factory.orderPage().reviewAdded;
-		String expectedMessage = "Review added successfully";
+		//String expectedMessage = "Review added successfully";
 		logger.info("Your review was added successfully: " + actualMessage.getText());
 	}
 

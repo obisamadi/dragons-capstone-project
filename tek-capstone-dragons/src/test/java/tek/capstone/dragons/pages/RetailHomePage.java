@@ -14,6 +14,19 @@ public class RetailHomePage extends BaseSetup {
 		PageFactory.initElements(getDriver(), this);
 	}
 
+	@FindBy(id = "nameInput")
+	public WebElement nameField;
+	@FindBy(xpath = "//*[@id=\"email\"]")
+	public WebElement emailInput;
+	@FindBy(xpath = "//*[@id=\"password\"]")
+	public WebElement passwordInput;
+	@FindBy(id = "confirmPasswordInput")
+	public WebElement confirmPasswordInput;
+	@FindBy(id = "signupBtn")
+	public WebElement signupBtn;
+	@FindBy(xpath = "//*[@id=\"accountInformation\"]/div[2]/h1")
+	public WebElement yourProfile;
+
 	@FindBy(xpath = "//a[text()='TEKSCHOOL']")
 	public WebElement retailLogo;
 
@@ -54,5 +67,7 @@ public class RetailHomePage extends BaseSetup {
 	public List<WebElement> sideBarElements;
 	@FindBy(xpath = "//div[@class='sidebar_content-item']/span")
 	public List<WebElement> sideBarOptionElements;
+	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div")
+	public WebElement profilepage;
 
 }

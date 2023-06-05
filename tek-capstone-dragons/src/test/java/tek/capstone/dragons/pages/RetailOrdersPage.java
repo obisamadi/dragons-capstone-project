@@ -141,7 +141,7 @@ public class RetailOrdersPage extends BaseSetup {
 	@FindBy(xpath = "//select[@class='product__select']")
 	public WebElement productQtyDropdown;
 	
-	@FindBy(id= "cartQuantity")
+	@FindBy(xpath = "//span[@id='cartQuantity']")
 	public WebElement cartQuantity;
 	
 	@FindBy(xpath = "//*[@id=\"searchInput\"]")
@@ -152,5 +152,8 @@ public class RetailOrdersPage extends BaseSetup {
 	
 	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div/div[1]/div[2]/div/div/div[3]/div/input")
 	public WebElement cartBox;
+	
+	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div/img")
+	public WebElement ApexLegends;
 
 }

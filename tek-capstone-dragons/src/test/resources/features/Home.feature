@@ -1,15 +1,16 @@
 @Regression
 Feature: RetailHomeSteps
+
+ Background: 
+    Given User is on retail website home page
+    
 	#@Home
-  Scenario: Verify user can sign up into Retail Application
-    Given User is on retail website
-    When User click on Sign in option
-    And User click on Create New Account button
-    And User fill the signUp information with below data
-      | name    | email                    | password  | confirmPassword |
-      | student | newStudent@tekschool.us  | Tek@12345 | Tek@12345        |
-    And User click on SignUp button
-    Then User should be logged into account page
+   Scenario: Verify user can sign in into Retail application
+    Then User verify retail website title
+    And User click on sign in option
+    When User enter email 'ubaid.samadi@tekschool.us' and password 'heLcpDAMDpMGD4U!'
+    And User click on login button
+    Then user should be logged into Account
 
     #@Home2
   Scenario: Verify department sidebar options

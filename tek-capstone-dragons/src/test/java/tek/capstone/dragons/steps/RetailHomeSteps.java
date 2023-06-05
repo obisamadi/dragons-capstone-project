@@ -24,58 +24,44 @@ public class RetailHomeSteps extends CommonUtilities {
 
 	POMFactory factory = new POMFactory();
 
-	// @Given("User is on retail website")
-	// public void userIsOnRetailWebsite() {
-	// String actualTitle = getTitle();
-	// String expectedTitle = "React App";
-	// Assert.assertEquals(actualTitle, expectedTitle);
-	// Assert.assertTrue(isElementDisplayed(factory.homePage().retailLogo));
-	// logger.info("User is on the retail website");
-	// }
-	// @When("User click on Sign in option")
-	// public void userClickOnSignInOption() {
-	// click(factory.homePage().signInOption);
-	// logger.info("User clicks on the Sign in option");
-	// }
-
-	// @When("User click on Create New Account button")
-	// public void userClickOnCreateNewAccountButton() {
-	// click(factory.signinPage().newAccountBttn);
-	// logger.info("User clicks on Create New Account button");
-	// }
-
-	// @When("User fill the signUp information with below data")
-	// public void userFillSignUpInformation(DataTable dataTable) {
-	// List<Map<String, String>> signUpData = dataTable.asMaps(String.class,
-	// String.class);
-	// Map<String, String> signUpInfo = signUpData.get(0);
-
-	// WebElement nameInput = factory.signinPage().nameInputField;
-	// WebElement emailInput = factory.signinPage().emailInputField;
-	// WebElement passwordInput = factory.signinPage().passwordInputFieldLogin;
-	// WebElement confirmPasswordInput = factory.signinPage().confirmPassInputField;
-
-	// waitTillPresence(nameInput);
-	// sendText(nameInput, signUpInfo.get("name"));
-	// sendText(emailInput, signUpInfo.get("email"));
-	// sendText(passwordInput, signUpInfo.get("password"));
-	// sendText(confirmPasswordInput, signUpInfo.get("confirmPassword"));
-
-	// logger.info("User fills the signUp information");
-	// }
-
-	// @When("User click on SignUp button")
-	// public void userClickOnSignUpButton() {
-	// click(factory.signinPage().signupBttn);
-	// logger.info("User clicks on SignUp button");
-	// }
-
-	@Then("User should be logged into account page")
-	public void verifyUserLoggedIn() {
-		WebElement accountPageTitle = factory.accountPage().pageTitle;
+	@Then("User verify retail website title")
+	public void userVerifyRetailWebsiteTitle() {
+		WebElement accountPageTitle = factory.homePage().retailLogo;
 		waitTillPresence(accountPageTitle);
-		Assert.assertEquals(accountPageTitle.getText(), "Your Profile");
+		Assert.assertEquals(accountPageTitle.getText(), "TEKSCHOOL");
 		logger.info("User is verified to be logged into account page");
+	}
+
+	@Given("User is on retail website home page")
+	public void userIsOnRetailWebsiteHomePage() {
+		String expectedTitle = getTitle();
+		String actualTitle = "React App";
+		Assert.assertEquals(actualTitle, expectedTitle);
+		Assert.assertTrue(isElementDisplayed(factory.homePage().retailLogo));
+		logger.info("User is on the retail website");
+	}
+
+	@When("User enter email {string} and password {string}")
+	public void userEnterEmailAndPassword(String email, String password) {
+		sendText(factory.homePage().emailInput, email);
+		logger.info("email was sent successfully");
+		sendText(factory.homePage().passwordInput, password);
+		logger.info("password was sent successfully");
+	}
+
+	@Then("User click on sign in option")
+	public void userClickOnSignInOption() {
+		click(factory.homePage().signInOption);
+		logger.info("User clicked on signin button successfully");
+	}
+
+	@Then("user should be logged into Account")
+	public void userShouldBeLoggedIntoAccount() {
+		waitTillPresence(factory.homePage().accountOption);
+		Assert.assertTrue(isElementDisplayed(factory.homePage().accountOption));
+		Assert.assertTrue(isElementDisplayed(factory.homePage().ordersOption));
+		Assert.assertTrue(isElementDisplayed(factory.homePage().logOutOption));
+		logger.info("user logged in into account");
 	}
 
 	@When("User click on All section")

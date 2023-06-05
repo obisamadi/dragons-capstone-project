@@ -19,45 +19,6 @@ import tek.capstone.dragons.utilities.CommonUtilities;
 public class RetailAccountSteps extends CommonUtilities {
 	POMFactory factory = new POMFactory();
 
-	// @Given("User is on retail website")
-	// public void userIsOnRetailWebsite() {
-	// String actualTitle = getTitle();
-	// String expectedTitle = "React App";
-	// Assert.assertEquals(actualTitle, expectedTitle);
-	// Assert.assertTrue(isElementDisplayed(factory.homePage().retailLogo));
-	// logger.info("User is on the retail website");
-	// }
-
-	// @When("User click on Sign in option")
-	// public void userClickOnSignInOption() {
-	// click(factory.homePage().signInOption);
-	// logger.info("User clicks on the Sign in option");
-	// }
-
-	@When("User enter email {string} and password {string}")
-	public void userEnterEmailAndPassword(String string, String string2) {
-		WebElement emailInput = factory.signinPage().emailInputFieldLogin;
-		WebElement passwordInput = factory.signinPage().passwordInputFieldLogin;
-
-		sendText(emailInput, "ubaid.samadi@tekschool.us");
-		sendText(passwordInput, "heLcpDAMDpMGD4U!");
-		logger.info("User enters email: " + emailInput + " and password" + passwordInput);
-	}
-
-	//@When("User click on login button")
-	//public void userClickOnLoginButton() {
-		//click(factory.signinPage().loginBttn);
-		//logger.info("User clicks on the login button");
-	//}
-
-	//@When("User should be logged in into Account")
-	//public void userShouldBeLoggedInIntoAccount() {
-		//waitTillPresence(factory.homePage().accountOption);
-		// slowDown();
-		//Assert.assertTrue(isElementDisplayed(factory.homePage().accountOption));
-		//logger.info("User is logged in into the Account");
-	//}
-
 	@When("User click on Account option")
 	public void userClickOnAccountOption() {
 		click(factory.homePage().accountOption);

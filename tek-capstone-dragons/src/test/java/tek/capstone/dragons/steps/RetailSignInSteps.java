@@ -16,79 +16,41 @@ import io.cucumber.java.en.And;
 public class RetailSignInSteps extends CommonUtilities {
 	POMFactory factory = new POMFactory();
 
-	@Given("User is on retail website")
-	public void userIsOnRetailWebsite() {
-
-		String actualTitle = getTitle();
-		String expectedTitle = "React App";
-		Assert.assertEquals(actualTitle, expectedTitle);
-		Assert.assertTrue(isElementDisplayed(factory.homePage().retailLogo));
-		logger.info("user is on retail website");
-	}
-
-	@When("User click on Sign in option")
+	@Then("User click on Sign in option")
 	public void userClickOnSignInOption() {
 		click(factory.homePage().signInOption);
 		logger.info("user cliked on Sign In option");
 
 	}
 
-	@When("User click on Create New Account button")
+	@Then("User click on create new account button")
 	public void userClickOnCreateNewAccountButton() {
-	    click(factory.homePage().newccountOption);
-	    logger.info("user clicked on create new account option");
+		click(factory.homePage().newccountOption);
+		logger.info("user clicked on create new account option");
 	}
 
-	@When("User fill the signUp information with below data")
-	public void userFillTheSignUpInformationWithBelowData(io.cucumber.datatable.DataTable dataTable) {
-		List<Map<String, String>> data = dataTable.asMaps(String.class, String.class);
-	    String name = data.get(0).get("name");
-	    String email = data.get(0).get("email");
-	    String password = data.get(0).get("password");
-	    String confirmPassword = data.get(0).get("confirmPassword");
-
-	    WebElement nameInput = factory.signinPage().getNameInput;
-	    WebElement emailInput = factory.signinPage().getEmailInput;
-	    WebElement passwordInput = factory.signinPage().getPasswordInput;
-	    WebElement confirmPasswordInput = factory.signinPage().getConfirmPasswordInput;
-
-	    nameInput.sendKeys(name);
-	    emailInput.sendKeys(email);
-	    passwordInput.sendKeys(password);
-	    confirmPasswordInput.sendKeys(confirmPassword);
-
-	    logger.info("User fills the sign-up information");
-	   
+	@Then("User enter {string} and {string} and {string} and {string}")
+	public void userEnterAndAndAnd(String name, String email, String password, String confirmpassword) {
+		sendText(factory.signinPage().nameInputField, name);
+		logger.info(name + " user name was entered successfully");
+		sendText(factory.signinPage().emailInputField, email);
+		logger.info(email + "email entered successfully");
+		sendText(factory.signinPage().passwordInputFieldLogin, password);
+		logger.info("password entered successfully");
+		sendText(factory.signinPage().getConfirmPasswordInput, confirmpassword);
+		logger.info(confirmpassword + " password entered successfully for confirmation");
 	}
-	@When("User click on SignUp button")
-	public void userClickOnSignUpButton() {
-		WebElement signUpButton = factory.signinPage().getSignUpButton;
-	    signUpButton.click();
 
-	    logger.info("User clicks on SignUp button");
+	@Then("User click on signup button")
+	public void userClickOnSignupButton() {
+		click(factory.homePage().signupBtn);
+		logger.info("Signup button was clicked succesfully");
 	}
-	
 
-	//@When("User enter email {string} and password {string}")
-	//public void userEnterEmailAndPassword(String emailValue, String passWordValue) {
-		//sendText(factory.signinPage().emailInputField, emailValue);
-		//sendText(factory.signinPage().passInputField, passWordValue);
-		//logger.info("user entered email and password");
-	//}
+	@Then("User see his profile page")
+	public void userSeeHisProfilePage() {
+		slowDown();
+		Assert.assertTrue(factory.homePage().profilepage.isDisplayed());
+	}
 
-	//@When("User click on login button")
-	//public void userClickOnLoginButton() {
-		//click(factory.signinPage().loginBttn);
-		//logger.info("user clicked on login button");
-	//}
-
-	//@Then("User should be logged in into Account")
-	//public void userShouldBeLoggedInIntoAccount() {
-		//waitTillPresence(factory.homePage().accountOption);
-		//Assert.assertTrue(isElementDisplayed(factory.homePage().accountOption));
-		//Assert.assertTrue(isElementDisplayed(factory.homePage().ordersOption));
-		//Assert.assertTrue(isElementDisplayed(factory.homePage().logOutOption));
-		//logger.info("user logged in into account");
-
-	//}
 }
