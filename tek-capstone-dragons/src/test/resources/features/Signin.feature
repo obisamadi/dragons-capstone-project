@@ -13,4 +13,4 @@ Feature: Retail SignIn Page
 
     Examples: 
       | name         | email                  | password         | confirmpassword  |
-      | Ubaid Samadi | ubaid.samadi@gmail.af | heLcpDAMDpMGD4U! | heLcpDAMDpMGD4U! |
+      | Ubaid Samadi | ubaid.samadi@kabul.af | heLcpDAMDpMGD4U! | heLcpDAMDpMGD4U! |
