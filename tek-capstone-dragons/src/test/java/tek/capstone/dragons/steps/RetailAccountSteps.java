@@ -48,8 +48,6 @@ public class RetailAccountSteps extends CommonUtilities {
 	public void userProfileInformationShouldBeUpdated() {
 		WebElement successMessage = factory.accountPage().successMessage;
 		Assert.assertTrue(isElementDisplayed(successMessage));
-		// Assert.assertEquals(successMessage.getText(), "Profile information updated
-		// successfully");
 		logger.info("User profile information is updated");
 	}
 
@@ -87,15 +85,6 @@ public class RetailAccountSteps extends CommonUtilities {
 		click(factory.accountPage().addCardButton);
 		logger.info("User clicks on 'Add your card' button");
 	}
-
-	//@Then("a message should be displayed 'Payment Method added successfully'")
-	//public void paymentMethodAddedSuccessfully() {
-		//WebElement successMessage = factory.accountPage().successMessage;
-		//Assert.assertTrue(isElementDisplayed(successMessage));
-		// Assert.assertEquals(successMessage.getText(), "Payment Method added
-		// successfully");
-		//logger.info("Payment Method added successfully message is displayed");
-	//}
 
 	@When("User click on remove option of card section")
 	public void userClickOnRemoveOptionOfCardSection() {
@@ -211,8 +200,6 @@ public class RetailAccountSteps extends CommonUtilities {
 	public void aMessageShouldBeDisplayedPaymentMethodUpdatedSuccessfully() {
 		WebElement successMessage = factory.accountPage().successMessage;
 		waitTillPresence(successMessage);
-		// Assert.assertEquals(successMessage.getText(), "Payment Method updated
-		// Successfully");
 		logger.info("Payment Method updated Successfully message is displayed");
 	}
 
@@ -241,7 +228,6 @@ public class RetailAccountSteps extends CommonUtilities {
 	public void aMessageShouldBeDisplayedAddressUpdatedSuccessfully() {
 		WebElement successMessage = factory.accountPage().successMessage;
 		waitTillPresence(successMessage);
-		//Assert.assertEquals(successMessage.getText(), "Address Updated Successfully");
 		logger.info("Address Updated Successfully message is displayed");
 	}
 

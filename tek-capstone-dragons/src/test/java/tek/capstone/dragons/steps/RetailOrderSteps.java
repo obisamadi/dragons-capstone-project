@@ -52,7 +52,6 @@ public class RetailOrderSteps extends CommonUtilities {
 	@When("User search for an item {string}")
 	public void userSearchForAnItem(String kasaOutdoorSmartPlug) {
 		WebElement searchInput = factory.orderPage().searchIcon;
-		// waitTillPresence(searchInput);
 		sendText(factory.orderPage().searchIcon, kasaOutdoorSmartPlug);
 		logger.info(kasaOutdoorSmartPlug + "item name was entered successfully");
 	}
@@ -111,9 +110,6 @@ public class RetailOrderSteps extends CommonUtilities {
 
 	@Then("User click on Place Your Order")
 	public void userClickOnPlaceYourOrder() {
-		// WebElement getPlaceYourOrderButton =
-		// factory.orderPage().getPlaceYourOrderButton;
-		// waitTillPresence(getPlaceYourOrderButton);
 		click(factory.orderPage().getPlaceYourOrderButton);
 		logger.info("User clicks on place your order button");
 
@@ -146,11 +142,6 @@ public class RetailOrderSteps extends CommonUtilities {
 		// slowDown();
 	}
 
-	// @Then("User select Apex Legends quantity {string}")
-	// public void userSelectApexLegendsQuantity(String string) {
-	// selectByVisibleText(factory.orderPage().productQtyDropdown, string);
-	// logger.info(string + "was selected");
-	// }
 	@When("User click add cart button")
 	public void userClickAddCartButton() {
 		click(factory.orderPage().addToCartButton);
@@ -185,7 +176,6 @@ public class RetailOrderSteps extends CommonUtilities {
 
 	@When("User click on first order in list")
 	public void userClickOnFirstOrderInList() {
-		// Write code here that turns the phrase above into concrete actions
 		click(factory.orderPage().firstOrderItem);
 		logger.info("User clicks on the first order in the list");
 	}
@@ -203,7 +193,6 @@ public class RetailOrderSteps extends CommonUtilities {
 		WebElement cancelreasondropdown = factory.orderPage().cancelationReasonDropDown;
 		selectByVisibleText(cancelreasondropdown, "Bought wrong item");
 		click(factory.orderPage().SecondCancelOrderButton);
-		// scrollIntoViewAndClick(boughtWrongItemOptionLocator);
 		logger.info("User selects the cancellation reason: Bought wrong item");
 	}
 
@@ -211,7 +200,6 @@ public class RetailOrderSteps extends CommonUtilities {
 	public void aCancelationMessageShouldBeDisplayedYourOrderHasBeenCancelled() {
 		WebElement actualMessage = factory.orderPage().yourOrderHasBeenCancelledMessage;
 		String expectedMessage = "Your Order Has Been Cancelled";
-		// Assert.assertEquals(expectedMessage, actualMessage.getText());
 		logger.info("Cancellation message displayed: " + actualMessage.getText());
 	}
 
