@@ -1,10 +1,10 @@
-@Regression
+#@Regression
 Feature: RetailHomeSteps
 
  Background: 
     Given User is on retail website home page
     
-	#@Home
+	@Home
    Scenario: Verify user can sign in into Retail application
     Then User verify retail website title
     And User click on sign in option
@@ -12,7 +12,7 @@ Feature: RetailHomeSteps
     And User click on login button
     Then user should be logged into Account
 
-    #@Home2
+    @Home2
   Scenario: Verify department sidebar options
     When User click on All section
     And User on '<department>'

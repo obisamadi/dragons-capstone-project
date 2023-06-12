@@ -107,8 +107,6 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div[3]/div[1]/div[1]/div/p")
 	public WebElement addAddressButton;  
 	
-	//@FindBy(xpath = "//*[@id=\"cardNumberInput\"]")
-	//public WebElement cardDetails;
 	
 	
 

@@ -48,7 +48,6 @@ public class RetailHomePage extends BaseSetup {
 	@FindBy(xpath = "//*[@id=\"newAccountBtn\"]")
 	public WebElement newccountOption;
 
-	// Part 2
 
 	@FindBy(xpath = "//span[text()='All']")
 	public WebElement allDepartment;
