@@ -5281,3 +5281,10 @@ Item quantity:
 2023-06-05 18:15:35,339 [main] INFO logger_file - password entered successfully
 2023-06-05 18:15:35,376 [main] INFO logger_file - heLcpDAMDpMGD4U! password entered successfully for confirmation
 2023-06-05 18:15:35,612 [main] INFO logger_file - Signup button was clicked succesfully
+2023-06-12 18:19:59,500 [main] INFO logger_file - User is on the retail website
+2023-06-12 18:19:59,572 [main] INFO logger_file - User is verified to be logged into account page
+2023-06-12 18:19:59,934 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-12 18:20:00,108 [main] INFO logger_file - email was sent successfully
+2023-06-12 18:20:00,175 [main] INFO logger_file - password was sent successfully
+2023-06-12 18:20:00,474 [main] INFO logger_file - User clicks on the login button
+2023-06-12 18:20:01,077 [main] INFO logger_file - user logged in into account
